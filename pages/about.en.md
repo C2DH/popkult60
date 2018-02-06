@@ -1,3 +1,8 @@
+---
+permalink: /about/english
+language: en
+---
+
 About
 
 **texte 1**
