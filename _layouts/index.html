@@ -14,7 +14,7 @@ layout: default
       <img src="{{'/assets/images/popkult60-logo.png' | relative_url}}">
     </div>
     <div style='position:absolute; top: 60px; left: 20px;font-size:2.5em;z-index:4'>
-    <span style='background-color: white;'>
+    <span style='background-color: white;' id='fillme'>
       {% for sentence in page.sentences %}
         {{sentence}}<br/>
       {% endfor %}
@@ -30,3 +30,39 @@ layout: default
 <div class='page'>
   project presentation
 </div>
+
+<script>
+  var sentences = [
+    {% for sentence in page.sentences %}
+    " ∙ {{sentence}}",
+    {% endfor %}  
+  ],
+  el = document.getElementById('fillme');
+
+  console.log(sentences)
+
+  // modify slightly each sentence
+  function tick(){
+    var _sentences = sentences.concat([]);
+
+    for (var i = 0, l = sentences.length; i < l; i++) {
+
+      var previous = i == 0? sentences[l - 1]: sentences[i - 1];
+      _sentences[i] = previous[previous.length-1] + sentences[i].substring(0, sentences[i].length - 1);
+
+      //var previous = i == 0? sentences[l - 1]: sentences[i - 1];
+      //_sentences[i] =  sentences[i].substring(1, sentences[i].length - 1) + previous[0];
+      //console.log(i, previous, sentences[i], _sentences[i])
+      
+    }
+
+    sentences = _sentences;
+    console.log(sentences);
+
+    el.innerHTML = sentences.join('<br/>');
+    setTimeout(tick, Math.random()*100 + 50);
+  }
+
+  tick();
+
+</script>

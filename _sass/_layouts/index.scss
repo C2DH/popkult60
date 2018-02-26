@@ -52,7 +52,7 @@ body.index{
     right: $moire-expand;
     bottom:$moire-expand;
 
-    background: repeating-linear-gradient(0deg, $cadmio 0px, $cadmio 2px, rgba(0,0,0,0) 2px, rgba(0,0,0,0) 11px);
+    background: repeating-linear-gradient(0deg, $cadmio 0px, $cadmio 2px, rgba(0,0,0,0) 2px, rgba(0,0,0,0) 8px);
     
   }
 
@@ -74,7 +74,7 @@ body.index{
 #opt-b{
   transform: rotate(1deg);
   z-index: 2;
-  background: repeating-linear-gradient(0deg, $blue 0px, $blue 2px, rgba(0,0,0,0) 2px, rgba(0,0,0,0) 11px);
+  background: repeating-linear-gradient(0deg, $blue 0px, $blue 2px, rgba(0,0,0,0) 2px, rgba(0,0,0,0) 8px);
     
 }
 
