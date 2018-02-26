@@ -1,3 +1,12 @@
+---
+permalink: /people/
+link: /people/
+layout: page
+title: Popkult60
+lang: en
+---
+
+
 Professeurs
 		
 Andreas Fickers

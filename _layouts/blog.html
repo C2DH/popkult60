@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<div class='page'>
+  <div class='container'>
+    <h1 class='title'>Blog</h1>
+
+    <blockquote class="abstract">{{page.excerpt}}</blockquote>
+
+    {% for post in site.posts %}
+    <article>
+      <div class='date'>{{post.date}}</div>
+      <h2><a href='{{post.url | relative_url}}'> {{post.title}}</a></h2>
+      <blockquote>{{post.excerpt}}</blockquote>
+    </article>
+    {% endfor %}
+  </div>
+</div>

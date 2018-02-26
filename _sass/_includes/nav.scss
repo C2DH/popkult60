@@ -1,0 +1,20 @@
+#nav-menu{
+  background-color: $white;
+
+  .nav-item{
+    a > span{
+      color: $dark-grey;
+    }
+    &.active a > span{
+      color: $cadmio;
+      background: $white;
+    }
+  }
+
+  .nav.languages{
+    border-left: 1px solid;
+    padding-left: 10px;
+    margin-left: 10px;
+  }
+}
+

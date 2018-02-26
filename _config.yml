@@ -1,1 +1,4 @@
 theme: jekyll-theme-minimal
+default_lang: en
+languages: ['en', 'fr','de']
+excerpt_separator: <!-- more -->

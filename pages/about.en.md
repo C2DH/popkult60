@@ -1,6 +1,9 @@
 ---
-permalink: /about/english
-language: en
+permalink: /about/
+link: /about/
+layout: page
+title: about Popkult60
+lang: en
 ---
 
 About

@@ -1,0 +1,13 @@
+primary:
+  links:
+    - title: popkult60
+      href: /
+    - title: about
+      href: /about/
+    - title: fields
+      href: /fields/
+    - title: blog
+      href: /blog/
+    - title: people
+      href: /people/
+

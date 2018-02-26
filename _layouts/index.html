@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+
+
+<div class='page'>
+  <div class='opt-wrapper'>
+    <div class='opt' id='opt-a'>
+    </div>
+    <div class='opt' id='opt-b'>
+    </div>
+    <div id='popkult-logo'>
+      <img src="{{'/assets/images/popkult60-logo.png' | relative_url}}">
+    </div>
+    <div style='position:absolute; top: 60px; left: 20px;font-size:2.5em;z-index:4'>
+    <span style='background-color: white;'>
+      {% for sentence in page.sentences %}
+        {{sentence}}<br/>
+      {% endfor %}
+    </span>
+    
+  </div>
+  </div>
+  
+  <div class='container'>
+  </div>
+</div>
+
+<div class='page'>
+  project presentation
+</div>

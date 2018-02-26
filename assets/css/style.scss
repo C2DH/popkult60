@@ -1,0 +1,29 @@
+---
+---
+$white: #ffffff;
+$silver: #F3F7FA;
+$yellow: #F5CF35;
+$blue: #738BDB;
+$cadmio: #EB4C15;
+$dark-grey: #565656;
+
+html, body{
+  height: 100%;
+}
+body{
+  background-color: $silver;
+  color: $dark-grey;
+  font-family: Poppins, sans-serif;
+  font-size: 13px;
+}
+
+a{
+  color: $dark-grey;
+}
+
+.fit-height{
+  min-height: 100%;
+}
+
+@import "_layouts/page", "_layouts/index", "_layouts/fields";
+@import "_includes/nav";

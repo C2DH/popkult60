@@ -1,0 +1,93 @@
+
+$moire-rotation: 4deg;
+$moire-expand: -100px;
+
+@-webkit-keyframes moire {
+  0% {
+    -webkit-transform: rotate(0);
+  }
+  50% {
+    -webkit-transform: rotate($moire-rotation);
+  }
+  100% {
+    -webkit-transform: rotate(0);
+  }
+}
+
+@keyframes moire {
+  0% {
+    transform: rotate(0);
+  }
+  50% {
+    transform: rotate($moire-rotation);
+  }
+  100% {
+    transform: rotate(0);
+  }
+}
+
+body.index{
+
+  .page{
+    min-height: 90%;
+
+    &.no-padding{
+      min-height: auto;
+    }
+  }
+
+  .opt-wrapper{
+    position: absolute;
+    left:0;
+    top:0;
+    right: 0;
+    bottom:0;
+    overflow: hidden;
+  }
+
+  .opt{
+    position:absolute;
+    left: $moire-expand;
+    top: $moire-expand;
+    right: $moire-expand;
+    bottom:$moire-expand;
+
+    background: repeating-linear-gradient(0deg, $cadmio 0px, $cadmio 2px, rgba(0,0,0,0) 2px, rgba(0,0,0,0) 11px);
+    
+  }
+
+  
+}
+
+#popkult-logo{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-left: -200px;
+  margin-top: -48px;
+  background: $silver;
+  z-index: 5;
+  // border: 2px solid $dark-grey;
+
+}
+
+#opt-b{
+  transform: rotate(1deg);
+  z-index: 2;
+  background: repeating-linear-gradient(0deg, $blue 0px, $blue 2px, rgba(0,0,0,0) 2px, rgba(0,0,0,0) 11px);
+    
+}
+
+#opt-a{
+  z-index: 1;
+  transform: rotate($moire-rotation);
+  -webkit-animation-name: moire;
+  -webkit-animation-duration: 11s;
+  -webkit-animation-timing-function: ease-in-out;
+  -webkit-animation-iteration-count: infinite;
+
+  animation-name: moire;
+  animation-duration: 11s;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+} 

@@ -1,0 +1,53 @@
+div.field{
+  min-height: 200px;
+  
+  .cover{
+    height: 200px;
+    background: $white;
+    position: relative;
+    overflow: hidden;
+    margin: 10px;
+  }
+
+  .opt{
+    position:absolute;
+    left: $moire-expand;
+    top: $moire-expand;
+    right: $moire-expand;
+    bottom:$moire-expand;
+
+    background: repeating-linear-gradient(0deg, $cadmio 0px, $cadmio 1px, rgba(0,0,0,0) 1px, rgba(0,0,0,0) 5px);
+    
+    
+
+    &.odd{
+      transform: rotate(2deg);
+      background: repeating-linear-gradient(0deg, $blue 0px, $blue 1px, rgba(0,0,0,0) 1px, rgba(0,0,0,0) 5px);
+    }
+  }
+
+  h2{
+    font-size: 1em;
+  }
+
+  .metadata{
+    padding: 0 10px;
+  }
+}
+
+
+
+body.fields div.page{
+  padding-top: 50px;
+
+  .inner{
+    padding-left: 25px;
+    padding-right: 25px;
+  }
+}
+
+@media (min-width: 992px){
+  div.field .cover {
+    height: 300px;
+  }
+}

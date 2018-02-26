@@ -1,3 +1,11 @@
+---
+permalink: /fr/people/
+link: /people/
+layout: page
+title: Popkult60
+lang: fr
+---
+
 Professeurs
 
 Université du Luxembourg
