@@ -29,7 +29,7 @@ $moire-expand: -100px;
 body.index{
 
   .page{
-    min-height: 90%;
+    min-height: 100%;
 
     &.no-padding{
       min-height: auto;
@@ -62,13 +62,15 @@ body.index{
 #popkult-logo{
   position: absolute;
   top: 50%;
-  left: 50%;
-  margin-left: -200px;
+  left: 25%;
+  right: 25%;
   margin-top: -48px;
-  background: $silver;
+  // background: $silver;
   z-index: 5;
   // border: 2px solid $dark-grey;
-
+  > img {
+    width: 100%;
+  }
 }
 
 #opt-b{

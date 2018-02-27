@@ -14,7 +14,7 @@ layout: default
       <img src="{{'/assets/images/popkult60-logo.png' | relative_url}}">
     </div>
     <div style='position:absolute; top: 60px; left: 20px;font-size:2.5em;z-index:4'>
-    <span style='background-color: white;' id='fillme'>
+    <span style='background-color: rgba(255,255,255,.7);' id='fillme'>
       {% for sentence in page.sentences %}
         {{sentence}}<br/>
       {% endfor %}
@@ -57,10 +57,10 @@ layout: default
     }
 
     sentences = _sentences;
-    console.log(sentences);
+    // console.log(sentences);
 
     el.innerHTML = sentences.join('<br/>');
-    setTimeout(tick, Math.random()*100 + 50);
+    setTimeout(tick, Math.random()*50 + 50);
   }
 
   tick();
