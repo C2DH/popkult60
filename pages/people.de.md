@@ -49,11 +49,11 @@ FR 4.2 Romanistik / Interkulturelle Kommunikation
 Universität des Saarlandes
 c.vatter@mx.uni-saarland.de
      
-PhDs
+Doktoranden
   
 Richard Legay
 
-PhD Candidate
+Doktorand in Zeitgenössische Geschichte
 Luxembourg Center for Contemporary and Digital History (C²DH)
 Université du Luxembourg
 richard.legay@uni.lu
