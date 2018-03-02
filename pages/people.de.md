@@ -5,7 +5,7 @@ layout: page
 title: Popkult60
 lang: de
 ---
-Professeurs
+Professors
 		
 Andreas Fickers
 			
