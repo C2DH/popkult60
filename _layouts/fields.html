@@ -5,7 +5,7 @@ layout: default
 
 <div class='page'>
   <div class='fluid-container'>
-    
+
       <div class='row no-gutters' >
         {% assign fields = site.pages | where: "layout", "field" | lang: "en" %}
 
@@ -18,15 +18,15 @@ layout: default
         {% assign randomNumber = "now" | date: "%N" | modulo: diff | plus: min %}
         <div class='col-sm-3'>
           <div class='field'>
-            
+
             <div class='cover'>
               <div class='opt'></div>
               <div class='opt odd' style='transform: rotate( {{ randomNumber }}deg)'></div>
             </div>
-            
+
             <div class='metadata'>
               <h2><a href='{{field.permalink | relative_url}}'>{{field.title}}</a></h2>
-              {% assign parts = page.content | split: site.excerpt_separator %}
+              {% assign parts = field.content | split: site.excerpt_separator %}
               <div>{{parts | first }}</div>
             </div>
           </div>
