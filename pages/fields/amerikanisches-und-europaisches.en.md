@@ -1,8 +1,8 @@
 ---
-permalink: /field/mainstream-und-avantgarde/
-link: /field/mainstream-und-avantgarde/
+permalink: /field/amerikanisches-und-europaisches/
+link: /field/amerikanisches-und-europaisches/
 layout: field
-title: mainstream-und-avantgarde.en
+title: Amerikanisches und Europaïsches
 lang: en
 ---
 
