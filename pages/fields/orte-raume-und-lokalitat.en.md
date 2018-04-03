@@ -2,7 +2,7 @@
 permalink: /field/orte-raume-und-lokalitat/
 link: /field/orte-raume-und-lokalitat/
 layout: field
-title: orte-raume-und-lokalitat
+title: Orte, Raume und Lokalität
 lang: en
 ---
 
