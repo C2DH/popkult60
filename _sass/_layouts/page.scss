@@ -1,6 +1,30 @@
 div.page{
   position: relative;
-  padding: 200px 0;
+  padding: 100px 0;
+  background-color: $white;
+  // border-left: 30px solid #f1f43F;
+
+  h1 span{
+    background: $dark-grey;
+    font-size: 61px;
+    line-height: 87px;
+
+    padding: 0;
+
+    color: $white;
+  }
+  blockquote.abstract {
+    p {
+      font-size: 1.7em;
+    }
+
+
+  }
+
+  .contents p{
+    font-size: 1.5em;
+    color: $dark-grey;
+  }
 }
 
 @media (min-width: 768px){

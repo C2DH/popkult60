@@ -2,15 +2,18 @@
 layout: default
 ---
 
+
 <div class='page'>
   <div class='container'>
-    <h1 class='title'>{{page.title}}</h1>
+    <h1 class='title'><span>{{page.title}}</span></h1>
     <h2 class='subheading'>{{page.subheading}}</h2>
 
-    <blockquote class="abstract">{{page.excerpt}}</blockquote>
+    {% assign contents = page.content | split: site.excerpt_separator %}
+
+    <blockquote class="abstract">{{ contents | first | markdownify }}</blockquote>
 
     <section class="contents">
-      {{page.content | markdownify }}
+      {{ contents | last | markdownify }}
     </section>
   </div>
 </div>

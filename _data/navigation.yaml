@@ -1,6 +1,6 @@
 primary:
   links:
-    - title: popkult60
+    - title: index
       href: /
     - title: about
       href: /about/
@@ -10,4 +10,3 @@ primary:
       href: /blog/
     - title: people
       href: /people/
-

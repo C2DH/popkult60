@@ -13,16 +13,16 @@ layout: default
     <div id='popkult-logo'>
       <img src="{{'/assets/images/popkult60-logo.png' | relative_url}}">
     </div>
-    <div style='position:absolute; top: 60px; left: 20px;font-size:2.5em;z-index:4'>
-    <span style='background-color: rgba(255,255,255,.7);' id='fillme'>
+    <div id='fillme-wrapper'>
+    <span id='fillme'>
       {% for sentence in page.sentences %}
         {{sentence}}<br/>
       {% endfor %}
     </span>
-    
+
   </div>
   </div>
-  
+
   <div class='container'>
   </div>
 </div>
@@ -35,7 +35,7 @@ layout: default
   var sentences = [
     {% for sentence in page.sentences %}
     " ∙ {{sentence}}",
-    {% endfor %}  
+    {% endfor %}
   ],
   el = document.getElementById('fillme');
 
@@ -53,7 +53,7 @@ layout: default
       //var previous = i == 0? sentences[l - 1]: sentences[i - 1];
       //_sentences[i] =  sentences[i].substring(1, sentences[i].length - 1) + previous[0];
       //console.log(i, previous, sentences[i], _sentences[i])
-      
+
     }
 
     sentences = _sentences;

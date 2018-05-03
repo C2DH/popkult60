@@ -2,12 +2,14 @@
 layout: post
 title:  "First post"
 category: event
+activelink: /blog/
 date: 2018-03-26
 figure:
   - src: posts/coronet1953february2a.jpg
     caption: Example of a look into the future with a tangible interface
   - src: posts/coronet1953february2a.jpg
     caption: Example of a look into the future with a tangible interface
+
 ---
 
 **First post**

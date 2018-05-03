@@ -1,6 +1,7 @@
 ---
 permalink: /field/amerikanisches-und-europaisches/
 link: /field/amerikanisches-und-europaisches/
+activelink: /fields/
 layout: field
 title: Amerikanisches und Europaïsches
 lang: en

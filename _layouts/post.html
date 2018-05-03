@@ -1,18 +1,3 @@
 ---
-layout: default
+layout: page
 ---
-
-<div class='page'>
-  <div class='container'>
-    <h1 class='title'>{{page.title}}</h1>
-    <h2 class='subheading'>{{page.subheading}}</h2>
-
-    {% assign parts = page.content | split: site.excerpt_separator %}
-
-    <blockquote class="abstract">{{ parts | first }}</blockquote>
-
-    <section class="contents">
-      {{page.content | markdownify }}
-    </section>
-  </div>
-</div>

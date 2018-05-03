@@ -1,6 +1,10 @@
+body.field{
+  background-color: #fa5fa9;
+}
+
 div.field{
   min-height: 200px;
-  
+
   .cover{
     height: 200px;
     background: $white;
@@ -17,8 +21,8 @@ div.field{
     bottom:$moire-expand;
 
     background: repeating-linear-gradient(0deg, $cadmio 0px, $cadmio 1px, rgba(0,0,0,0) 1px, rgba(0,0,0,0) 5px);
-    
-    
+
+
 
     &.odd{
       transform: rotate(2deg);
