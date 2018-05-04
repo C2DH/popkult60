@@ -6,7 +6,5 @@ title: Fields
 lang: fr
 ---
 
-What a field is. FR
+Popkult60 est un project qui s'appuie sur 8 concepts de recherche centraux, ou "champs", qui sont la colonne vertébrale du cadre intellectuel autour du projet.
 <!-- more -->
-
-More? Blablabla
