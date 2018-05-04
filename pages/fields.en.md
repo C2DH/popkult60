@@ -6,7 +6,5 @@ title: Fields
 lang: en
 ---
 
-What a field is.
+Popkult60 is a  project relying on 8 core research areas, or "fields", that are the backbone of the intellectual framework behind the project.
 <!-- more -->
-
-More? Blablabla
