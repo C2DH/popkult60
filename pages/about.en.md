@@ -21,4 +21,4 @@ the University of Luxembourg (Uni.Lu)
 the Luxembourg Centre for Contemporary and Digital History (C²DH)
 the Institute for History (IHIST)
 the University of Saarland 
-the Institut for History
+the Institute for History
