@@ -6,9 +6,7 @@ title: about Popkult60
 lang: en
 ---
 
-Popkult60: A closer look at popular culture in Europe over the long decade of the 1960s
-
-<!-- more -->
+**Popkult60: A closer look at popular culture in Europe over the long decade of the 1960s
 
 We are an interdisciplinary research group focusing on the transnational history of popular culture in the 60s, composed of members from the Luxembourg Centre for Contemporary and Digital History (C²DH), the Institute for History at the University of Luxembourg and the University of Saarland.
 
