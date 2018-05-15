@@ -1,5 +1,5 @@
 index:
-  en: index
+  en: home
   fr: accueil
   de: Start
   it: index
@@ -11,22 +11,22 @@ research:
 outreach:
   en: outreach
   fr: comm
-  de: 
+  de:
   it: altrove
 facts & figures:
   en: facts & figures
   fr: facts & figures
-  de: 
+  de:
   it: altrove
-project-leaders: 
+project-leaders:
   en: project leader
   fr: project leader
   de: project leader
-project-members: 
+project-members:
   en: project member
   fr: project member
   de: project member
-project-former-members: 
+project-former-members:
   en: former project members
   fr: former project member
   de: former project member
