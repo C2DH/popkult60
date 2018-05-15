@@ -12,9 +12,9 @@ layout: default
     </div>
     <div class="container-fluid">
       <div class='row no-gutters'>
-        {% assign letters="popkult60popkult60popkult60popkult60popkult60popkult60popkult60popkult60popkult60popkult60" | split : '' %}
+        {% assign letters="popkult60popkult60popkult60popkult60popkult60popkult60popkult60popkult60popkult60popkult60popkult60popkult60popkult60popkult60popkult60popkult60popkult60popkult60popkult60popkult60popkult60popkult60popkult60popkult60" | split : '' %}
         {%for letter in letters %}
-        <div class='col-2 col-lg-1'>
+        <div class='col-2 col-sm-4 col-md-3 col-lg-1'>
           <div class='letter-wrapper'>
             <img src='{{"assets/images" | relative_url }}/letter-{{letter}}.svg'>
           </div>
@@ -72,6 +72,6 @@ layout: default
     setTimeout(tick, Math.random()*50 + 50);
   }
 
-  // tick();
+  tick();
 
 </script>

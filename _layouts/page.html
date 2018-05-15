@@ -6,7 +6,7 @@ layout: default
 <div class='page'>
   <div class='container'>
     <h1 class='title'><span>{{page.title}}</span></h1>
-    <h2 class='subheading'>{{page.subheading}}</h2>
+    <h2 class='subheading'><span>{{page.subheading}}</span></h2>
 
     {% assign contents = page.content | split: site.excerpt_separator %}
 

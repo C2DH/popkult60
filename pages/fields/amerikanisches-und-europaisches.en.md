@@ -2,16 +2,17 @@
 permalink: /field/amerikanisches-und-europaisches/
 link: /field/amerikanisches-und-europaisches/
 activelink: /fields/
-layout: field
+layout: page
 title: Amerikanisches und Europaïsches
+subheading: Zwar war Populärkultur gewiss ein Herzstück dessen, was Europa in den langen 1960er Jahren als Amerikanisierung wahrnahm, faktische oder scheinbare "Amerikanizität" zumeist das A und O dessen, was gerade für jüngere Menschen das Attraktionspotenzial ausmachte
 lang: en
 ---
 
-Zwar war Populärkultur gewiss ein Herzstück dessen, was Europa in den langen 1960er Jahren als Amerikanisierung wahrnahm, faktische oder scheinbare "Amerikanizität" zumeist das A und O dessen, was gerade für jüngere Menschen das Attraktionspotenzial ausmachte
+Die hohe Komplexität kultureller Transferprozesse erfordert es, schematische Vorstellungen einer "Populärkultur der Welt", die mit Ausnahme des Sports nach 1945 amerikanisch gewe-sen oder provinziell geblieben sei (Hobsbawm 1995: 251f.), näher zu beleuchten. Zwar war Populärkultur gewiss ein Herzstück dessen, was Europa in den langen 1960er Jahren als Amerikanisierung wahrnahm, faktische oder scheinbare "Amerikanizität" zumeist das A und O dessen, was gerade für jüngere Menschen das Attraktionspotenzial ausmachte (Storey 2014: 8). Gleichwohl versteht die Forschergruppe "Amerika" deutlich konsequenter als bisher in den Debatten über eine Amerikanisierung europäischer Gesellschaften als place in the mind und Subtext (Kroes 2014: 29ff.), auch als Chiffre für tiefgreifende sozio-ökonomische und sozio-kulturelle Veränderungen, für Selbstvergewisserungsdebatten über respektive Wege in die Massenkonsumgesellschaft.
+
+
 <!-- more -->
 
-
-Die hohe Komplexität kultureller Transferprozesse erfordert es, schematische Vorstellungen einer "Populärkultur der Welt", die mit Ausnahme des Sports nach 1945 amerikanisch gewe-sen oder provinziell geblieben sei (Hobsbawm 1995: 251f.), näher zu beleuchten. Zwar war Populärkultur gewiss ein Herzstück dessen, was Europa in den langen 1960er Jahren als Amerikanisierung wahrnahm, faktische oder scheinbare "Amerikanizität" zumeist das A und O dessen, was gerade für jüngere Menschen das Attraktionspotenzial ausmachte (Storey 2014: 8). Gleichwohl versteht die Forschergruppe "Amerika" deutlich konsequenter als bisher in den Debatten über eine Amerikanisierung europäischer Gesellschaften als place in the mind und Subtext (Kroes 2014: 29ff.), auch als Chiffre für tiefgreifende sozio-ökonomische und sozio-kulturelle Veränderungen, für Selbstvergewisserungsdebatten über respektive Wege in die Massenkonsumgesellschaft.
 
 
 "Populärkultur transnational" plädiert für einen offenen Amerikani-sierungsbegriff, der selektives und kreatives Aneignen ebenso umfasst wie Indifferenz und auch Renitenz, etwa im Bereich bereits recht gut erforschter, auffällig europäischer Konsumsti-le und -praktiken (Kaelble 2011: 88ff.; de Grazia 2010: 21ff.; Pulju 2011: 78f.; Chessel 2012: 52f.). Tatsächlich haben sich Europäerinnen und Europäer, die dies wollten, selbst amerikani-siert, haben verfügbare Angebote ausgewählt, alltagspraktisch genutzt und dabei wieder Eige-nes, Europäisches "gebastelt" (Schildt/Siegfried 2009: 187ff.), das wiederum - z.B. als british invasion auf dem US-Musikmarkt - stilprägend zurückfließen konnte. Mithin sind für die 1960er Jahre wie auch für eine transatlantische longue durée Amerikanisches und Europäisches sel-ten trennscharf voneinander abzugrenzen, sondern - etwa in der Filmkultur mit den "beiden symbolischen Hauptstädten: Paris und Hollywood" (Schwartz 2007: 202) - eng und komplex miteinander verflochten.

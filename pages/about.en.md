@@ -3,12 +3,14 @@ permalink: /about/
 link: /about/
 layout: page
 title: about Popkult60
+subheading: "Popkult60: A closer look at popular culture in Europe over the long decade of the 1960s"
 lang: en
 ---
 
-**Popkult60: A closer look at popular culture in Europe over the long decade of the 1960s
 
 We are an interdisciplinary research group focusing on the transnational history of popular culture in the 60s, composed of members from the Luxembourg Centre for Contemporary and Digital History (C²DH), the Institute for History at the University of Luxembourg and the University of Saarland.
+
+<!-- more -->
 
 This is a three-year project between Germany and Luxembourg, which has received €2 million in funding from the Luxembourg National Research Fund (FNR) and the German Research Foundation (DFG). The research team is composed of three professors from Saarland University (Prof. Dietmar Hüser, spokesman for the research unit, Prof. Clemens Zimmerman and Prof. Christoph Vatter) and three professors from the University of Luxembourg (Prof. Andreas Fickers, Prof. Sonja Kmec and Prof. Benoît Majerus). The grant will provide funding for seven PhD students, four at Saarland University and three at the University of Luxembourg.
 
@@ -20,11 +22,10 @@ The Luxembourg Centre for Contemporary and Digital History (C²DH) is the Univer
 
 The Institute for History (IHIST) at the University of Luxembourg investigates continuities and changes over the long term, from Antiquity to today, with a focus on the historical areas forming today’s Luxembourg and Greater Region. The four major strands of research at IHIST are Borders and Identity, Power and Legitimation, History and Space and Materiality and Culture.
 
-The University of Luxembourg, founded in 2003, is the only public university of the Grand Duchy of Luxembourg. 
+The University of Luxembourg, founded in 2003, is the only public university of the Grand Duchy of Luxembourg.
 Multilingual, international and research-oriented, it is also a modern institution with a personal atmosphere.
 
-Saarland University / Universität des Saarlandes 
+Saarland University / Universität des Saarlandes
 Transcending boundaries is a hallmark of Saarland University: no matter whether these are geographical borders, cultural boundaries, barriers between academic disciplines, or outmoded divisions between academia and economic and cultural life. International relations and networking are keywords in all fields: Informatics, nanotechnology, biosciences but also Humanities.
 
 The Institute for History at the Saarland University deals with political, social and cultural aspects of European history. The focus is on the history of Europe, Franco-German and transatlantic relations, comparisons and transfers. Political culture, communication and history of the media, nation building, migrations, but also pop culture are the majors research fields of the institute. In addition, questions of international politics and European integration will be dealt with, especially in terms of modern cultural history.
-

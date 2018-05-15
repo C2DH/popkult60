@@ -2,7 +2,9 @@ primary:
   links:
     - title: index
       href: /
-    - title: fields
+    - title: project
+      href: /about/
+    - title: discover the fields
       href: /fields/
     - title: blog
       href: /blog/

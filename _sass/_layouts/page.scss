@@ -1,28 +1,45 @@
 div.page{
   position: relative;
-  padding: 200px 0;
-  background-color: $white;
+  padding: 96px 0;
+  background: linear-gradient($floyd-pink-c, $floyd-pink);
+
   // border-left: 30px solid #f1f43F;
   border: 5px solid;
-  
-  h1, h1 span{
-    color: $floyd-pink;
-    font-size: 60px;
-    font-family: OlioInline;
+
+  h1.title{
+    text-align: center;
+    border-bottom: 2px solid $floyd-dark;
+    margin:0;
+    padding-bottom: 3px;
+    > span{
+      color: $white;
+      font-size: 60px;
+      line-height: 60px;
+      font-family: OlioInline;
+      padding: 0;
+      background: $floyd-dark;
+    }
   }
 
-  h1 span{
-    background: $dark-grey;
-    font-size: 61px;
-    line-height: 87px;
 
-    padding: 0;
-
-    color: $white;
+  h2.subheading{
+    margin-top: 2px;
+    font-size: 40px;
+    line-height: 40px;
+    text-align: center;
+    border-bottom: 2px solid;
+    padding-bottom: 4px;
+    span{
+      font-family: Olio-Bold;
+      background: $floyd-pink;
+      color: $white;
+      padding: 0 5px;
+    }
   }
+
   blockquote.abstract {
     p {
-      font-size: 1.7em;
+      font-size: 20px;
     }
 
 
@@ -34,16 +51,16 @@ div.page{
   }
 }
 
-@media (min-width: 768px){
-  div.page > .container {
-    margin-left: 220px;
-    max-width: 498px;
-  }
-}
-
-@media (min-width: 992px){
-  div.page > .container {
-    max-width: 672px;
-    margin-left: 220px;
-  }
-}
+// @media (min-width: 768px){
+//   div.page > .container {
+//     margin-left: 220px;
+//     max-width: 498px;
+//   }
+// }
+//
+// @media (min-width: 992px){
+//   div.page > .container {
+//     max-width: 672px;
+//     margin-left: 220px;
+//   }
+// }

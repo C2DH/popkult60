@@ -4,16 +4,30 @@ layout: default
 
 <div class='page'>
   <div class='container'>
-    <h1 class='title'>Blog</h1>
+    <h1 class='title'>{% assign key="Blog"%}{% include t.html %}</h1>
+    <h2 class='subheading'><span>{{page.subheading}}</span></h2>
+      <div class='row' >
+        {% for post in site.posts %}
+        <div class='col-sm-6'>
+          <div class='field'>
+            <div class='cover-wrapper'>
+              <div class='cover'>
 
-    <blockquote class="abstract">{{page.excerpt}}</blockquote>
+              </div>
+            </div>
+            <div class='metadata'>
+              <h2><a href='{{post.permalink | relative_url}}'><span>{{post.title}}</span></a></h2>
+              <div>{{ post.excerpt }}</div>
+            </div>
+          </div>
+        </div>
+        {% endfor %}
+      </div>
 
-    {% for post in site.posts %}
-    <article>
-      <div class='date'>{{post.date}}</div>
-      <h2><a href='{{post.url | relative_url}}'> {{post.title}}</a></h2>
-      <blockquote>{{post.excerpt}}</blockquote>
-    </article>
-    {% endfor %}
+
+
+
+
+
   </div>
 </div>

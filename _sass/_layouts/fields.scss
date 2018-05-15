@@ -4,13 +4,31 @@ body.field{
 
 div.field{
   min-height: 200px;
+  margin-bottom: 15px;
+  margin-top: 15px;
 
-  .cover{
-    height: 200px;
-    background: $white;
-    position: relative;
-    overflow: hidden;
-    margin: 10px;
+
+  .cover-wrapper{
+    height: 0;
+    width: 100%;
+    padding-bottom: 100%;
+    margin:0;
+    position:relative;
+
+    .cover{
+      position:absolute;
+      top:0;
+      left:0;
+      margin:0;
+      padding:0;
+      height: 100%;
+      width: 100%;
+
+      background: $floyd-indaco;
+
+      overflow: hidden;
+
+    }
   }
 
   .opt{
@@ -30,28 +48,42 @@ div.field{
     }
   }
 
-  h2{
-    font-size: 1em;
-  }
+
 
   .metadata{
-    padding: 0 10px;
+    background: $floyd-pink-c;
+    position: relative;
+    margin: 0;
+    padding: 15px;
+
+    h2{
+      margin-bottom: 15px;
+      border-bottom: 2px solid $floyd-dark;
+      line-height: 25px;
+      padding-bottom: 15px;
+      span{
+
+        font-family: Olio-Bold, Helvetica, sans-serif;
+        background: $floyd-dark;
+        font-size: 25px;
+        line-height: 25px;
+        color: $white;
+        padding: 0px 5px;
+      }
+    }
+    > div{
+      font-size: 20px;
+      color: $floyd-dark;
+    }
   }
 }
 
 
 
 body.fields div.page{
-  padding-top: 50px;
 
   .inner{
     padding-left: 25px;
     padding-right: 25px;
-  }
-}
-
-@media (min-width: 992px){
-  div.field .cover {
-    height: 300px;
   }
 }

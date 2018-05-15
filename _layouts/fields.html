@@ -4,9 +4,12 @@ layout: default
 
 
 <div class='page'>
-  <div class='fluid-container'>
+  <div class='container'>
+    <h1 class='title'>{% assign key="fields"%}{% include t.html %}</h1>
+    <h2 class='subheading'><span>{{page.subheading}}</span></h2>
+    <blockquote class="abstract">{{page.content | split: site.excerpt_separator | first | markdownify }}</blockquote>
 
-      <div class='row no-gutters' >
+      <div class='row' >
         {% assign fields = site.pages | where: "layout", "field" | lang: "en" %}
 
 
@@ -16,16 +19,16 @@ layout: default
 
         {% for field in fields %}
         {% assign randomNumber = "now" | date: "%N" | modulo: diff | plus: min %}
-        <div class='col-sm-3'>
+        <div class='col-sm-6'>
           <div class='field'>
-
-            <div class='cover'>
-              <div class='opt'></div>
-              <div class='opt odd' style='transform: rotate( {{ randomNumber }}deg)'></div>
+            <div class='cover-wrapper'>
+              <div class='cover'>
+                <div class='opt'></div>
+                <div class='opt odd' style='transform: rotate( {{ randomNumber }}deg)'></div>
+              </div>
             </div>
-
             <div class='metadata'>
-              <h2><a href='{{field.permalink | relative_url}}'>{{field.title}}</a></h2>
+              <h2><a href='{{field.permalink | relative_url}}'><span>{{field.title}}</span></a></h2>
               {% assign parts = field.content | split: site.excerpt_separator %}
               <div>{{parts | first }}</div>
             </div>
@@ -35,14 +38,9 @@ layout: default
       </div>
 
 
-    <h1 class='title'>FIELDS</h1>
-    <h2 class='subheading'>{{page.subheading}}</h2>
 
-    <blockquote class="abstract">{{page.excerpt}}</blockquote>
 
-    <section class="contents">
-      {{page.content | markdownify }}
-    </section>
+
 
   </div>
 </div>

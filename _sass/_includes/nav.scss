@@ -11,27 +11,35 @@
 
 
 #nav-menu{
-  position:fixed;
+  position:absolute;
   z-index: 10;
   width: 100%;
-  margin-top: 15px;
-  font-family: Olio-Bold;
-  font-size: 24px;
-  text-transform: capitalize;
+  margin-top: 5px;
+  font-family: Olio-Bold, sans-serif;
+
+  text-transform: lowercase;
+
+  nav{
+    padding: 0
+  }
 
   .nav-item{
-    line-height: 50px;
+    border-top: 2px solid $floyd-dark;
+    line-height:11px;
     a > span{
       color: $dark-grey;
       padding: 0 4px;
     }
     &.active a > span{
       color: $white;
-      background: $bright-purple ;
+      background: $floyd-dark ;
     }
   }
 
   a.nav-link{
+    padding-right: 0;
+    padding-left: 0;
+
     span{
       padding: 5px 10px;
       background-color: $floyd-pink-c;
