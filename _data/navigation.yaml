@@ -2,8 +2,6 @@ primary:
   links:
     - title: index
       href: /
-    - title: about
-      href: /about/
     - title: fields
       href: /fields/
     - title: blog

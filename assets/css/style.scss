@@ -9,16 +9,28 @@ $dark-grey: #565656;
 $pink: #dba3be;
 $lavender: #71abdd;
 
-$bright-pink: #fe61ac;
+$bright-purple: #fe61ac;
+
+$floyd-purple: #b459dc;
+$floyd-purple-c: #5af63e;
+$floyd-orange: #ee7236;
+$floyd-orange-c: #ffe920;
+$floyd-indaco: #0279b4;
+$floyd-indaco-c: #ce291d;
+$floyd-pink: #ee578d;
+$floyd-pink-c: #37ffd1;
+
+
+@import "fonts";
 
 html, body{
   height: 100%;
 }
 body{
-  background-color: $silver;
-  color: $dark-grey;
-  font-family: Poppins, sans-serif;
-  font-size: 13px;
+  background-color: $floyd-pink-c;
+  color: $floyd-pink;
+  font-family: Helvetica, sans-serif;
+  font-size: 15px;
 }
 
 a{
@@ -30,4 +42,4 @@ a{
 }
 
 @import "_layouts/page", "_layouts/index", "_layouts/fields";
-@import "_includes/nav";
+@import "_includes/nav", "_includes/footer";

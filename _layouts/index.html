@@ -10,8 +10,17 @@ layout: default
     </div>
     <div class='opt' id='opt-b'>
     </div>
-    <div id='popkult-logo'>
-      <img src="{{'/assets/images/popkult60-logo.png' | relative_url}}">
+    <div class="container-fluid">
+      <div class='row no-gutters'>
+        {% assign letters="popkult60popkult60popkult60popkult60popkult60popkult60popkult60popkult60popkult60popkult60" | split : '' %}
+        {%for letter in letters %}
+        <div class='col-2 col-lg-1'>
+          <div class='letter-wrapper'>
+            <img src='{{"assets/images" | relative_url }}/letter-{{letter}}.svg'>
+          </div>
+        </div>
+        {% endfor %}
+      </div>
     </div>
     <div id='fillme-wrapper'>
     <span id='fillme'>
@@ -20,16 +29,16 @@ layout: default
       {% endfor %}
     </span>
 
-  </div>
+    </div>
   </div>
 
   <div class='container'>
   </div>
 </div>
 
-<div class='page'>
-  project presentation
-</div>
+<!-- <div class='page'>
+  {{page.contents}}
+</div> -->
 
 <script>
   var sentences = [
@@ -63,6 +72,6 @@ layout: default
     setTimeout(tick, Math.random()*50 + 50);
   }
 
-  tick();
+  // tick();
 
 </script>
