@@ -9,12 +9,17 @@ footer{
 
   }
   .img-wrapper{
-    text-align: center;
+    border-bottom: 2px solid;
+  }
+  .label-wrapper p{
+    font-weight: bold;
+margin: 20px 15px;
+    word-break: break-all;
   }
   img{
     width: 80%;
-    margin: 20px;
-
+    margin: 20px 0;
+    max-height: 100px;
   }
 
   .bait{
