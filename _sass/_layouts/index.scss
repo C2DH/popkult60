@@ -28,9 +28,9 @@ $moire-expand: -100px;
 body.index{
 
   .page{
-    min-height: 100%;
-    background-color: $yellow;
-    border-left: none;
+    min-height: 90%;
+    background: linear-gradient($floyd-pink-c, $floyd-pink);
+    // border-left: none;
     &.no-padding{
       min-height: auto;
     }
@@ -38,9 +38,9 @@ body.index{
 
   .opt-wrapper{
     position: absolute;
-    left:15px;
+    left:0px;
     top:0;
-    right: 15px;
+    right: 0px;
     bottom:0;
     overflow: hidden;
   }
@@ -52,37 +52,29 @@ body.index{
     right: $moire-expand;
     bottom:$moire-expand;
 
-    background: repeating-linear-gradient(0deg, $pink 0px, $pink 2px, rgba(0,0,0,0) 2px, rgba(0,0,0,0) 8px);
-
+    background: repeating-linear-gradient(0deg, $floyd-pink 0px, $floyd-pink 2px, rgba(0,0,0,0) 2px, rgba(0,0,0,0) 8px);
+    z-index: 0;
   }
 
-
-}
-
-#popkult-logo{
-  position: absolute;
-  top: 50%;
-  left: 25%;
-  right: 25%;
-  margin-top: -48px;
-  // background: $silver;
-  z-index: 5;
-  // border: 2px solid $dark-grey;
-  > img {
+  .letter-wrapper{
     width: 100%;
+    height: 0;
+    padding-bottom: 100%;
+    font-size: 100%;
+
+    img{
+      width: 100%;
+    }
   }
 }
+
 
 #opt-b{
   transform: rotate(1deg);
-  z-index: 2;
-  background: repeating-linear-gradient(0deg, $lavender 0px, $lavender 2px, rgba(0,0,0,0) 2px, rgba(0,0,0,0) 8px);
+  z-index: 0;
+  background: repeating-linear-gradient(0deg, $floyd-pink-c 0px, $floyd-pink-c 2px, rgba(0,0,0,0) 2px, rgba(0,0,0,0) 8px);
 
-}
-
-#opt-a{
-  z-index: 1;
-  transform: rotate($moire-rotation);
+  &.animated{
   -webkit-animation-name: moire;
   -webkit-animation-duration: 11s;
   -webkit-animation-timing-function: ease-in-out;
@@ -92,13 +84,25 @@ body.index{
   animation-duration: 11s;
   animation-timing-function: ease-in-out;
   animation-iteration-count: infinite;
+  }
+}
+
+#opt-a{
+  z-index: 0;
+  transform: rotate($moire-rotation);
+
 }
 
 #fillme-wrapper{
-  position:absolute; top: 120px; left: 0px;font-size:2.5em;z-index:4;
+  font-family: Olio-Bold;
+  position:absolute; top: 120px; left: 0px;font-size:1.5em;z-index:4;
+  left: 50%;
+  margin-left: -25%;
+  width: 50%;
+  text-align: center;
 }
 
 #fillme{
-  background-color: $white;
-  color: $yellow;
+  background-color: $floyd-pink-c;
+  color: $floyd-pink;
 }

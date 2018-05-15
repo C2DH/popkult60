@@ -1,10 +1,23 @@
-#nav-menu{
-  background-color: $yellow;
-  height: 100px;
+#popkult-logo{
+  margin:auto;
 
-  border-top: 15px solid white;
-border-left: 15px solid white;
-border-right: 15px solid white;
+  background-color: $floyd-pink-c;
+  border-top: 5px solid $floyd-pink;
+  // border: 2px solid $dark-grey;
+  > img {
+    width: 250px;
+  }
+}
+
+
+#nav-menu{
+  position:fixed;
+  z-index: 10;
+  width: 100%;
+  margin-top: 15px;
+  font-family: Olio-Bold;
+  font-size: 24px;
+  text-transform: capitalize;
 
   .nav-item{
     line-height: 50px;
@@ -14,11 +27,24 @@ border-right: 15px solid white;
     }
     &.active a > span{
       color: $white;
-      background: $bright-pink ;
+      background: $bright-purple ;
     }
   }
 
-
+  a.nav-link{
+    span{
+      padding: 5px 10px;
+      background-color: $floyd-pink-c;
+      color: $floyd-pink;
+    }
+    &.active {
+      // background-color: $floyd-pink-c;
+      span{
+        background-color: $floyd-purple-c;
+        color: $floyd-purple;
+      }
+    }
+  }
 
   .nav.languages{
     border-left: 1px solid;

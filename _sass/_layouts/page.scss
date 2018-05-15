@@ -1,8 +1,15 @@
 div.page{
   position: relative;
-  padding: 100px 0;
+  padding: 200px 0;
   background-color: $white;
   // border-left: 30px solid #f1f43F;
+  border: 5px solid;
+  
+  h1, h1 span{
+    color: $floyd-pink;
+    font-size: 60px;
+    font-family: OlioInline;
+  }
 
   h1 span{
     background: $dark-grey;
