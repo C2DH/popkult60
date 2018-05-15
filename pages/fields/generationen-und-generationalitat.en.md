@@ -1,6 +1,7 @@
 ---
 permalink: /field/generationen-und-generationalitat/
 link: /field/generationen-und-generationalitat/
+activelink: /fields/
 layout: page
 title: Generationen und Generationalität
 subheading: Obwohl der Generationenbegriff in den letzten Jahren bis in die Feuilletons hinein geradezu inflationär Verwendung gefunden hat, hält das Projekt seinen Gebrauch für geeignet, um spe-zifische Spannungsfelder und Aushandlungsprozesse im Bereich der Produktion, Zirkulation und Rezeption transnationaler populärkultureller Formate und Praktiken zu analysieren
