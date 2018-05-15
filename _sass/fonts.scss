@@ -27,7 +27,14 @@
 // @import url("//hello.myfonts.net/count/36a173");
 
 
-@font-face {font-family: 'Olio-Bold';src: url('webfonts/36A173_0_0.eot');src: url('webfonts/36A173_0_0.eot?#iefix') format('embedded-opentype'),url('webfonts/36A173_0_0.woff2') format('woff2'),url('webfonts/36A173_0_0.woff') format('woff'),url('webfonts/36A173_0_0.ttf') format('truetype');}
+@font-face {font-family: 'Olio-Bold';src: url('../fonts/36A173_0_0.eot');src: url('../fonts/36A173_0_0.eot?#iefix') format('embedded-opentype'),url('../fonts/36A173_0_0.woff2') format('woff2'),url('../fonts/36A173_0_0.woff') format('woff'),url('../fonts/36A173_0_0.ttf') format('truetype');}
 
 
-@font-face {font-family: 'OlioInline';src: url('webfonts/36A173_1_0.eot');src: url('webfonts/36A173_1_0.eot?#iefix') format('embedded-opentype'),url('webfonts/36A173_1_0.woff2') format('woff2'),url('webfonts/36A173_1_0.woff') format('woff'),url('webfonts/36A173_1_0.ttf') format('truetype');}
+@font-face {font-family: 'OlioInline';src: url('../fonts/36A173_1_0.eot');src: url('../fonts/36A173_1_0.eot?#iefix') format('embedded-opentype'),url('../fonts/36A173_1_0.woff2') format('woff2'),url('../fonts/36A173_1_0.woff') format('woff'),url('../fonts/36A173_1_0.ttf') format('truetype');}
+
+
+
+* {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}

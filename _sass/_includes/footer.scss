@@ -1,5 +1,7 @@
 footer{
   color: $floyd-indaco;
+  border: 5px solid;
+
   .img-wrapper, .label-wrapper {
     width: 100%;
     height: 0;
@@ -13,5 +15,20 @@ footer{
     width: 80%;
     margin: 20px;
 
+  }
+
+  .bait{
+    font-family: OlioInline;
+    font-size: 20px;
+    line-height: 30px;
+    border-bottom: 2px solid $floyd-indaco;
+
+    span {
+      background-color: $floyd-indaco;
+      color: $white;
+      padding: 0px;
+      font-size: 20px;
+      line-height: 40px;
+    };
   }
 }
