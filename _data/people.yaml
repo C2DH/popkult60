@@ -1,0 +1,78 @@
+-
+  role: professor
+  id: andreas-fickers
+  name: Andreas Fickers
+  description:
+    fr: Professeur d'Histoire contemporaine et numérique, Directeur du Luxembourg Centre for Contemporary and Digital History (C²DH) Université du Luxembourg
+    en: Professor in Contemporary and Digital History; Director of the Luxembourg Centre for Contemporary and Digital History (C²DH), University of Luxembourg
+  email: andreas.fickers@uni.lu
+-
+  role: professor
+  id: sonja-kmec
+  name: Sonja Kmec
+  description:
+    fr: Professeure d'études luxembourgeoises (Culture et Histoire), Institut d'Histoire, Unité de recherche IPSE, Université du Luxembourg
+    en: Professor in Luxembourgish Studies (Culture & History), Institute for History, Research Unit IPSE. University of Luxembourg
+  email: sonja.kmec@uni.lu
+
+-
+  role: professor
+  id: benoit-majerus
+  name:   Benoît Majerus
+  description:
+    fr: Professeur-Associé d'Histoire européenne, Luxembourg Centre for Contemporary and Digital History (C²DH), Université du Luxembourg
+    en: Associate Professor in European History, Luxembourg Centre for Contemporary and Digital History (C²DH), University of Luxembourg
+  email: benoit.majerus@uni.lu
+
+-
+  role: professor
+  id: dietmar-hueser
+  name:   Dietmar Hüser
+  description:
+    fr: Professeur d'Histoire contemporaine européenne, Institut d'Histoire, Université de la Sarre
+    en: Professor in European History, Institute for History, Universität des Saarlandes
+  email: dietmar.hueser@uni-saarland.de
+
+-
+  role: professor
+  id: clemens-zimmermann
+  name:   Clemens Zimmermann
+  description:
+    fr: Professeur d'Histoire culturelle et d'Histoire des médias, Institut d'Histoire, Université de la Sarre
+    en: Professor in Cultural and Media History, Historisches Institut, Universität des Saarlandes
+  email: cl.zimmermann@mx.uni-saarland.de
+
+-
+  role: professor
+  id: christoph-vatter
+  name:   Christoph Vatter
+  description:
+    fr:   Assistant professeur en communication interculturelle, FR 4.2 Langues et littératures romanes / Communication Interculturelle; Université de la Sarre
+    en: Assistant Professor in Intercultural Communication, FR 4.2 Romanistik / Interkulturelle Kommunikation, Universität des Saarlandes
+  email: c.vatter@mx.uni-saarland.de
+
+-
+  role: phd
+  id: richard-legay
+  name: Richard Legay
+  description:
+    fr:   Doctorant en Histoire contemporaine, Luxembourg Center for Contemporary and Digital History (C²DH), Université du Luxembourg
+    en: PhD Candidate in Contemporary History, Luxembourg Center for Contemporary and Digital History (C²DH), Université du Luxembourg
+  email: richard.legay@uni.lu
+
+  #
+  # PhD 2 UniLu (bandes dessinées BM)
+  #
+  # PhD 3 UniLu (film fan clubs SK)
+  #
+  # PhD 1 UniSaar
+  #
+  # PhD 2 UniSaar
+  #
+  # PhD 3 UniSaar
+  #
+  # PhD 4 UniSaar
+  #
+  # PhD 5 UniSaar
+  #
+  # PhD 6 UniSaar

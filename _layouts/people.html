@@ -1,0 +1,34 @@
+---
+layout: default
+---
+
+<div class='page'>
+  <div class='container'>
+    <h1 class='title'>{{page.title}}</h1>
+    <h2 class='subheading'><span>{{page.subheading}}</span></h2>
+      <div class='row' >
+        {% for person in site.data.people %}
+        <div class='col-sm-4 col-lg-3'>
+          <div class='field person'>
+            <div class='cover-wrapper'>
+              <div class='cover' style='background-size: 50%; background-image: url({{"assets/images" | relative_url}}/{{person.id}}.jpg); background-repeat: repeat'>
+
+              </div>
+            </div>
+            <div class='metadata'>
+              <h2><a href='{{person.permalink | relative_url}}'><span>{{person.name}}</span></a></h2>
+              {% assign description = person.description[page.lang]%}
+              <div>{{ description | markdonify}}</div>
+            </div>
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+
+
+
+
+
+
+  </div>
+</div>
