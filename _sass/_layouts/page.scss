@@ -5,7 +5,7 @@ div.page{
 
   // border-left: 30px solid #f1f43F;
   border: 5px solid;
-  border-bottom-color: $floyd-orange;
+  border-bottom-width: 0;
 
   h1.title{
     text-align: center;
@@ -40,15 +40,39 @@ div.page{
 
   blockquote.abstract {
     p {
-      font-size: 20px;
+      color: $floyd-dark;
+      font-size: 16px;
     }
-
+    background: $white;
+    margin:0;
+    padding: 15px;
 
   }
 
-  .contents p{
-    font-size: 1.5em;
-    color: $dark-grey;
+
+
+  .contents {
+    background: $white;
+    padding: 15px;
+
+    p{
+      font-size: 1.5em;
+      color: $dark-grey;
+    }
+  }
+}
+
+@media (min-width: 768px){
+  div.page  .contents {
+    padding: 40px 50px;
+  }
+
+  div.page blockquote.abstract {
+    padding: 40px 50px 10px;
+    p {
+      font-size: 24px;
+
+    }
   }
 }
 
