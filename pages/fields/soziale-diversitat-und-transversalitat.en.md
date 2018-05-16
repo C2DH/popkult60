@@ -1,11 +1,13 @@
 ---
 permalink: /field/soziale-diversitat-und-transversalitat/
 link: /field/soziale-diversitat-und-transversalitat/
+slug: soziale-diversitat-und-transversalitat
 layout: page
 activelink: /fields/
 title: Soziale Diversität und Transversalität
-subheading: Üblicherweise standen Klasse und Generation als aussagekräftige Gruppen- oder Persönlich-keitsmerkmale im Fokus der langen 1960er Jahre. 
+subheading: Üblicherweise standen Klasse und Generation als aussagekräftige Gruppen- oder Persönlich-keitsmerkmale im Fokus der langen 1960er Jahre.
 lang: en
+ordering: 4
 ---
 
 

@@ -1,11 +1,13 @@
 ---
 permalink: /field/dispositiv-medialitat-medienensemble/
 link: /field/dispositiv-medialitat-medienensemble/
+slug: dispositiv-medialitat-medienensemble
 activelink: /fields/
 layout: page
 title: Dispositiv Medialität Medienensemble
 subheading: "\Populärkultur transnational\" legt einen Medienbegriff zugrunde, der sich eng an das Konzept des dispositif anlehnt."
 lang: en
+ordering: 7
 ---
 
 

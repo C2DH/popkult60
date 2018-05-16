@@ -7,10 +7,9 @@ layout: default
   <div class='container'>
     <h1 class='title'>{% assign key="fields"%}{% include t.html %}</h1>
     <h2 class='subheading'><span>{{page.subheading}}</span></h2>
-    <blockquote class="abstract">{{page.content | split: site.excerpt_separator | first | markdownify }}</blockquote>
 
       <div class='row' >
-        {% assign fields = site.pages | where: "activelink", page.link | lang: "en" %}
+        {% assign fields = site.pages | where: "activelink", page.link | lang: "en"  | sort: "ordering" %}
 
 
         {% assign min = 1 %}
@@ -23,8 +22,9 @@ layout: default
           <div class='field'>
             <div class='cover-wrapper'>
               <div class='cover'>
-                <div class='opt'></div>
-                <div class='opt odd' style='transform: rotate( {{ randomNumber }}deg)'></div>
+                <img src='{{"assets/images" | relative_url}}/{{field.slug}}.svg'>
+                <!-- <div class='opt'></div>
+                <div class='opt odd' style='transform: rotate( {{ randomNumber }}deg)'></div> -->
               </div>
             </div>
             <div class='metadata'>
