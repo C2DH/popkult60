@@ -35,7 +35,14 @@ body{
 }
 
 a{
-  color: $dark-grey;
+  color: $floyd-dark;
+  border-bottom: 2px solid $floyd-pink-c;
+
+  &:hover{
+    text-decoration: none;
+    color: $floyd-dark;
+    border-bottom-color: $floyd-dark;
+  }
 }
 
 .fit-height{

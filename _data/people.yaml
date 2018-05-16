@@ -60,7 +60,11 @@
     en: PhD Candidate in Contemporary History, Luxembourg Center for Contemporary and Digital History (C²DH), Université du Luxembourg
   email: richard.legay@uni.lu
 
-  #
+-
+  role: contributor
+  id: maude-williams
+  name: Maude Williams
+
   # PhD 2 UniLu (bandes dessinées BM)
   #
   # PhD 3 UniLu (film fan clubs SK)

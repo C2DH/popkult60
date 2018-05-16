@@ -5,6 +5,9 @@ layout: page
 title: about Popkult60
 subheading: "Popkult60: A closer look at popular culture in Europe over the long decade of the 1960s"
 lang: en
+figure:
+  - src: assets/images/uni.lu
+    caption: uni lu logo
 ---
 
 
@@ -14,7 +17,7 @@ We are an interdisciplinary research group focusing on the transnational history
 
 This is a three-year project between Germany and Luxembourg, which has received €2 million in funding from the Luxembourg National Research Fund (FNR) and the German Research Foundation (DFG). The research team is composed of three professors from Saarland University (Prof. Dietmar Hüser, spokesman for the research unit, Prof. Clemens Zimmerman and Prof. Christoph Vatter) and three professors from the University of Luxembourg (Prof. Andreas Fickers, Prof. Sonja Kmec and Prof. Benoît Majerus). The grant will provide funding for seven PhD students, four at Saarland University and three at the University of Luxembourg.
 
-Partner institutions:
+## Partner institutions:
 
 The Deutsche Forschungsgemeinschaft (DFG) is the self-governing organisation for science and research in Germany. This association under private law serves all branches of science and the humanities. Its membership consists of German research universities, non-university research institutions, scientific associations and the Academies of Science and the Humanities. It receives the large majority of its funds from the federal government and the states and finances selected projects.  
 

@@ -7,6 +7,10 @@ div.page{
   border: 5px solid;
   border-bottom-width: 0;
 
+  &.middle{
+    background: $floyd-dark;
+  }
+
   h1.title{
     text-align: center;
     border-bottom: 2px solid $floyd-dark;

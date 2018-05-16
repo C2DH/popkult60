@@ -1,7 +1,8 @@
 ---
 permalink: /fr/people/
 link: /people/
-layout: Équipe
-title: The team behind Popkult60
+layout: people
+title: Équipe
+subheading: The team behind Popkult60
 lang: fr
 ---

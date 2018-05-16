@@ -47,12 +47,23 @@ $moire-expand: -100px;
 body.index{
 
   .page{
-    min-height: 90%;
+    min-height: 300px;
     background: linear-gradient($floyd-pink-c, $floyd-pink);
     // border-left: none;
+    &.middle{
+      border-top-width: 0;
+
+      background: $floyd-dark;
+    }
+
     &.no-padding{
       min-height: auto;
     }
+  }
+
+  .intro{
+    position: relative;
+    margin-top: 230px;
   }
 
   .opt-wrapper{
@@ -62,6 +73,7 @@ body.index{
     right: 0px;
     bottom:0;
     overflow: hidden;
+    z-index: 0;
   }
 
   .opt{
@@ -126,7 +138,7 @@ body.index{
 }
 
 #fillme-wrapper{
-  font-family: Olio-Bold;
+  // font-family: OlioInline;
   position:absolute; top: 120px; left: 0px;font-size:1.5em;z-index:4;
   left: 50%;
   margin-left: -25%;
@@ -135,6 +147,6 @@ body.index{
 }
 
 #fillme{
-  background-color: $floyd-pink-c;
-  color: $floyd-pink;
+  background-color: $white; // $floyd-pink-c;
+  color: $floyd-dark; //$floyd-pink;
 }

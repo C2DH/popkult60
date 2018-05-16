@@ -31,14 +31,15 @@ layout: default
 
     </div>
   </div>
-
+  <div class='intro'>
   <div class='container'>
+    <section class="contents">
+
+      {{ page.content | markdownify }}
+    </section>
   </div>
 </div>
-
-<!-- <div class='page'>
-  {{page.contents}}
-</div> -->
+</div>
 
 <script>
   var sentences = [
