@@ -61,12 +61,13 @@
   email: richard.legay@uni.lu
 
 -
-  role: contributor
+  role: post-doctorat
   id: maude-williams
   name: Maude Williams
   description:
-    fr: ...
-    en: ...
+    fr: Post-doctorante, Koordinatorin des DFG-Forschergruppenprojekts
+    en: Post-doc, Koordinatorin des DFG-Forschergruppenprojekts
+    de: Pos-doktorandin, Koordinatorin des DFG-Forschergruppenprojekts
   
   
   # PhD 2 UniLu (bandes dessinées BM)
