@@ -69,19 +69,20 @@
     en: Post-doc, Koordinatorin des DFG-Forschergruppenprojekts
     de: Pos-doktorandin, Koordinatorin des DFG-Forschergruppenprojekts
   
+  -
+  role: associate member
+  id: vitus-sproten
+  name: Vitus Sproten
+  description:
+    fr: Doctorant, membre associé de Popkult60
+    en: PhD candidate, associate member of Popkult60
+  email: vitus.sproten@uni.lu
   
-  # PhD 2 UniLu (bandes dessinées BM)
-  #
-  # PhD 3 UniLu (film fan clubs SK)
-  #
-  # PhD 1 UniSaar
-  #
-  # PhD 2 UniSaar
-  #
-  # PhD 3 UniSaar
-  #
-  # PhD 4 UniSaar
-  #
-  # PhD 5 UniSaar
-  #
-  # PhD 6 UniSaar
+  -
+  role:
+  id:
+  name:
+  description:
+    fr: 
+    en: 
+  email: 
