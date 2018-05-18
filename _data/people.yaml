@@ -6,7 +6,7 @@
     fr: Professeur d'Histoire contemporaine et numérique, Directeur du Luxembourg Centre for Contemporary and Digital History (C²DH) Université du Luxembourg
     en: Professor in Contemporary and Digital History; Director of the Luxembourg Centre for Contemporary and Digital History (C²DH), University of Luxembourg
   email: andreas.fickers@uni.lu
-  
+
 -
   role: professor
   id: sonja-kmec
@@ -69,8 +69,8 @@
     fr: Post-doctorante, Koordinatorin des DFG-Forschergruppenprojekts
     en: Post-doc, Koordinatorin des DFG-Forschergruppenprojekts
     de: Pos-doktorandin, Koordinatorin des DFG-Forschergruppenprojekts
- 
- -
+
+-
   role: associate member
   id: vitus-sproten
   name: Vitus Sproten
@@ -78,30 +78,30 @@
     fr: Doctorant, membre associé de Popkult60
     en: PhD candidate, associate member of Popkult60
   email: vitus.sproten@uni.lu
-  
- -
-  role:
+
+-
+  role: unknown
   id: aline-maldener
   name: Aline Maldener
   description:
-    fr: 
-    en: 
-  email: 
- 
+    fr:
+    en:
+  email:
+
 -
-  role:
+  role: unknown
   id:
   name:
   description:
-    fr: 
-    en: 
-  email: 
-  
- -
-  role:
+    fr:
+    en:
+  email:
+
+-
+  role: unknown
   id:
   name:
   description:
-    fr: 
-    en: 
-  email: 
+    fr:
+    en:
+  email:
