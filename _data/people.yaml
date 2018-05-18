@@ -90,8 +90,8 @@
 
 -
   role: unknown
-  id:
-  name:
+  id: ann-kristin-kurberg
+  name: Ann-Kristin Kurberg
   description:
     fr:
     en:
@@ -99,8 +99,26 @@
 
 -
   role: unknown
-  id:
-  name:
+  id: julia-wack
+  name: Julia Wack
+  description:
+    fr:
+    en:
+  email:
+
+-
+  role: unknown
+  id: jessica-burton
+  name: Jessica Burton
+  description:
+    fr:
+    en:
+  email:
+  
+-
+  role: unknown
+  id: gunter-mahlerwein
+  name: Gunter Malherwein
   description:
     fr:
     en:
