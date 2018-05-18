@@ -89,30 +89,30 @@
   email:
 
 -
-  role: unknown
+  role: phd
   id: ann-kristin-kurberg
   name: Ann-Kristin Kurberg
   description:
-    fr:
-    en:
+    fr: Doctorante
+    en: PhD candidate
   email:
 
 -
-  role: unknown
+  role: phd
   id: julia-wack
   name: Julia Wack
   description:
-    fr:
-    en:
+    fr: Doctorante
+    en: PhD candidate
   email:
 
 -
-  role: unknown
+  role: phd
   id: jessica-burton
   name: Jessica Burton
   description:
-    fr:
-    en:
+    fr: Doctorante
+    en: PhD candidate
   email:
   
 -
@@ -120,6 +120,15 @@
   id: gunter-mahlerwein
   name: Gunter Malherwein
   description:
-    fr:
-    en:
+    fr: Post-doc
+    en: Post-doc
+  email:
+  
+-
+  role: associate member
+  id: jasmin-nicklas
+  name: Jasmin Nicklas
+  description:
+    fr: membre associé
+    en: associate member
   email:
