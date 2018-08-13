@@ -3,6 +3,7 @@ permalink: /field/amerikanisches-und-europaisches/
 link: /field/amerikanisches-und-europaisches/
 slug: amerikanisches-und-europaisches
 activelink: /fields/
+category: field
 layout: page
 title: Amerikanisches und Europaïsches
 subheading: Zwar war Populärkultur gewiss ein Herzstück dessen, was Europa in den langen 1960er Jahren als Amerikanisierung wahrnahm, faktische oder scheinbare "Amerikanizität" zumeist das A und O dessen, was gerade für jüngere Menschen das Attraktionspotenzial ausmachte

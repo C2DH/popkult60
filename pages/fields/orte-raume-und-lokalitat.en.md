@@ -3,6 +3,7 @@ permalink: /field/orte-raume-und-lokalitat/
 link: /field/orte-raume-und-lokalitat/
 slug: orte-raume-und-lokalitat
 layout: page
+category: field
 activelink: /fields/
 title: Orte, Räume und Lokalität
 subheading: "\"Populärkultur transnational\" bewegt sich am Horizont der gegenwärtigen Debatte über die historisch flexible Konstruktion und dynamische Genese von Räumen, die sich an Orten lokali-sieren und einen grundlegend medialisierten Charakter aufweisen."

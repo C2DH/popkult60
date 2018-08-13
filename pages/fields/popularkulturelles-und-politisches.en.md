@@ -3,6 +3,7 @@ permalink: /field/popularkulturelles-und-politisches/
 link: /field/popularkulturelles-und-politisches/
 slug: popularkulturelles-und-politisches
 layout: page
+category: field
 activelink: /fields/
 title: Popularkulturelles und Politisches
 subheading: Ein Kernpunkt des Projekts, zugleich eine unabdingbare Relevanzfrage zeithistorischer Be-schäftigung mit populären Kulturformen, besteht im bislang systematisch kaum erforschten Nexus von transnationaler Populärkultur und dem Wandel in Politik und Gesellschaft.

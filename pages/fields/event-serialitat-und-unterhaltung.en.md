@@ -4,6 +4,7 @@ link: /field/event-serialitat-und-unterhaltung/
 slug: event-serialitat-und-unterhaltung
 layout: page
 activelink: /fields/
+category: field
 title: Event Serialitat und Unterhaltung
 subheading: In medienhistorischer Sicht stellen die langen 1960er Jahre eine Periode dar, in der es im massenmedialen Ensemble zu einem Wandel kam, als dessen auffälligstes Merkmal der Auf-stieg des Fernsehens zum neuen Leitmedium gilt.
 lang: en

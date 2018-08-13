@@ -3,6 +3,7 @@ permalink: /field/mainstream-und-avantgarde/
 link: /field/mainstream-und-avantgarde/
 slug: mainstream-und-avantgarde
 activelink: /fields/
+category: field
 layout: page
 title: Mainstream und Avantgarde
 subheading: Schon die Tatsache, dass populäre Produkte und Medien über Klassen- und Generations-, Ethnizitäts- und Geschlechtergrenzen hinaus Publiken suchen und häufig auch finden, lässt unschwer erkennen, dass Massenhaftes in der Populärkultur keine absolute, generalisiert quantifizierbare Größe darstellt.

@@ -7,9 +7,13 @@ layout: default
   <div class='container'>
     <h1 class='title'>{% assign key="fields"%}{% include t.html %}</h1>
     <h2 class='subheading'><span>{{page.subheading}}</span></h2>
+    {% assign contents = page.content | split: site.excerpt_separator %}
+
+    <blockquote class="abstract">{{ contents | first | markdownify }}</blockquote>
+
 
       <div class='row' >
-        {% assign fields = site.pages | where: "activelink", page.link | lang: "en"  | sort: "ordering" %}
+        {% assign fields = site.pages | where: "category", "field" | lang: "en"  | sort: "ordering" %}
 
 
         {% assign min = 1 %}
@@ -37,7 +41,9 @@ layout: default
         {% endfor %}
       </div>
 
-
+      <section class="contents">
+        {{ contents | last | markdownify }}
+      </section>
 
 
 
