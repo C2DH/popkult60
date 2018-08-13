@@ -1,0 +1,9 @@
+{% if url %}
+  {% capture absolute_url %}
+    {% if url contains '://' %}
+      {{url}}
+    {% else %}
+      {{url | relative_url}}
+    {% endif %}
+  {% endcapture %}
+{% endif %}

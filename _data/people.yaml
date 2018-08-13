@@ -15,7 +15,8 @@
     fr: Professeure d'études luxembourgeoises (Culture et Histoire), Institut d'Histoire, Unité de recherche IPSE, Université du Luxembourg
     en: Professor in Luxembourgish Studies (Culture & History), Institute for History, Research Unit IPSE. University of Luxembourg
   email: sonja.kmec@uni.lu
-
+  thumbnail: https://pbs.twimg.com/profile_images/481124380194263041/pz80Bldn_400x400.jpeg
+  url: https://twitter.com/sonjakmec
 -
   role: professor
   id: benoit-majerus
@@ -24,6 +25,8 @@
     fr: Professeur-Associé d'Histoire européenne, Luxembourg Centre for Contemporary and Digital History (C²DH), Université du Luxembourg
     en: Associate Professor in European History, Luxembourg Centre for Contemporary and Digital History (C²DH), University of Luxembourg
   email: benoit.majerus@uni.lu
+  thumbnail: https://pbs.twimg.com/profile_images/705357867797385216/WPXZmXzJ_400x400.jpg
+  url: https://www.c2dh.uni.lu/people/benoit-majerus
 
 -
   role: professor
@@ -114,7 +117,7 @@
     fr: Doctorante
     en: PhD candidate
   email:
-  
+
 -
   role: unknown
   id: gunter-mahlerwein
@@ -123,7 +126,7 @@
     fr: Post-doc
     en: Post-doc
   email:
-  
+
 -
   role: associate member
   id: jasmin-nicklas
