@@ -3,9 +3,7 @@ primary:
     - title: index
       href: /
     - title: project
-      href: /about/
-    - title: discover the fields
-      href: /fields/
+      href: /project/
     - title: blog
       href: /blog/
     - title: people

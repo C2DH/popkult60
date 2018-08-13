@@ -1,11 +1,11 @@
 ---
-permalink: /fr/about/
-link: /about/
-layout: page
-title: About
-lang: fr
+permalink: /de/project/
+link: /project/
+layout: fields
+title: about
+lang: de
 ---
-**This will be translated in to French**
+**This will be translated into German**
 
 **'Popkult60': A closer look at popular culture in Europe over the long decade of the 1960s**
 
