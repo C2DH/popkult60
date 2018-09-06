@@ -1,10 +1,10 @@
 ---
-permalink: /project/
-link: /project/
+permalink: /publications/
+link: /publications/
 layout: fields
-title: about Popkult60
+title: Publications
 subheading: "Popkult60: A closer look at popular culture in Europe over the long decade of the 1960s"
-lang: en
+lang:
 figure:
   - src: assets/images/uni.lu
     caption: uni lu logo
