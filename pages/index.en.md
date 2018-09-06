@@ -5,11 +5,8 @@ layout: index
 title: Popkult60
 lang: en
 sentences:
-  - popular culture; transnationality; media
-  - Europe; Sixties; long decade; events
-  - americanisation; generations; television; radio
-  - mainstream; avant-garde; graphic novels
-  - cultural; political; social
+  - popular culture; transnationality; media; Europe; Sixties; long decade; events; americanisation; generations; television; 
+  - radio mainstream; avant-garde; graphic novels; cultural; political; social
 
 ---
 
