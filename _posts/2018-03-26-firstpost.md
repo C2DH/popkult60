@@ -2,7 +2,7 @@
 layout: post
 title:  "First post"
 category: event
-activelink: /blog/
+activelink: /blog/2018-03-26-firstpost
 date: 2018-03-26
 
 ---
