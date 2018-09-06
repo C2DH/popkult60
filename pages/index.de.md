@@ -5,8 +5,7 @@ layout: index
 title: Popkult60
 lang: de
 sentences:
-  - Der Beitrag geht der Frage nach,
-  - warum Konflikte eine so große Bedeutung
+  - Populärluktur; Medien; Europa; Sixties; Transnational
  
 ---
 
