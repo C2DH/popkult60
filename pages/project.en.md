@@ -15,32 +15,32 @@ Compared to the United States or to Britain, the history of popular culture has 
 The project "Popular Culture Transnational - Europe in the Long 1960s" aims to fill obvious contemporary historical desiderata in the field of transnational popular culture, to underpin theoretical debates with empirical case studies and to demonstrate the added value of transnational access to single country analyses. This is to be done through seven popular culture studies, all of which look beyond national borders and consider several countries, cultures and societies. Particularly far-reaching insights is making possible through the common spatial - Western European - and temporal - the long 1960s - framing as well as the fundamentally interwoven research designs, that avoid the potential "ivory tower" risks by joining projects, and give the possibility of a highly-functional approach and almost inevitable synergies between the projects. Therefore, all planned examinations in the core are deliberately mutually interdependent, operate consistently with the same, at least with similar key questions and locate themselves in several research-relevant and eponymous fields of tension of "popular culture transnational".
 
 
-## Research Director: Prof. Dr. Andreas Fickers
+# Research Director: Prof. Dr. Andreas Fickers
 
 Richard Legay, *Commercial radio stations and their soundscape in popular culture and practices in Western Europe in the 60s" - Transnational and transmedia approaches to the history of Radio Luxembourg/RTL and Europe n°1 in the larger 1960s*
 
 
-## Research Director: Prof. Dr. Dietmar Hüser
+# Research Director: Prof. Dr. Dietmar Hüser
 
 Dr. Maude Williams, *Music-Field Europe – German-French Music Entanglements in Transatlantic und Inner-european Exchange Dynamics during the long 1960s*
 
 
-## Research Director: Prof. Dr Sonja Kmec
+# Research Director: Prof. Dr Sonja Kmec
 
 Julia Wack, *Ambitious Amateurs - Europeans Filmclubs during the long 1960s*
 
 
-## Research Director: Ass.-Prof. Dr. Benoît Majerus
+# Research Director: Ass.-Prof. Dr. Benoît Majerus
 
 Jessica Burton, *Anti-Heroes of Desamericanization? - The bandes dessinées of the Franco-Belgian School as actors of the popular cultural Europeanization of comic culture in the long 1960s*
 
 
-## Research Director: Jun. Prof. Dr. Christoph Vatter
+# Research Director: Jun. Prof. Dr. Christoph Vatter
 
 Ann-Kristin Kurberg, *Entertainment without Frontiers - Representing and Performing Other Cultures in German, French, and Spanish TV Shows of the 1960s*
 
 
-## Research Director: Prof. Dr. Clemens Zimmermann
+# Research Director: Prof. Dr. Clemens Zimmermann
 
 Aline Maldener, *Youth Mass Media and their Popular Youth Culture in West Germany, Great Britain and France during the 1960s and 70s*
 
