@@ -5,24 +5,38 @@ layout: fields
 title: About
 lang: fr
 ---
-**This will be translated in to French**
+Comparée aux États-Unis ou à la Grande-Bretagne, l'histoire de la culture populaire a longtemps eu une réputation difficile dans les milieux académiques dans de nombreux pays d'Europe continentale. Bien que cela ait également changé au cours des deux dernières décennies: les produits culturels populaires, les phénomènes et les pratiques sont maintenant entrés dans l'histoire de la recherche contemporaine et dans les manuels récents sur l'histoire du XXe siècle, ils sont en partie marginaux. Néanmoins, le potentiel heuristique d’études de la culture populaire concernant le changement des rapports sociaux et politiques est encore sous-estimé, et de nombreux sujets pertinents sont encore . C'est encore plus vrai d'un point de vue transnational et pour des examens dimensionnés en Europe. Mais avec toute réflexion due sur les méthodes et les concepts de la forme de l'histoire transnationale encore clairement défini, comparativement sources études saturées aspects de la culture populaire en deux ou plusieurs sociétés, le transfert et prendre l'histoire entrelaçant en vue, encore l'exception plutôt que la règle.
+	Le projet « culture de masse  transnationale - Europe dans les longues années 1960 » a pour but de combler ces desiderata de l’histoire contemporaine dans le domaine de la culture de masse transnationale pour soutenir les débats théoriques avec des études de cas empiriques et de démontrer la valeur ajoutée d'un angle transnational aux analyses des pays individuels. Ceci s’opère au sein du projet à travers sept études, qui regardent toutes au-delà des frontières nationales et prennent en compte plusieurs pays, cultures et sociétés. En particulier, les espaces spatiaux - Europe de l'Ouest - et temporels – en commun à tous les projets laissent entrevoir des découvertes de grande ampleur. L’encadrement et la conception étroite du projet de recherche permet également d’éviter le potentiel danger d’isolement et au contraire rend possible une méthode de travail basée sur le dialogue d’où émergent inévitablement une synergie entre les projets. C’est de manière consciente et volontaire que toutes les recherches prévues sont reliées les unes aux autres et opère avec les mêmes – sinon du moins de similaires – questionnements et s’encrent dans les différents champs de tensions qu’englobe le projet « culture de masse transnationale ».
 
-**'Popkult60': A closer look at popular culture in Europe over the long decade of the 1960s**
 
-We are an interdisciplinary research group focusing on the transnational history of popular culture in the 60s, composed of members from the Luxembourg Centre for Contemporary and Digital History (C²DH), the Institute for History at the University of Luxembourg and the University of Saarland.
+directeur de projet: Prof. Dr. Andreas Fickers
 
-This is a three-year project between Germany and Luxembourg, which has received €2 million in funding from the Luxembourg National Research Fund (FNR) and the German Research Foundation (DFG). The research team is composed of three professors from Saarland University (Prof. Dietmar Hüser, spokesman for the research unit, Prof. Clemens Zimmerman and Prof. Christoph Vatter) and three professors from the University of Luxembourg (Prof. Andreas Fickers, Prof. Sonja Kmec and Prof. Benoît Majerus). The grant will provide funding for seven PhD students, four at Saarland University and three at the University of Luxembourg.
+"Les stations de radio commerciales et leur paysage sonore dans la culture populaire et les pratiques en Europe de l'Ouest dans les années 60"- Approches transnationales et transmédiales de l'histoire de Radio Luxembourg / RTL et Europe n ° 1 dans les années 1960
+Richard Legay
 
-Partner institutions:
+Directeur de projet: Prof. Dr. Dietmar Hüser
 
-The Deutsche Forschungsgemeinschaft (DFG) is the self-governing organisation for science and research in Germany. This association under private law serves all branches of science and the humanities. Its membership consists of German research universities, non-university research institutions, scientific associations and the Academies of Science and the Humanities. It receives the large majority of its funds from the federal government and the states and finances selected projects.
+"Champ musical Europe" – Enchevêtrements musicaux franco-allemands au sein d’une dynamique d’échange transatlantique et intra-européenne durant les années 1960
+Dr. Maude Williams
 
-The Luxembourg Centre for Contemporary and Digital History (C²DH) is the University of Luxembourg’s third interdisciplinary research centre, focusing on high-quality research, analysis and public dissemination in the field of contemporary Luxembourgish and European history. It promotes an interdisciplinary approach with a particular focus on new digital methods and tools for historical research and teaching.
+Directrice de projet: Prof. Dr Sonja Kmec
 
-The Institute for History (IHIST) at the University of Luxembourg investigates continuities and changes over the long term, from Antiquity to today, with a focus on the historical areas forming today’s Luxembourg and Greater Region. The four major strands of research at IHIST are Borders and Identity, Power and Legitimation, History and Space and Materiality and Culture.
+"Ambitionierte Amateure" -­ Europäische Filmclubs in den langen 1960er Jahren
+Julia Wack
 
-The University of Luxembourg, founded in 2003, is the only public university of the Grand Duchy of Luxembourg. Multilingual, international and research-oriented, it is also a modern institution with a personal atmosphere.
+Teilprojektleiter: Ass.-Prof. Dr. Benoît Majerus
 
-Saarland University / Universität des Saarlandes Transcending boundaries is a hallmark of Saarland University: no matter whether these are geographical borders, cultural boundaries, barriers between academic disciplines, or outmoded divisions between academia and economic and cultural life. International relations and networking are keywords in all fields: Informatics, nanotechnology, biosciences but also Humanities.
+Les anti-héros de la désaméricanisation ? Les bandes dessinées de l’école franco-belge comme acteur d’européisation de culture populaire dans les longues années 1960. (L2)
+Jessica Burton 
+Directeur de projet: Jun.-Prof. Dr Christoph Vatter
 
-The Institute for History at the Saarland University deals with political, social and cultural aspects of European history. The focus is on the history of Europe, Franco-German and transatlantic relations, comparisons and transfers. Political culture, communication and history of the media, nation building, migrations, but also pop culture are the majors research fields of the institute. In addition, questions of international politics and European integration will be dealt with, especially in terms of modern cultural history.
+Divertissement sans frontières – Représentation et mise en scène des cultures étrangères dans les émissions de divertissement télévisuels allemand, français et espagnols des années 1960 Ann-Kristin Kurberg
+
+Directeur de projet: Prof. Dr Clemens Zimmermann
+ 
+"Médias des jeunes et leur culture populaire en Allemagne de l'Ouest, Grande-Bretagne et France pendant les années 60 et 70"
+Aline Maldener
+
+
+De l’heure du conte à la vie réelle – Les séries européennes pour enfants dans les longues années 1960
+Dr. Gunter Mahlerwein
