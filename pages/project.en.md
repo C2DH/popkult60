@@ -17,33 +17,33 @@ The project "Popular Culture Transnational - Europe in the Long 1960s" aims to f
 
 ## Research Director: Prof. Dr. Andreas Fickers
 
-*Commercial radio stations and their soundscape in popular culture and practices in Western Europe in the 60s" - Transnational and transmedia approaches to the history of Radio Luxembourg/RTL and Europe n°1 in the larger 1960s*
-## Richard Legay
+Richard Legay, *Commercial radio stations and their soundscape in popular culture and practices in Western Europe in the 60s" - Transnational and transmedia approaches to the history of Radio Luxembourg/RTL and Europe n°1 in the larger 1960s*
+
 
 ## Research Director: Prof. Dr. Dietmar Hüser
 
-*Music-Field Europe" – German-French Music Entanglements in Transatlantic und Inner-european Exchange Dynamics during the long 1960s*
-## Dr. Maude Williams
+Dr. Maude Williams, *Music-Field Europe – German-French Music Entanglements in Transatlantic und Inner-european Exchange Dynamics during the long 1960s*
+
 
 ## Research Director: Prof. Dr Sonja Kmec
 
-*Ambitious Amateurs" - Europeans Filmclubs during the long 1960s*
-## Julia Wack 
+Julia Wack, *Ambitious Amateurs - Europeans Filmclubs during the long 1960s*
+
 
 ## Research Director: Ass.-Prof. Dr. Benoît Majerus
 
-*Anti-Heroes of Desamericanization? - The bandes dessinées of the Franco-Belgian School as actors of the popular cultural Europeanization of comic culture in the long 1960s*
-## Jessica Burton
+Jessica Burton, *Anti-Heroes of Desamericanization? - The bandes dessinées of the Franco-Belgian School as actors of the popular cultural Europeanization of comic culture in the long 1960s*
+
 
 ## Research Director: Jun. Prof. Dr. Christoph Vatter
 
-*Entertainment without Frontiers - Representing and Performing Other Cultures in German, French, and Spanish TV Shows of the 1960s*
-## Ann-Kristin Kurberg
+Ann-Kristin Kurberg, *Entertainment without Frontiers - Representing and Performing Other Cultures in German, French, and Spanish TV Shows of the 1960s*
+
 
 ## Research Director: Prof. Dr. Clemens Zimmermann
 
-*Youth Mass Media and their Popular Youth Culture in West Germany, Great Britain and France during the 1960s and 70s*
-## Aline Maldener
+Aline Maldener, *Youth Mass Media and their Popular Youth Culture in West Germany, Great Britain and France during the 1960s and 70s*
 
-*Von der Märchenstunde zur Lebenswelt - Europäische Kinderserien in den langen 1960er Jahren* 
-## Dr. Gunter Mahlerwein
+
+Dr. Gunter Mahlerwein, *Von der Märchenstunde zur Lebenswelt - Europäische Kinderserien in den langen 1960er Jahren* 
+
