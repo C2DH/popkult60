@@ -44,6 +44,5 @@ Ann-Kristin Kurberg, *Entertainment without Frontiers - Representing and Perform
 
 Aline Maldener, *Youth Mass Media and their Popular Youth Culture in West Germany, Great Britain and France during the 1960s and 70s*
 
-
 Dr. Gunter Mahlerwein, *Von der Märchenstunde zur Lebenswelt - Europäische Kinderserien in den langen 1960er Jahren* 
 
