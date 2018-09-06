@@ -5,7 +5,7 @@ layout: index
 title: Popkult60
 lang: fr
 sentences:
-  - popular culture; transnationality; media; Europe; Sixties; television; americanisation
+  - culture populaire; média; Europe; Sixties; télévision; américanisation
 
 ---
 
