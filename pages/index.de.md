@@ -14,7 +14,7 @@ Willkommen auf der Webseite des Forschungsprojektes « Populärkultur Transnatio
 
 Unser Ziel ist es, kulturelle europäische Transfers während der langen 1960er Jahren in einer transnationalen Perspektive zu untersuchen. Auf dieser Webseite werden Sie Informationen über Spannungsfelder finden, die im Kern unseres Projekts stehen, sowie Beschreibungen der verschiedenen Themen, die von unseren Forschern behandelt werden. Sie können auch die Fortschritte unserer Recherche auf unserem Blog verfolgen und uns direkt kontaktieren, wenn Sie es möchten.
 
-Viel Spaß beim Lesen
+Viel Spaß beim Lesen!
 
 Die Forschergruppe Popkult60 
 
