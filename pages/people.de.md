@@ -3,6 +3,6 @@ permalink: /de/people/
 link: /people/
 layout: people
 title: People
-subheading: ...
+subheading: Das Team
 lang: de
 ---
