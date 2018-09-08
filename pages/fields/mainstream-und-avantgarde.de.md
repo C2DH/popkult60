@@ -1,0 +1,5 @@
+- Das relationale Begriffsverständnis von Massenhaftem
+- Mainstream & Avantgarde in engen Wechselbeziehungen
+- die Avantgarden als Impulsgeber für kulturellen Wandel in populärkulturellen Medien (Hybridisierungsprozesse, Infragestellen ästhetischer Monopole)
+- der Fokus auf dem kreativen Potenzial populärkultureller Phänomene und auf kreativen Aneignungsprozessen von Konsumenten ("consommateurs")
+- die doppelte Perspektive auf populärkulturelle Medien sowohl der Avantgarden als auch des Mainstream
