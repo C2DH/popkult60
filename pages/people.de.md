@@ -2,7 +2,7 @@
 permalink: /de/people/
 link: /people/
 layout: people
-title: People
-subheading: Das Team
+title: Das Team
+subheading: The team behind Popkult60
 lang: de
 ---
