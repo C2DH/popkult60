@@ -4,11 +4,11 @@ primary:
       href: /
     - title: project
       href: /project/
-    - title: people
-      href: /people/
     - title: fields
       href: /fields/
-    - title: blog
-      href: /blog/
+    - title: people
+      href: /people/
     - title: publications
       href: /publications/
+    - title: blog
+      href: /blog/
