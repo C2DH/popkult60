@@ -6,5 +6,5 @@ title: Popkult60
 lang: de
 ---
 
-Popkult60 is a project relying on 8 core research areas, or "fields", that are the backbone of the intellectual framework behind the project.
+Das Forschungsprojekt gliedert sich in acht Spannungsfelder. In jedem Workshop des Forschungsprojekts wird eines dieser Felder hervorgehoben und mit den von den verschiedenen Forschern behandelten Themen verknüpft. (Siehe Programm der Workshops).
 <!-- more -->
