@@ -6,5 +6,5 @@ title: Fields
 lang: fr
 ---
 
-Popkult60 est un project qui s'appuie sur 8 concepts de recherche centraux, ou "champs", qui sont la colonne vertébrale du cadre intellectuel autour du projet.
+Le projet de recherche s’articule autour de huit champs de tensions. Chaque atelier du projet de recherche met à l’honneur un de ces champs et le relie avec les sujets traités par les différents chercheurs.
 <!-- more -->
