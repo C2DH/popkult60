@@ -14,7 +14,7 @@ layout: default
         {% else %}
           {% assign absolute_url = "/assets/images/random.png" | relative_url %}
         {% endif %}
-        <div class="col-sm-4 col-lg-3">
+        <div class="col-sm-4 col-lg-4">
           <div class="field person">
             <a href="{{person.url}}" target="_blank">
             <div class="cover-wrapper">
@@ -25,8 +25,8 @@ layout: default
             </a>
             <div class="metadata">
               <h2><a href="{{person.url}}" target="_blank"><span>{{person.name}}</span></a></h2>
-              {% assign description = person.description[page.lang]%}
-              <div>{{ description | markdonify}}</div>
+              {% assign description = person.description[page.lang] | markdonify %}
+              <div>{{ description  }}</div>
             </div>
           </div>
         </div>
