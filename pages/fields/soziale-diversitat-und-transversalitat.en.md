@@ -1,3 +1,10 @@
+---
+category: field
+title: soziale-diversitat-und-transversalitat
+slug: soziale-diversitat-und-transversalitat
+lang: en
+ordering: 4
+---
 - Differences between age groups, social classes, races/ethnicities, cultures and genders
 -	Intersectional overlapses and dynamics
 -	Empowerement and growing awareness of diversity

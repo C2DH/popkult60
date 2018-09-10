@@ -1,3 +1,10 @@
+---
+category: field
+title: mainstream-und-avantgarde
+slug: mainstream-und-avantgarde
+lang: en
+ordering: 5
+---
 -	Relative conception of mass
 -	Mainstream and avant-garde in close interaction
 -	Avant-gardes as catalysts of cultural changes in popular cultural media (process of hybridation, questions of aesthetical monopolies)

@@ -1,3 +1,10 @@
+---
+category: field
+title: Popkult60
+slug: amerikanisches-und-europaisches
+lang: fr
+ordering: 1
+---
 - L'Amérique comme symbole de bouleversements profonds et de débats sur sa propre existence en Europe
 - Un concept d’américanisation ouvert: appropriation sélective et usage quotidien par des individus ou des groupes
 - La valeur ajoutée d’une perspective historico-temporelle transnationale et européenne cohérente

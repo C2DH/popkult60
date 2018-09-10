@@ -1,3 +1,10 @@
+---
+category: field
+title: orte-raume-und-lokalitat
+slug: orte-raume-und-lokalitat
+lang: de
+ordering: 6
+---
 - Orte, Räume und Lokalitäten als zentrale Kategorien der Kultur- und Medienanalyse: allen Entgrenzungen von Kommunikation im Zeitalter transnationaler medialer Ströme zum Trotz
 - Die hohe Relevanz sowohl der Flüsse und Transfers medialer Produkte wie auch der konkreten sozialen Orte ihrer Aneignung (Jugendclub, Familien-Wohnzimmer etc.)
 - Die oft konstitutive Bedeutung von Ortsbezügen und örtlichen Imaginationen für populäre Medienprodukte

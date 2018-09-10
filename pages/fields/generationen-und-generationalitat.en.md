@@ -1,3 +1,10 @@
+---
+category: field
+title: generationen-und-generationalitat
+slug: generationen-und-generationalitat
+lang: en
+ordering: 3
+---
 Problematisation of intergenerational process of negociation (aethetical norms, political values, family patterns) in concrete locations (family, clubs, etc.)
 
 -	Focus put on communities where one lives the experience of popular culture, affected by specific consumption modes, gender and socio-cultural backgrounds

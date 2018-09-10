@@ -1,3 +1,10 @@
+---
+category: field
+title: Popkult60
+slug: dispositiv-medialitat-medienensemble
+lang: de
+ordering: 7
+---
 - das systematische Analysieren und Reflektieren intermedialer Bezüge im massenmedialen Ensemble: bei aller thematischer Fokussierung auf Einzelmedien (Radio, TV, Comics, Film etc.)
 - die konstitutive Rolle von Medien in der Konstruktion populärkultureller Lebenswelten und Identitäten, d.h. die Medialität der langen 1960er Jahre als Kernthematik der Teilprojekte
 - die Relevanz des Dispositivbegriffs als analytische Kategorie, um den Sinn für die eng verflochtenen technisch-materiellen, inhaltlich-ästhetischen und wahrnehmungstechnischen Dimensionen von Medien zu schärfen

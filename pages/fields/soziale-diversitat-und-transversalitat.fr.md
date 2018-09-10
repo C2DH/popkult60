@@ -1,3 +1,10 @@
+---
+category: field
+title: soziale-diversitat-und-transversalitat
+slug: soziale-diversitat-und-transversalitat
+lang: fr
+ordering: 4
+---
 - La différence entre les catégories âge, classe, race / ethnie / culture et sexe
 - Les chevauchements et les dynamiques intersectionnels
 - La prise de conscience croissante de la diversité (« enpowerment »)

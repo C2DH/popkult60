@@ -1,3 +1,10 @@
+---
+category: field
+title: soziale-diversitat-und-transversalitat
+slug: soziale-diversitat-und-transversalitat
+lang: de
+ordering: 4
+---
 - Die Differenzkategorien Alter, Klasse, race/Ethnie/Kultur und Geschlecht
 - Die intersektionalen Überschneidungen und Dynamisierungen
 - Das wachsende Bewusstsein für Diversität („empowerment“)

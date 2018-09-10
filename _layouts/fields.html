@@ -9,11 +9,11 @@ layout: default
     <h2 class='subheading'><span>{{page.subheading}}</span></h2>
     {% assign contents = page.content | split: site.excerpt_separator %}
 
-    <blockquote class="abstract">{{ contents | first | markdownify }}</blockquote>
+    <!-- <blockquote class="abstract">{{ contents | first | markdownify }}</blockquote> -->
 
 
       <div class='row' >
-        {% assign fields = site.pages | where: "category", "field" | lang: "en"  | sort: "ordering" %}
+        {% assign fields = site.pages | where: "category", "field" | where: "lang", page.lang  | sort: "ordering" %}
 
 
         {% assign min = 1 %}
@@ -33,17 +33,17 @@ layout: default
             </div>
             <div class='metadata'>
               <h2><a href='{{field.permalink | relative_url}}'><span>{{field.title}}</span></a></h2>
-              {% assign parts = field.content | split: site.excerpt_separator %}
-              <div>{{field.subheading}}</div>
+
+              <div>{{ field.content | markdownify }}</div>
             </div>
           </div>
         </div>
         {% endfor %}
       </div>
 
-      <section class="contents">
+      <!-- <section class="contents">
         {{ contents | last | markdownify }}
-      </section>
+      </section> -->
 
 
 

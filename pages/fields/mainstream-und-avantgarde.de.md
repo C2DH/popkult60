@@ -1,3 +1,10 @@
+---
+category: field
+title: mainstream-und-avantgarde
+slug: mainstream-und-avantgarde
+lang: de
+ordering: 5
+---
 - Das relationale Begriffsverständnis von Massenhaftem
 - Mainstream & Avantgarde in engen Wechselbeziehungen
 - die Avantgarden als Impulsgeber für kulturellen Wandel in populärkulturellen Medien (Hybridisierungsprozesse, Infragestellen ästhetischer Monopole)

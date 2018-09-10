@@ -1,3 +1,10 @@
+---
+category: field
+title: event-serialitat-und-unterhaltung
+slug: event-serialitat-und-unterhaltung
+lang: de
+ordering: 8
+---
 - Der Aufstieg des Fernsehens als neues Leitmedium bei zugleich multimedialen Nutzungspraktiken der Medienkonsumenten
 - Das Zunehmen häuslich-familiärer Praktiken (TV) wie auch mobiler Mediennutzung (Transistor, Tonband, Plattenspieler)
 - Das Medienensemble als wechselseitiges Verweissystem und die daraus resultierenden Verstärkereffekte
