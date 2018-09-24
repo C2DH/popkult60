@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Eröffnungsvortrag der Forschergruppe"
+title:  "Popgeschichte als Gesellschaftsgeschichte. Potenziale der geschichtswissenschaftlichen Erforschung populärer Kulturen"
 subheading: Detlef Siegfried
 
 category: event
 
 ---
 
-# Popgeschichte als Gesellschaftsgeschichte. Potenziale der geschichtswissenschaftlichen Erforschung populärer Kulturen 
+# Eröffnungsvortrag der Forschergruppe
 Zum Eröffnungsvortrag der neugegründeten deutsch-luxemburgischen DFG-Forschergruppe "Populärkultur transnational - Europa in den langen 1960er Jahren" setzte sich Detlef Siegfried (University of Copenhagen) mit der Historiographie von Populärkultur auseinander und skizzierte mögliche Forschungsperspektiven. Nach vielen Jahren von Desinteresse an Populärkultur in der Wissenschaft rückt dieses Forschungsfeld seit Anfang der 2000er näher in den Blick der Kultur-, Medien- und Geschichtswissenschaftler.
 
 <!-- more -->
