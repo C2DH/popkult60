@@ -7,6 +7,7 @@ subheading: "Popkult60: A closer look at popular culture in Europe over the long
 lang: de
 ---
 ## Populärkultur Transnational – Europa in den langen 1960er Jahren
+<!-- more -->
 
 Verglichen mit den Vereinigten Staaten oder Großbritannien hat die Geschichte der Populär- kultur in vielen kontinentaleuropäischen Ländern lange einen schweren akademischen Stand gehabt. Zwar hat sich dies auch dort in den letzten beiden Jahrzehnten verändert: Populärkulturelle Produkte, Phänomene und Praktiken sind nunmehr in den zeithistorischen Forschungsbetrieb eingezogen und finden in jüngeren Handbüchern zur Geschichte des 20. Jahrhunderts teils marginal, teils ausgiebiger Erwähnung.
 
