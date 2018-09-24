@@ -1,5 +1,5 @@
 ---
-permalink: /publications/
+permalink: /fr/publications/
 link: /publications/
 layout: project
 title: publications
