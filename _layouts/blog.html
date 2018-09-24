@@ -10,13 +10,14 @@ layout: default
         {% for post in site.posts %}
         <div class='col-sm-6'>
           <div class='field'>
-            <div class='cover-wrapper'>
+            <!-- <div class='cover-wrapper'>
               <div class='cover'>
 
               </div>
-            </div>
+            </div> -->
             <div class='metadata'>
-              <h2><a href='{{post.permalink | relative_url}}'><span>{{post.title}}</span></a></h2>
+              <h2><a href='{{post.url | relative_url}}'><span>{{post.title}}</span></a></h2>
+              {% if post.subheading %}<h3>{{post.subheading}}</h3>{% endif %}
               <div>{{ post.excerpt }}</div>
             </div>
           </div>

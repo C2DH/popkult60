@@ -1,6 +1,6 @@
 div.page{
   position: relative;
-  padding: 96px 0;
+  padding: 150px 0;
   background: linear-gradient($floyd-pink-c, $floyd-pink);
 
   // border-left: 30px solid #f1f43F;
@@ -13,7 +13,7 @@ div.page{
 
   h1.title{
     text-align: center;
-    border-bottom: 2px solid $floyd-dark;
+    // border-bottom: 2px solid $floyd-dark;
     margin:0;
     padding-bottom: 3px;
     > span{
@@ -32,7 +32,7 @@ div.page{
     font-size: 40px;
     line-height: 40px;
     text-align: center;
-    border-bottom: 2px solid;
+    // border-bottom: 2px solid;
     padding-bottom: 4px;
     span{
       font-family: Olio-Bold;

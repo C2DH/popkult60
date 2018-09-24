@@ -1,5 +1,5 @@
 ---
-permalink: /blog/
+permalink: /de/blog/
 link: /blog/
 layout: blog
 title: Popkult60
