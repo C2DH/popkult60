@@ -7,6 +7,8 @@ subheading: "Popkult60: A closer look at popular culture in Europe over the long
 lang: fr
 ---
 
+## Culture populaire transnationale - L'Europe dans les 'longues' années 1960 
+
 <!-- more -->
 Comparée aux États-Unis ou à la Grande-Bretagne, l'histoire de la culture populaire a longtemps eu une réputation difficile dans les milieux académiques dans de nombreux pays d'Europe continentale. Bien que cela ait également changé au cours des deux dernières décennies: les produits culturels populaires, les phénomènes et les pratiques sont maintenant entrés dans l'histoire de la recherche contemporaine et dans les manuels récents sur l'histoire du XXe siècle, ils sont en partie marginaux.
 
