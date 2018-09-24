@@ -9,7 +9,7 @@ sentences:
 
 ---
 
-Bienvenue sur le site du projet de recherche « Culture populaire transnationale - L'Europe dans les 'longues' années 1960 » soutenu par la Deutsche Forschungsgemeinschaft (DFG) en Allemagne et le Fonds National de la Recherche (FNR) au Luxembourg.  
+Bienvenue sur le site du projet de recherche **« Culture populaire transnationale - L'Europe dans les 'longues' années 1960 »** soutenu par la Deutsche Forschungsgemeinschaft (DFG) en Allemagne et le Fonds National de la Recherche (FNR) au Luxembourg.  
 
 Notre équipe interdisciplinaire est composée de chercheurs du [Luxembourg Centre for Contemporary and Digital History (C²DH)](https://c2dh.uni.lu) et de [Institute for History (IHIST)](https://history.uni.lu/) de l’[Université du Luxembourg](https://wwwfr.uni.lu/) ainsi que de la [Lehrstuhl für Zeitgeschichte](https://www.uni-saarland.de/lehrstuhl/zeitgeschichte/hueser.html), de la [Lehrstuhl für Mediengeschichte](http://www.kmg.uni-saarland.de) et de la [Romanische Kulturwissenschaft und interkulturelle Kommunikation](http://www.kmg.uni-saarland.de) de l’[Université de la Sarre](https://www.uni-saarland.de/nc/startseite.html). 
 
