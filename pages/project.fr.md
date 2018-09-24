@@ -6,6 +6,8 @@ title: Projet
 subheading: "Popkult60: A closer look at popular culture in Europe over the long decade of the 1960s"
 lang: fr
 ---
+
+<!-- more -->
 Comparée aux États-Unis ou à la Grande-Bretagne, l'histoire de la culture populaire a longtemps eu une réputation difficile dans les milieux académiques dans de nombreux pays d'Europe continentale. Bien que cela ait également changé au cours des deux dernières décennies: les produits culturels populaires, les phénomènes et les pratiques sont maintenant entrés dans l'histoire de la recherche contemporaine et dans les manuels récents sur l'histoire du XXe siècle, ils sont en partie marginaux.
 
 Néanmoins, le potentiel heuristique d’études de la culture populaire concernant le changement des rapports sociaux et politiques est encore sous-estimé, et de nombreux sujets pertinents sont encore . C'est encore plus vrai d'un point de vue transnational et pour des examens dimensionnés en Europe. Mais avec toute réflexion due sur les méthodes et les concepts de la forme de l'histoire transnationale encore clairement défini, comparativement sources études saturées aspects de la culture populaire en deux ou plusieurs sociétés, le transfert et prendre l'histoire entrelaçant en vue, encore l'exception plutôt que la règle.
