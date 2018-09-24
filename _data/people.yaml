@@ -42,8 +42,8 @@
     en: Benoît Majerus is Associate Professor of European History at the University of Luxembourg. His research focuses on the history of occupation during the two world wars and the history of psychiatry in the 20th century. He has a monthly radio show on comics on [Radio Campus Bruxelles](https://radio.grandpapier.org).
     de: Benoît Majerus ist Associate Professor für Europäische Geschichte an der Universität Luxemburg. Er forscht hauptsächlich zur Geschichte der Besatzungen während den zwei Weltkriegen und der Geschichte der Psychiatrie im 20. Jahrhundert. Er hat eine monatliche Radiosendung über Comics auf [Radio Campus Bruxelles](radio.grandpapier.org).
   email: benoit.majerus@uni.lu
-  thumbnail: https://pbs.twimg.com/profile_images/705357867797385216/WPXZmXzJ_400x400.jpg
-  url: "https://www.c2dh.uni.lu/people/benoit-majerus"
+    https://pbs.twimg.com/profile_images/705357867797385216/WPXZmXzJ_400x400.jpg
+  thumbnail: url: "https://www.c2dh.uni.lu/people/benoit-majerus"
   CV: /assets/pdf/Benoit-CV-publi.pdf
 -
   role: professor
@@ -87,6 +87,7 @@
     en: Maude Williams has studied history and cross-cultural studies in various Franco-German university programs. She worked at the University of Saarland in a Franco-German research project on evacuations of the border region during the Second World War, in which her thesis was supervised (Sorbonne University / Eberhard Karl Universität Tübingen). She graduate in 2016. After being interested in the Franco-German conflicts of the twentieth century and communication mechanisms in wartime, her research is currently focused on the post-war cultural history in France Germany and especially the Franco-German musical exchanges.
     de: Maude Williams hat Geschichte an der Université de Lorraine und der Universität des Saarlandes studiert und zwei Masterabschlüsse in Geschichte und interkulturelle Studien an der Université Lumière Lyon 2 und an der Albert-Ludwig Universität Freiburg i.B. abgeschlossen. 2013-2016 arbeitete sie an der Universität des Saarlandes in einem deutsch-französischen Forschungsprojekt zu Evakuierungen der Grenzregion während des Zweiten Weltkriegs, in dem sie 2016 ihre Dissertation in Cotutelle (Sorbonne Université/Eberhard Karl Universität Tübingen) abschloss. Neben deutsch-französischen Konflikten des 20. Jahrhunderts und Kommunikationsmechanismen in Kriegszeiten liegen ihre Forschungsinteressen in der Kulturgeschichte der Nachkriegszeit in Frankreich und Deutschland und insbesondere im deutsch-französischen Transfer populärer Musik.
   email: maude.williams@uni-saarland.de
+  thumbnail: /assets/images/williams.jpg
   url: "https://www.uni-saarland.de/lehrstuhl/zeitgeschichte/mitarbeiter/m-williams/zur-person.html"
   CV: /assets/pdf/Williams-CV-publi.pdf
 -
