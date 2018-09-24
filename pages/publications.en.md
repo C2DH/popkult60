@@ -7,7 +7,6 @@ subheading: "Popkult60: A closer look at popular culture in Europe over the long
 lang: en
 ---
 
-Introduction to the list of publication 
 <!-- more -->
 ## Publications
 
