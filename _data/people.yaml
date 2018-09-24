@@ -42,8 +42,8 @@
     en: Benoît Majerus is Associate Professor of European History at the University of Luxembourg. His research focuses on the history of occupation during the two world wars and the history of psychiatry in the 20th century. He has a monthly radio show on comics on [Radio Campus Bruxelles](https://radio.grandpapier.org).
     de: Benoît Majerus ist Associate Professor für Europäische Geschichte an der Universität Luxemburg. Er forscht hauptsächlich zur Geschichte der Besatzungen während den zwei Weltkriegen und der Geschichte der Psychiatrie im 20. Jahrhundert. Er hat eine monatliche Radiosendung über Comics auf [Radio Campus Bruxelles](radio.grandpapier.org).
   email: benoit.majerus@uni.lu
-    https://pbs.twimg.com/profile_images/705357867797385216/WPXZmXzJ_400x400.jpg
-  thumbnail: url: "https://www.c2dh.uni.lu/people/benoit-majerus"
+  thumbnail: https://pbs.twimg.com/profile_images/705357867797385216/WPXZmXzJ_400x400.jpg
+  url: "https://www.c2dh.uni.lu/people/benoit-majerus"
   CV: /assets/pdf/Benoit-CV-publi.pdf
 -
   role: professor
