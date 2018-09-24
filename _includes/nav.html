@@ -27,16 +27,10 @@
                     </a>
                   </li>
                 {% endfor %}
-                  <li class="nav-item active">
 
-                  </li>
-
-                  {% for lang in site.languages %}
-                  <li class="nav-item {% if lang == page.lang %} active {% endif %}">
-                    <a class="nav-link" {% if lang == site.default_lang %} href='{{page.link | relative_url}}' {% else %} href='{{lang | relative_url}}{{page.link}}' {% endif %}><span>{{lang}}</span></a>
-                  </li>
-                  {% endfor %}
               </ul>
+
+              {% include languages.html %}
           </div>
       </div>
   </nav>

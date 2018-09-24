@@ -139,11 +139,13 @@ body.index{
 
 #fillme-wrapper{
   font-family: OlioInline;
-  font-size: 14px;
-  position:absolute; top: 120px; left: 0px;font-size:1.5em;z-index:4;
-  left: 50%;
-  margin-left: -25%;
-  width: 50%;
+
+  position:absolute;
+  top: 120px;
+  left: 15px;
+  right: 15px;
+  font-size:1.5em;
+  z-index:4;;
   text-align: center;
 }
 
