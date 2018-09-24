@@ -17,4 +17,4 @@ Notre objectif est d’analyser les transferts culturels européens dans une per
 
 Bonne visite ! 
 
-L’équipe Popkult60.
+L’équipe Popkult60
