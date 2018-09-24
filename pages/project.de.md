@@ -6,6 +6,8 @@ title: Projekt
 subheading: "Popkult60: A closer look at popular culture in Europe over the long decade of the 1960s"
 lang: de
 ---
+## Populärkultur Transnational – Europa in den langen 1960er Jahren
+
 Verglichen mit den Vereinigten Staaten oder Großbritannien hat die Geschichte der Populär- kultur in vielen kontinentaleuropäischen Ländern lange einen schweren akademischen Stand gehabt. Zwar hat sich dies auch dort in den letzten beiden Jahrzehnten verändert: Populärkulturelle Produkte, Phänomene und Praktiken sind nunmehr in den zeithistorischen Forschungsbetrieb eingezogen und finden in jüngeren Handbüchern zur Geschichte des 20. Jahrhunderts teils marginal, teils ausgiebiger Erwähnung.
 
 Dennoch wird das Erkenntnispotenzial von Populärkultur für den Wandel gesellschaftlicher und politischer Verhältnisse weiterhin unterschätzt, noch immer liegen zahlreiche relevante Themenbereiche wissenschaftlich brach. Dies gilt erst recht unter transnationalen Gesichtspunkten und für europäisch dimensionierte Untersuchungen. Denn bei allem Nachdenken über Methoden und Konzepte transnationaler Geschichte bilden doch klar abgegrenzte, quellengesättigte Studien, die Aspekte der Populärkultur in zwei oder mehr Gesellschaften vergleichs-, transfer- und verflechtungsgeschichtlich in den Blick nehmen, nach wie vor eher die Ausnahme als die Regel.
