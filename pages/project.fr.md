@@ -29,7 +29,7 @@ Dr. Maude Williams, *Champ musical Europe – Enchevêtrements musicaux franco-a
 
 Julia Wack, *Ambitionierte Amateure - Europäische Filmclubs in den langen 1960er Jahre*
 
-# Teilprojektleiter: Ass.-Prof. Dr. Benoît Majerus
+# Directeur de projet: Ass.-Prof. Dr. Benoît Majerus
 
 Jessica Burton, *Les anti-héros de la désaméricanisation ? Les bandes dessinées de l’école franco-belge comme acteur d’européisation de culture populaire dans les longues années 1960*
 
