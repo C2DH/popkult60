@@ -2,9 +2,8 @@
 layout: post
 title:  "Eröffnungsvortrag der Forschergruppe"
 subheading: Detlef Siegfried
-
 category: event
-
+cover: /assets/images/Affiche-Siegfried.jpg
 ---
 
 # Popgeschichte als Gesellschaftsgeschichte
