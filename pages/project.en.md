@@ -10,7 +10,7 @@ figure:
     caption: uni lu logo
 ---
 
-## « Culture populaire transnationale - L'Europe dans les 'longues' années 1960 » 
+## "Transnational popular culture – Europe in the long 1960s"
 
 Compared to the United States or to Britain, the history of popular culture has long had a difficult academic record in many continental European countries. Although this has changed there in the last two decades as well: popular cultural products, phenomena and practices have now entered the history of contemporary research and in recent manuals on the history of the twentieth century, they are partly marginal, partly extensive.
 
