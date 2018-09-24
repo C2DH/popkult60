@@ -3,12 +3,12 @@
   id: andreas-fickers
   name: Andreas Fickers
   description:
-    fr: Andreas Fickers est directeur du Centre luxembourgeois d'histoire contemporaine et numérique (C²DH) et directeur du DH-Lab. Il a étudié l'histoire, la philosophie et la sociologie et est actuellement professeur d'histoire contemporaine et numérique et président de l'Association des professeurs de l'Université du Luxembourg. Il a obtenu son doctorat en 2002 à l'Université RTWH d'Aix-la-Chapelle et a été professeur assistant d'histoire de la télévision à l'université d'Utrecht (2003-2007) et professeur associé d'histoire des médias comparés à l'université de Maastricht (2007-2013). [CV](/assets/pdf/Fickers-CV-publi.pdf)
+    fr: Andreas Fickers est directeur du Centre luxembourgeois d'histoire contemporaine et numérique (C²DH) et directeur du DH-Lab. Il a étudié l'histoire, la philosophie et la sociologie et est actuellement professeur d'histoire contemporaine et numérique et président de l'Association des professeurs de l'Université du Luxembourg. Il a obtenu son doctorat en 2002 à l'Université RTWH d'Aix-la-Chapelle et a été professeur assistant d'histoire de la télévision à l'université d'Utrecht (2003-2007) et professeur associé d'histoire des médias comparés à l'université de Maastricht (2007-2013).
     en: Andreas Fickers is the director of the Luxembourg Centre for Contemporary and Digital History (C²DH) and head of the DH-Lab. He studied history, philosophy and sociology and is currently Professor for Contemporary and Digital History and chair of the Association of Professors of the University of Luxembourg. He took his PhD in 2002 at RTWH Aachen University and worked as Assistant Professor for television history at Utrecht University (2003-2007) and Associate Professor for comparative media history at Maastricht University (2007-2013).
     de: Andreas Fickers ist Leiter des Luxembourg Centers für zeitgenössische und digitale Geschichte (C²DH) sowie des DH-Lab. Er studierte Geschichte, Philosophie und Soziologie und ist derzeit Professor für zeitgenössische und digitale Geschichte und Vorsitzender des Verbandes der Professoren der Universität Luxemburg. Er promovierte 2002 an der RTWH Aachen und arbeitete als Juniorprofessor für Fernsehgeschichte an der Universität Utrecht (2003-2007) und Associate Professor für vergleichende Mediengeschichte an der Universität Maastricht (2007-2013).
   email: andreas.fickers@uni.lu
   url: "https://c2dh.uni.lu/people/andreas-fickers"
-
+  CV: /assets/pdf/Fickers-CV-publi.pdf
 -
   role: professor
   id: dietmar-hueser
@@ -20,7 +20,7 @@
   email: dietmar.hueser@uni-saarland.de
   thumbnail:
   url: "https://www.uni-saarland.de/lehrstuhl/zeitgeschichte/hueser.html"
-
+  CV: /assets/pdf/Hüser-CV-publi.pdf
 -
   role: professor
   id: sonja-kmec
@@ -32,7 +32,7 @@
   email: sonja.kmec@uni.lu
   thumbnail: https://pbs.twimg.com/profile_images/481124380194263041/pz80Bldn_400x400.jpeg
   url: "https://history.uni.lu/team-sonja-kmec/"
-
+  CV: /assets/pdf/Kmec-CV-publi.pdf
 -
   role: professor
   id: benoit-majerus
@@ -44,7 +44,7 @@
   email: benoit.majerus@uni.lu
   thumbnail: https://pbs.twimg.com/profile_images/705357867797385216/WPXZmXzJ_400x400.jpg
   url: "https://www.c2dh.uni.lu/people/benoit-majerus"
-
+  CV: /assets/pdf/Benoit-CV-publi.pdf
 -
   role: professor
   id: christoph-vatter
@@ -55,7 +55,7 @@
     de: Christoph Vatter hat an der Universität des Saarlandes und der Universität Laval (Québec) französische Kulturwissenschaften und interkulturelle Kommunikation, französische Sprache und Literatur sowie Deutsch als Fremdsprache studiert. Er promovierte an der Universität des Saarlandes und an der Universität Paul Verlaine (Frankreich) und machte 2008 seinen Abschluss. 2010-2017 war er Juniorprofessor für Interkulturelle Kommunikation an der Universität des Saarlandes und seit 2017 ist er Vertretungsprofessor an der Martin-Luther-Universität Halle. Seine Tätigkeitsschwerpunkte in Forschung und Lehre sind interkulturelle Geschäftskommunikation, interkulturelles Management und Training sowie französische Kultur- und Medienwissenschaften.
   email: c.vatter@mx.uni-saarland.de
   url: "https://www.uni-saarland.de/lehrstuhl/vatter/dr-christoph-vatter.html"
-
+  CV: /assets/pdf/Vatter-CV-publi.pdf
 -
   role: professor
   id: clemens-zimmermann
@@ -66,7 +66,7 @@
     de: Clemens Zimmermann studierte in Tübingen, Freiburg und Heidelberg Geschichte, Politikwissenschaft und Germanistik. Die Promotionsarbeit von 1981/3 behandelte Probleme der Governance des aufgeklärt-absolutistischen Regimes und soziale Proteste ländlicher Bevölkerungen. Mit der Heidelberger Habilitationsschrift von 1991 wandte sich Zimmermann Grundfragen der Wohnungspolitik auf staatlicher und kommunaler Ebene im deutschen Kaiserreich sowie Themen der historischen Stadtentwicklung zu. Seit 2000 als Professor auf den neu eingerichteten Lehrstuhl für Kultur- und Mediengeschichte an der Universität des Saarlandes berufen, liegen seine wissenschaftlichen Schwerpunkte auf der europäischen Stadt- und Mediengeschichte seit der Frühen Neuzeit, auf Medienkulturen, Journalismusforschung sowie Film- und Kinogeschichte.
   email: cl.zimmermann@mx.uni-saarland.de
   url: "http://www.kmg.uni-saarland.de/~zimmermann/index.htm"
-
+  CV: /assets/pdf/Zimmermann-CV-publi.pdf
 -
   role: post-doc
   id: gunter-mahlerwein
@@ -77,7 +77,7 @@
     de: Nach einem Musikstudium und dem Studium der Mittleren und Neueren Geschichte, Musikwissenschaft und Kunstgeschichte arbeitete Gunter Mahlerwein viele Jahre als freischaffender Musiklehrer und Historiker. Seit 2009 übernahm er Lehraufträge am Historischen Seminar der Universität Mainz, 2011-2015 und erneut seit 2017 arbeitet er als wissenschaftlicher Mitarbeiter am Lehrstuhl für Kultur- und Mediengeschichte der Universität des Saarlandes. Seine im Schwerpunkt sozial- und kulturhistorischen Arbeiten sind häufig mit dem Thema des Raumes verbunden (Dorf, Stadt, Region) und umfassen den Zeitraum 17. bis spätes 20. Jahrhundert. Erste Arbeiten zu Mediengeschichte und Jugendkulturen nehmen den Raumaspekt mit auf. Im laufenden Projekt befasst er sich mit Kinderfernsehserien der 60er Jahre im westeuropäischen Vergleich
   email: gunter.mahlerwein@uni-saarland.de
   url: "http://www.kmg.uni-saarland.de/~mahlerwein/index.htm"
-
+  CV: /assets/pdf/Mahlerwein-CV-publi.pdf
 -
   role: post-doctorat
   id: maude-williams
@@ -88,7 +88,7 @@
     de: Maude Williams hat Geschichte an der Université de Lorraine und der Universität des Saarlandes studiert und zwei Masterabschlüsse in Geschichte und interkulturelle Studien an der Université Lumière Lyon 2 und an der Albert-Ludwig Universität Freiburg i.B. abgeschlossen. 2013-2016 arbeitete sie an der Universität des Saarlandes in einem deutsch-französischen Forschungsprojekt zu Evakuierungen der Grenzregion während des Zweiten Weltkriegs, in dem sie 2016 ihre Dissertation in Cotutelle (Sorbonne Université/Eberhard Karl Universität Tübingen) abschloss. Neben deutsch-französischen Konflikten des 20. Jahrhunderts und Kommunikationsmechanismen in Kriegszeiten liegen ihre Forschungsinteressen in der Kulturgeschichte der Nachkriegszeit in Frankreich und Deutschland und insbesondere im deutsch-französischen Transfer populärer Musik.
   email: maude.williams@uni-saarland.de
   url: "https://www.uni-saarland.de/lehrstuhl/zeitgeschichte/mitarbeiter/m-williams/zur-person.html"
-
+  CV: /assets/pdf/Williams-CV-publi.pdf
 -
   role: phd
   id: richard-legay
@@ -99,7 +99,7 @@
     de: Richard Legay ist Doktorand am C²DH (Luxembourg Centre for Contemporary and Digital History) der Universität Luxemburg, wo er unter der Leitung von Prof. Dr. Andreas Fickers zur transnationalen Geschichte kommerzieller Radiostationen und Populärkultur in den 1960er Jahren arbeitet. Seine Forschungsinteressen liegen in der Mediengeschichte, insbesondere der Radiogeschichte, und in der Public & Digital History. Er hat einen MA in zeitgenössischer europäischer Geschichte von der Universität Luxemburg und einen M.Phil in Public History & Cultural Heritage vom Trinity College Dublin.
   email: richard.legay@uni.lu
   url: "https://www.c2dh.uni.lu/de/people/richard-legay"
-
+  CV: /assets/pdf/Legay-CV-publi.pdf
 -
   role: phd
   id: aline-maldener
@@ -110,7 +110,7 @@
     de: Aline Maldener, Diplomkulturwissenschaftlerin, hat Historisch Orientierte Kulturwissenschaften an der Universität des Saarlandes in Saarbrücken sowie Film- und Theaterwissenschaften am Trinity College in Dublin studiert. Ihre Diplomarbeit beschäftigte sich mit der medialen Repräsentation des jugendlichen Konsumenten in deutschen und britischen Jugendzeitschriften der 1960er und 70er Jahre. Zwischen 2014 und 2018 war sie wissenschaftliche Mitarbeiterin und Dozentin am Lehrstuhl für Kultur- und Mediengeschichte der Universität des Saarlandes. Ihre Forschungsinteressen liegen in der Mediengeschichte, der Geschichte von Jugend- und Populärkultur, der Frauen- und Gendergeschichte sowie der saarländischen Landesgeschichte des 19. und 20. Jahrhunderts.
   email: aline.maldener@uni-saarland.de
   url: "http://www.kmg.uni-saarland.de/~maldener/index.htm"
-
+  CV: /assets/pdf/Maldener-CV-publi.pdf
 -
   role: phd
   id: ann-kristin-kurberg
@@ -120,7 +120,7 @@
     en: From 2012 to 2018, Ann-Kristin Kurberg completed the German-French bilingual teaching degree in History and French at the University of Saarland and the Université de Lorraine. From 2016 to 2018 she was a student assistant at the Department of European Contemporary History at the University of Saarland. For her exam she wrote on the topic "On the right path? - The local election successes of the Front National since 1995 and the impact on the German-French town twinnings Rastatt-Orange and Herne-Hénin-Beaumont ". Since 2018 she is working in the DFG/FNR research project “Popular Culture Transnational – Europe in the long 1960s”.
     de: Ann-Kristin Kurberg absolvierte von 2012 bis 2018 den deutsch-französischen bilingualen Lehramtsstudiengang in den Fächern Geschichte und Französisch an der Universität des Saarlandes und der Université de Lorraine. Von 2016 bis 2018 war sie studentische Hilfskraft am Lehrstuhl für Europäische Zeitgeschichte an der Universität des Saarlandes. Ihre Staatsexamensarbeit verfasste sie zu dem Thema „Auf dem rechten Weg? - Die Kommunalwahlerfolge des Front National seit 1995 und die Auswirkungen auf die deutsch-französischen Städtepartnerschaften Rastatt-Orange und Herne-Hénin-Beaumont“. Seit 2018 ist sie Wissenschaftliche Mitarbeiterin im DFG/FNR Forschungsprojekt „Populärkultur Transnational. Europa in den langen 1960er Jahren“.
   email: ann.kurberg@uni-saarland.de
-
+  CV: /assets/pdf/Kurberg-CV-publi.pdf
 -
   role: phd
   id: julia-wack
@@ -130,7 +130,7 @@
     en: Julia Wack studied History, Art History, Archaeology and Cultural Management in Cologne and Maastricht, focusing on contemporary art, communication and heritage; followed by 15 years of organising and contribution to large scale exhibition projects, publications, film series and festivals in Germany, The Netherlands, Belgium, Switzerland, Romania, France and Luxembourg (Projekt Migration, Festival of Colours, A Common Dialect, Manifesta 9, Eppur si Muove). Currently Régisseur des expositions at Mudam and Communication Coordinator of CinEast Film Festival (both Luxembourg), her main research interests are Popular Culture, Performance, Film and Esthetics.
     de: Julia Wack studierte Geschichte, Kunstgeschichte, Archäologie und Kulturmanagement an den Universitäten Köln und Maastricht mit Fokus auf Kunst nach 1945, Kommunikation und Kulturerbe, gefolgt von 15 Jahren Organisation von und Beträgen zu diversen groß angelegten Ausstellungsprojekten, Publikationen, Filmserien und -festivals in Deutschland, den Niederlanden, Belgien, der Schweiz, Rumänien, Frankreich und Luxemburg (Projekt Migration, Festival of Colours, A Common Dialect, Manifesta 9, Eppur si Muove). Aktuell Régisseur des expositions am Mudam und Communication Coordinator des CinEast Filmfestivals (beide in Luxemburg), ihre Hauptforschungsinteressen sind Populärkultur, Performance, Film und Ästhetik.
   email: julia.wack@uni.lu
-
+  CV: /assets/pdf/Wack-CV-publi.pdf
 -
   role: phd
   id: jessica-burton
@@ -140,7 +140,7 @@
     en: Jessica Burton is a PhD researcher at the Centre for Contemporary and Digital History (C2DH) in Luxembourg. She specializes in Comics Studies, and obtained her Masters in the subject from the University of Dundee in 2014. She also completed a Bachelors with Honours in French Studies at the University of London Institute in Paris in 2013. Jessica remains extremely active in the field of comics production, continuing her work as an Editor for the UK´s primary publisher, Titan Comics, where she edits titles such as Doctor Who.
     de: Jessica Burton ist Doktorandin am Centre for Contemporary and Digital History (C2DH) in Luxemburg. Sie hat sich auf Comic-Studien spezialisiert und ihr Master-Studium an der University von Dundee im Jahr 2014 abgeschlossen. Außerdem hat sie 2013 einen Bachelor-Abschluss in Französisch an der Universität von London in Paris erworben. Jessica ist weiterhin äußerst aktiv im Bereich Comic Produktion und arbeitet als Redakteurin für den ersten britischen Verlag, Titan Comics, wo sie Titel wie Doctor Who bearbeitet.
   email: jessica.burton@uni.lu
-
+  CV: /assets/pdf/Burton-CV-publi.pdf
 -
   role: associate member
   id: jasmin-nicklas
@@ -151,7 +151,7 @@
     de: Jasmin Nicklas ist seit 2015 wissenschaftliche Mitarbeiterin am Lehrstuhl für Europäische Zeitgeschichte an der Universität des Saarlandes. Ihre Masterarbeit schrieb sie unter der Leitung von Rainer Hudemann und Dietmar Hüser über die Evakuierung von psychiatrischen Institutionen im deutsch-französischen Grenzraum zu Beginn des Zweiten Weltkrieges. Die Arbeit verortet sich in dem von der DFG und ANR finanzierten Forschergruppenprojekt “Evakuierungen im deutsch-französischen Grenzgebiet während des Zweiten Weltkrieges”. Ihre Dissertation “Baby you can drive my car – VW Käfer und Citroën 2CV auf dem Weg vom Konsumprodukt zum Kultobjekt. Eine deutsch-französische Transfergeschichte” bearbeitet sie unter der Leitung von Dietmar Hüser und Hélène Miard-Delacroix.
   email: jasmin.nicklas@uni-saarland.de
   url: "https://www.uni-saarland.de/lehrstuhl/zeitgeschichte/mitarbeiter/jasmin-nicklas/zur-person.html"
-
+  CV: /assets/pdf/Nicklas-CV-publi.pdf
 -
   role: associate member
   id: Melanie Bardian
@@ -162,7 +162,7 @@
     de: "Melanie Bardian studierte Historisch orientierte Kulturwissenschaften an der Universität des Saarlandes in Saarbrücken. Seit Oktober 2015 ist sie Doktorandin am Lehrstuhl für Europäische Zeitgeschichte an der Universität des Saarlandes. Dort ist sie seit Oktober 2017 als wissenschaftliche Mitarbeiterin beschäftigt. Unter der Leitung von Professor Dietmar Hüser befasste sie sich in ihrer Diplomarbeit mit der Geschichte des Deutsch-Amerikanischen Instituts in Saarbrücken. Das Dissertationsprojekt „Amerika an der Saar 1957–1983: Institutionen, Debatten, Perspektiven“ knüpft an ihre Abschlussarbeit an. Ihre Forschungsinteressen liegen vor allem in der Kultur-Transfer-Forschung sowie der jüngeren saarländischen Landesgeschichte."
   email: melanie.bardian@uni-saarland.de
   url: "https://www.uni-saarland.de/lehrstuhl/zeitgeschichte/mitarbeiter/melanie-bardian/zur-person.html"
-
+  CV: /assets/pdf/Bardian-CV-publi.pdf
 -
   role: associate member
   id: vitus-sproten
@@ -172,3 +172,5 @@
     en: Vitus Sproten is a PhD student at the Center for Contemporary and Digital History at the University of Luxembourg. He is doing his PhD on pop culture exchanges on media in the area between Maas and Rhine (Maastricht-Liège-Aachen) in the period from 1955 to 1990. He focuses on the festivals of the region as well as the emerging free radio stations. Sproten is also researcher at the Center for East Belgian History (ZOG), a regional historical research center in the German-speaking Community of Belgium.
     de: Vitus Sproten ist Doktorand am Centre for Contemporary and Digital History der Universität Luxemburg. Dort promoviert er zum popkulturellen Austausch über Medien im Raum zwischen Maas und Rhein (Maastricht-Lüttich-Aachen) in der Zeit von 1955 bis 1990. Er fokussiert sich hierbei auf die Festivals der Region sowie die aufkommenden freien Radiosender. Sproten ist ebenfalls wissenschaftlicher Mitarbeiter des Zentrums für Ostbelgische Geschichte (ZOG), ein regionalhistorisches Forschungszentrum in der Deutschsprachigen Gemeinschaft Belgiens
   email: vitus.sproten@uni.lu
+  url: "https://www.c2dh.uni.lu/people/vitus-sproten"
+  CV: /assets/pdf/Sproten-CV-publi.pdf
