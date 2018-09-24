@@ -3,6 +3,6 @@ permalink: /de/people/
 link: /people/
 layout: people
 title: Das Team
-subheading: The team behind Popkult60
+subheading: Die Mitarbeiter von Popkult60
 lang: de
 ---
