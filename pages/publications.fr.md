@@ -7,6 +7,7 @@ subheading: "Popkult60: A closer look at popular culture in Europe over the long
 lang: fr
 ---
 
+<!-- more -->
 ## Publications
 
 Demeulenaere Alex, Henke Florian, Vatter Christoph, Interfaces franco-allemandes dans la culture populaire et les médias. Deutsch-französische Schnittstellen in Populärkultur und Medien, Münster, 2017 
