@@ -23,12 +23,18 @@ layout: default
       </div>
     </div> -->
     <div id='fillme-wrapper'>
-    <span id='fillme'>
-      {% for sentence in page.sentences %}
-        {{sentence}}<br/>
-      {% endfor %}
-    </span>
+      <div class='container'>
+        <div>
+          <div id='fillme'>
+            <div>
+            {% for sentence in page.sentences %}
+              ∙ {{sentence}}
+            {% endfor %}
+            </div>
+          </div>
 
+        </div>
+      </div>
     </div>
   </div>
   <div class='intro'>
@@ -46,33 +52,93 @@ layout: default
     {% for sentence in page.sentences %}
     " ∙ {{sentence}}",
     {% endfor %}
-  ],
-  el = document.getElementById('fillme');
+  ];
 
-  console.log(sentences)
+  function Pop(selector){
+    var self = this;
 
-  // modify slightly each sentence
-  function tick(){
-    var _sentences = sentences.concat([]);
+    this.el = d3.select(selector);
+    this.txt = this.el.text().trim();
 
-    for (var i = 0, l = sentences.length; i < l; i++) {
-
-      var previous = i == 0? sentences[l - 1]: sentences[i - 1];
-      _sentences[i] = previous[previous.length-1] + sentences[i].substring(0, sentences[i].length - 1);
-
-      //var previous = i == 0? sentences[l - 1]: sentences[i - 1];
-      //_sentences[i] =  sentences[i].substring(1, sentences[i].length - 1) + previous[0];
-      //console.log(i, previous, sentences[i], _sentences[i])
-
+    this.tick = function(){
+      self.txt  = self.txt.slice(1) + self.txt.slice(0,1);
+      //console.log(self.txt)
+      self.el.text(self.txt);
+      setTimeout(self.tick, Math.random() * 50 + 80);
     }
 
-    sentences = _sentences;
-    // console.log(sentences);
-
-    el.innerHTML = sentences.join('<br/>');
-    setTimeout(tick, Math.random()*50 + 50);
+    this.tick();
   }
+  // function Pop(selector) {
+  //
+  //   this.el = d3.select(selector);
+  //   this.node = this.el.node();
+  //   this.parentNode = this.node.parentNode;
+  //   this.clone = this.node.parentElement.insertBefore(
+  //     this.node.cloneNode(true),
+  //     this.node.nextSibling
+  //   );
+  //   this.width = 0;
+  //   this.containerWidth = 0;
+  //
+  //   var self = this;
+  //
+  //   this.onResize = function() {
+  //     self.containerWidth = self.parentNode.offsetWidth;
+  //     self.width = self.node.scrollWidth;
+  //     // to be tested.
+  //     console.log(self.width, self.containerWidth);
+  //   }
+  //
+  //   this.init = function() {
+  //     // duplicate
+  //     // el.parentNode.insertBefore(this.cloneNode(true), this.nextSibling);
+  //
+  //     // debugger;
+  //     window.addEventListener('resize', self.onResize);
+  //     self.onResize();
+  //   }
+  //
+  //   this.play = function() {
+  //     this.el.style('transform','translateX(-' + this.width + 'px)');
+  //
+  //   }
+  //
+  //   setTimeout(this.init, 100);
+  //
+  //   // duplicates fill me and put it afterward.
+  // };
 
-  tick();
+
+  window.addEventListener('DOMContentLoaded', function() {
+    window.pop = new Pop('#fillme > div');
+  })
+  // el = document.getElementById('fillme');
+  //
+  // console.log(sentences)
+  //
+  // // modify slightly each sentence
+  // function tick(){
+  //   var tempSentences = sentences.concat([]);
+  //
+  //   for (var i = 0, l = sentences.length; i < l; i++) {
+  //
+  //     var previous = i == 0? sentences[l - 1]: sentences[i - 1];
+  //     tempSentences[i] = previous[previous.length-1] + sentences[i].substring(0, sentences[i].length - 1);
+  //
+  //     //var previous = i == 0? sentences[l - 1]: sentences[i - 1];
+  //     //tempSentences[i] =  sentences[i].substring(1, sentences[i].length - 1) + previous[0];
+  //     //console.log(i, previous, sentences[i], tempSentences[i])
+  //
+  //   }
+  //
+  //   sentences = tempSentences;
+  //   // console.log(sentences);
+  //
+  //   el.innerHTML = sentences.join('<br/>');
+  //   setTimeout(tick, Math.random()*50 + 150);
+  // }
+  //
+  // tick();
 
 </script>
