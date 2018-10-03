@@ -7,14 +7,15 @@
     </div>
   </div>
   <!-- 11 - contained in center example -->
+  <div class="container">
   <nav  class="navbar navbar-expand " data-toggle="affix">
 
-      <div class="mx-auto d-sm-flex d-block flex-sm-nowrap">
+      <!-- <div class="mx-auto d-sm-flex d-block flex-sm-nowrap"> -->
 
-          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExample11" aria-expanded="false" aria-label="Toggle navigation">
+          <!-- <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExample11" aria-expanded="false" aria-label="Toggle navigation">
               <span class="navbar-toggler-icon"></span>
-          </button>
-          <div class="collapse navbar-collapse text-center">
+          </button> -->
+          <div class="navbar-collapse collapse justify-content-between align-items-center w-100">
               <ul class="navbar-nav">
                 {% for link in site.data.navigation.primary.links %}
                   <li class="nav-item {% if page.link == link.href %} active {% endif %} {% if page.activelink == link.href %} active {% endif %}">
@@ -32,6 +33,7 @@
 
               {% include languages.html %}
           </div>
-      </div>
+
   </nav>
+    </div>
 </div>
