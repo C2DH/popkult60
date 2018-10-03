@@ -1,8 +1,8 @@
 #popkult-logo{
   margin:auto;
 
-  background-color: $floyd-pink-c;
-  border-top: 5px solid $floyd-pink;
+  // background-color: $floyd-pink-c;
+  border-top: 2px solid $floyd-pink;
   // border: 2px solid $dark-grey;
   > img {
     width: 100%;
@@ -14,54 +14,81 @@
   position:absolute;
   z-index: 10;
   width: 100%;
-  margin-top: 5px;
+  // margin-top: 5px;
   font-family: Olio-Bold, sans-serif;
 
   text-transform: lowercase;
 
-  nav{
-    padding: 0
-  }
-
-  .nav-item{
-    border-top: 2px solid $floyd-dark;
-    line-height:11px;
-    a > span{
-      color: $dark-grey;
-      padding: 0 4px;
-    }
-    &.active a > span{
-      color: $white;
-      background: $floyd-dark ;
-    }
-  }
-
-  a.nav-link{
-    padding-right: 0;
-    padding-left: 0;
-
-    span{
-      padding: 5px 10px;
-      background-color: $floyd-pink-c;
-      color: $floyd-pink;
-    }
-    &.active {
-      // background-color: $floyd-pink-c;
-      span{
-        background-color: $floyd-purple-c;
-        color: $floyd-purple;
-      }
-    }
-  }
-
-  .nav.languages{
-    border-left: 1px solid;
-    padding-left: 10px;
-    margin-left: 10px;
-  }
 }
+
 
 
 #nav-logo{
   height: 50px;
+}
+
+
+nav{
+  padding: 0
+}
+
+.nav-item{
+  // border-top: 2px solid $floyd-dark;
+  // line-height:11px;
+
+  &.active a > span{
+    color: $white;
+    background: $floyd-dark ;
+  }
+}
+.navbar-expand{
+
+}
+
+.nav-item{
+  a.nav-link {
+    padding: 0;
+    font-size: 1rem;
+    text-transform: uppercase;
+    border-bottom: 2px solid $floyd-pink;
+
+    span{
+      padding: .25rem .5rem;
+      color: $floyd-pink;
+    }
+  }
+
+  &.active a.nav-link {
+    border-bottom: 2px solid $floyd-dark;
+    span{
+      background-color: $floyd-pink-c;
+      color: $floyd-purple;
+    }
+  }
+}
+
+.nav.languages{
+  border-left: 1px solid;
+  padding-left: 10px;
+  margin-left: 10px;
+}
+
+.dropdown-menu{
+  min-width: auto;
+  background: $floyd-pink-c;
+  border: 0;
+  padding: 0;
+}
+
+.dropdown-item{
+  padding: .75rem 1rem;
+
+  &.active {
+    color: $white;
+    text-decoration: none;
+    background-color: $floyd-dark;
+    a > span{
+      color: $white;
+    }
+  }
 }

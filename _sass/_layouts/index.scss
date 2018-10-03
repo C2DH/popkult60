@@ -131,6 +131,11 @@ body.index{
   }
 }
 
+.index #nav-menu .navbar-expand{
+  background: linear-gradient(#37ffd1, #00f7e4);
+
+}
+
 #opt-a{
   z-index: 0;
   transform: rotate($moire-rotation);
@@ -139,17 +144,26 @@ body.index{
 
 #fillme-wrapper{
   font-family: OlioInline;
-
   position:absolute;
-  top: 120px;
-  left: 15px;
-  right: 15px;
-  font-size:1.5em;
-  z-index:4;;
+  top: 150px;
+  left: 0px;
+  right: 0px;
+  font-size:3.5em;
+  z-index:4;
   text-align: center;
+
+  .container > div{
+    overflow: hidden;
+  }
 }
 
-#fillme{
-  background-color: $white; // $floyd-pink-c;
-  color: $floyd-dark; //$floyd-pink;
+
+
+
+#fillme {
+  // display: inline-block;
+  background-color:  $floyd-pink; // $floyd-pink-c;
+  color: $white; //$floyd-pink;
+  white-space: nowrap;
+
 }
