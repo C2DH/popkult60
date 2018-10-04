@@ -5,6 +5,7 @@ subheading: Detlef Siegfried
 category: event
 cover:
   url: /assets/images/Affiche-Siegfried.jpg
+  caption: "copyright, Universität des Saarlandes"
 ---
 
 # Popgeschichte als Gesellschaftsgeschichte
