@@ -6,12 +6,25 @@ layout: default
 <div class='page'>
   <div class='container'>
     <h1 class='title'><span>{{page.title}}</span></h1>
-    <h2 class='subheading'><span>{{page.subheading}}</span></h2>
+    {% if page.subheading %}
+      <h2 class='subheading'><span>{{page.subheading}}</span></h2>
+    {% endif %}
 
     {% assign contents = page.content | split: site.excerpt_separator %}
 
     <blockquote class="abstract">{{ contents | first | markdownify }}</blockquote>
+    {% if page.cover.url %}
 
+
+      <div class="card">
+        <img class='card-img-top' src='{{"" | relative_url}}{{page.cover.url}}'>
+        {% if page.cover.caption %}
+        <div class="card-body">
+          <p class="card-text">{{page.cover.caption | markdownify }}</p>
+        </div>
+        {% endif %}
+      </div>
+    {% endif %}
     <section class="contents">
       {{ contents | last | markdownify }}
     </section>

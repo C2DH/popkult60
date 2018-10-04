@@ -50,5 +50,11 @@ a{
   min-height: 100%;
 }
 
+.card{
+  border-width: 0;
+  border-radius: 0;
+  background: transparent;
+}
+
 @import "_layouts/page", "_layouts/index", "_layouts/fields";
 @import "_includes/nav", "_includes/footer";
