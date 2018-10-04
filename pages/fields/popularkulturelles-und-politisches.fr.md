@@ -2,7 +2,7 @@
 category: field
 title: popularkulturelles-und-politisches
 slug: popularkulturelles-und-politisches
-lang: en
+lang: fr
 ordering: 2
 ---
 - La question de la pertinence de la préoccupation historique avec la culture populaire

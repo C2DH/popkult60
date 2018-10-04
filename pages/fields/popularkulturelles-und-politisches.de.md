@@ -2,7 +2,7 @@
 category: field
 title: popularkulturelles-und-politisches
 slug: popularkulturelles-und-politisches
-lang: en
+lang: de
 ordering: 2
 ---
 - Die Relevanzfrage historischer Beschäftigung mit Populärkultur
