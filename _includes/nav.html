@@ -18,15 +18,31 @@
           <div class="navbar-collapse collapse justify-content-between align-items-center w-100">
               <ul class="navbar-nav">
                 {% for link in site.data.navigation.primary.links %}
-                  <li class="nav-item {% if page.link == link.href %} active {% endif %} {% if page.activelink == link.href %} active {% endif %}">
+                  {% assign is_active = false %}
+                  {% assign show_following=false %}
+                  {% if page.link == link.href %}
+                    {% assign is_active=true %}
+                  {% endif %}
+                  {% if page.activelink == link.href %}
+                    {% assign is_active=true %}
+                  {% endif %}
+                  {% if link.follow %}
+                    {% if page.layout == link.follow %}
+                      {% assign is_active=true %}
+                      {% assign show_following=true %}
+                    {% endif %}
+                  {% endif %}
+                  <li class="nav-item {% if is_active %} active {% endif %}">
                     <a class="nav-link text-center "
                       {% if page.lang == site.default_lang %}
                         href='{{link.href | relative_url}}'
                       {% else %}
                         href='{{page.lang | relative_url}}{{link.href}}'
                       {% endif %}>{% assign key=link.title%}{% include t.html %}
+
                     </a>
                   </li>
+
                 {% endfor %}
 
               </ul>

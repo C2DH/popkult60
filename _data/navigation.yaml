@@ -11,4 +11,5 @@ primary:
     - title: publications
       href: /publications/
     - title: blog
+      follow: post
       href: /blog/
