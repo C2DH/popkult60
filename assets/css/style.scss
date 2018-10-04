@@ -56,5 +56,6 @@ a{
   background: transparent;
 }
 
-@import "_layouts/page", "_layouts/index", "_layouts/fields";
+
+@import "_layouts/blog", "_layouts/page", "_layouts/index", "_layouts/fields";
 @import "_includes/nav", "_includes/footer";

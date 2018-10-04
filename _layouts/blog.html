@@ -10,14 +10,19 @@ layout: default
         {% for post in site.posts %}
         <div class='col-sm-6'>
           <div class='field'>
+
             {% if post.cover.url %}
-            <div class='cover-wrapper'>
-              <div class='cover'>
-                <img src='{{"" | relative_url}}{{post.cover.url}}'>
+              <div class="card">
+                <img class='card-img-top' src='{{"" | relative_url}}{{post.cover.url}}'>
+                {% if post.cover.caption %}
+                <div class="card-body py-0">
+                  <p class="card-text">{{post.cover.caption | markdownify }}</p>
+                </div>
+                {% endif %}
               </div>
-            </div>
             {% endif %}
-            <div class='metadata'>
+
+            <div class='metadata {% if post.cover.caption %} pt-0 {% endif %}'>
               <h2><a href='{{post.url | relative_url}}'><span>{{post.title}}</span></a></h2>
               {% if post.subheading %}<h3>{{post.subheading}}</h3>{% endif %}
               <div>{{ post.excerpt }}</div>
