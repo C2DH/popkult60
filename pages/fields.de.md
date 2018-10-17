@@ -3,7 +3,7 @@ permalink: /de/fields/
 link: /fields/
 layout: fields
 title: Popkult60
-subheading: "Popkult60: A closer look at popular culture in Europe over the long decade of the 1960s"
+subheading: 8 core research areas, the backbone of the intellectual framework behind the project
 lang: de
 ---
 
