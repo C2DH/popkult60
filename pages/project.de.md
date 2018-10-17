@@ -25,6 +25,7 @@ Richard Legay, *Hit-Piraten? - Populäre radiophone Unterhaltungskultur am Beisp
 # Teilprojekt: Prof. Dr. Dietmar Hüser
 
 Dr. Maude Williams, *Musik-Feld Europa" - Deutsch-französische Musikverflechtungen im Kontext transatlantischer und innereuropäischer Austauschdynamiken der langen 1960er Jahre*
+[test pdf](../../../../assets/pdf/Williams.pdf)
 
 # Teilprojektleiterin: Prof. Dr Sonja Kmec
 
