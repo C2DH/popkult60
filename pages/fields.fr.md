@@ -2,7 +2,7 @@
 permalink: /fr/fields/
 link: /fields/
 layout: fields
-title: Fields
+title: Champs de tension
 subheading: 8 core research areas, the backbone of the intellectual framework behind the project
 lang: fr
 ---
