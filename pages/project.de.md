@@ -32,7 +32,7 @@ Julia Wack,*Ambitionierte Amateure" - Europäische Filmclubs in den langen 1960e
 
 # Teilprojektleiter: Ass.-Prof. Dr. Benoît Majerus
 
-Jessica Burton,*Anti-Helden der Desamerikanisierung? - Die bandes dessinées der franko-belgischen Schule als Akteure der populärkulturellen Europäisierung der Comic-Kultur in den langen 1960er Jahren* [Beschreibung des Projekts](/assets/pdf/Burton.pdf)
+Jessica Burton,*Anti-Helden der Desamerikanisierung? - Die bandes dessinées der franko-belgischen Schule als Akteure der populärkulturellen Europäisierung der Comic-Kultur in den langen 1960er Jahren* [Beschreibung des Projekts](../../../../assets/pdf/Burton.pdf)
 
 # Teilprojektleiter: Jun.-Prof. Dr. Christoph Vatter
 
