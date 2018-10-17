@@ -23,31 +23,33 @@ Particularly far-reaching insights is making possible through the common spatial
 
 ## Research Director: Prof. Dr. Andreas Fickers
 
-Richard Legay, *Commercial radio stations and their soundscape in popular culture and practices in Western Europe in the 60s" - Transnational and transmedia approaches to the history of Radio Luxembourg/RTL and Europe n°1 in the larger 1960s*
-
+**Richard Legay**, *Commercial radio stations and their soundscape in popular culture and practices in Western Europe in the 60s" - Transnational and transmedia approaches to the history of Radio Luxembourg/RTL and Europe n°1 in the larger 1960s*
+[More details](../assets/pdf/Legay.pdf)
 
 ## Research Director: Prof. Dr. Dietmar Hüser
 
-Dr. Maude Williams, *Music-Field Europe – German-French Music Entanglements in Transatlantic und Inner-european Exchange Dynamics during the long 1960s*
-
+**Dr. Maude Williams**, *Music-Field Europe – German-French Music Entanglements in Transatlantic und Inner-european Exchange Dynamics during the long 1960s*
+[More details](../assets/pdf/Williams.pdf)
 
 ## Research Director: Prof. Dr Sonja Kmec
 
-Julia Wack, *Ambitious Amateurs - Europeans Filmclubs during the long 1960s*
-
+**Julia Wack**, *Ambitious Amateurs - Europeans Filmclubs during the long 1960s*
+[More details](../assets/pdf/Wack.pdf)
 
 ## Research Director: Ass.-Prof. Dr. Benoît Majerus
 
-Jessica Burton, *Anti-Heroes of Desamericanization? - The bandes dessinées of the Franco-Belgian School as actors of the popular cultural Europeanization of comic culture in the long 1960s*
-
+**Jessica Burton**, *Anti-Heroes of Desamericanization? - The bandes dessinées of the Franco-Belgian School as actors of the popular cultural Europeanization of comic culture in the long 1960s*
+[More details](../assets/pdf/Burton.pdf)
 
 ## Research Director: Jun. Prof. Dr. Christoph Vatter
 
-Ann-Kristin Kurberg, *Entertainment without Frontiers - Representing and Performing Other Cultures in German, French, and Spanish TV Shows of the 1960s*
-
+**Ann-Kristin Kurberg**, *Entertainment without Frontiers - Representing and Performing Other Cultures in German, French, and Spanish TV Shows of the 1960s*
+[More details](../assets/pdf/Kurberg.pdf)
 
 ## Research Director: Prof. Dr. Clemens Zimmermann
 
-Aline Maldener, *Youth Mass Media and their Popular Youth Culture in West Germany, Great Britain and France during the 1960s and 70s*
+**Aline Maldener**, *Youth Mass Media and their Popular Youth Culture in West Germany, Great Britain and France during the 1960s and 70s*
+[More details](../assets/pdf/Maldener.pdf)
 
-Dr. Gunter Mahlerwein, *Von der Märchenstunde zur Lebenswelt - Europäische Kinderserien in den langen 1960er Jahren*
+**Dr. Gunter Mahlerwein**, *Von der Märchenstunde zur Lebenswelt - Europäische Kinderserien in den langen 1960er Jahren*
+[More details](../assets/pdf/Mahlerwein.pdf)
