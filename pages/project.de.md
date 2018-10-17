@@ -25,22 +25,27 @@ Richard Legay, *Hit-Piraten? - Populäre radiophone Unterhaltungskultur am Beisp
 # Teilprojekt: Prof. Dr. Dietmar Hüser
 
 Dr. Maude Williams, *Musik-Feld Europa" - Deutsch-französische Musikverflechtungen im Kontext transatlantischer und innereuropäischer Austauschdynamiken der langen 1960er Jahre*
-[link texte](../assets/pdf/Williams.pdf)
+[Beschreibung des Projekts](../assets/pdf/Williams.pdf)
 
 # Teilprojektleiterin: Prof. Dr Sonja Kmec
 
 Julia Wack,*Ambitionierte Amateure" - Europäische Filmclubs in den langen 1960er Jahren*
+[Beschreibung des Projekts](../assets/pdf/Wack.pdf)
 
 # Teilprojektleiter: Ass.-Prof. Dr. Benoît Majerus
 
-Jessica Burton,*Anti-Helden der Desamerikanisierung? - Die bandes dessinées der franko-belgischen Schule als Akteure der populärkulturellen Europäisierung der Comic-Kultur in den langen 1960er Jahren* [Beschreibung des Projekts](../../../../assets/pdf/Burton.pdf)
+Jessica Burton,*Anti-Helden der Desamerikanisierung? - Die bandes dessinées der franko-belgischen Schule als Akteure der populärkulturellen Europäisierung der Comic-Kultur in den langen 1960er Jahren*
+[Beschreibung des Projekts](../assets/pdf/Burton.pdf)
 
 # Teilprojektleiter: Jun.-Prof. Dr. Christoph Vatter
 
 Ann-Kristin Kuberg, *Grenzenlose Unterhaltung - Repräsentation und Inszenierung fremder Kulturen in Unterhaltungsshows im bundesdeutschen, französischen und spanischen Fernsehen der 1960er Jahre*
+[Beschreibung des Projekts](../assets/pdf/Kuberg.pdf)
 
 # Teilprojektleiter: Prof. Dr. Clemens Zimmermann
 
 Dr. Gunter Mahlerwein, *Von der Märchenstunde zur Lebenswelt - Europäische Kinderserien in den langen 1960er Jahren*
+[Beschreibung des Projekts](../assets/pdf/Mahlerwein.pdf)
 
 Aline Maldener, *Jugend-Medienensemble Europa" - Zur Transnationalität von Jugendmedien und ihrer populären Jugendkultur in Westdeutschland, Frankreich, Großbritannien 1964- 1974*
+[Beschreibung des Projekts](../assets/pdf/Maldener.pdf)
