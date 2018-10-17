@@ -23,7 +23,7 @@ Die sieben Teilprojekte:
 **Richard Legay**, *Hit-Piraten? - Populäre radiophone Unterhaltungskultur am Beispiel der transnati- onalen kommerziellen Rundfunksender Radio Luxemburg und Europe n°1 in den langen 1960er Jahren*
 [Mehr Infos](../assets/pdf/Legay.pdf)
 
-# Teilprojekt: Prof. Dr. Dietmar Hüser
+# Teilprojektleiter: Prof. Dr. Dietmar Hüser
 
 **Dr. Maude Williams**, *Musik-Feld Europa" - Deutsch-französische Musikverflechtungen im Kontext transatlantischer und innereuropäischer Austauschdynamiken der langen 1960er Jahre*
 [Mehr Infos](../assets/pdf/Williams.pdf)
