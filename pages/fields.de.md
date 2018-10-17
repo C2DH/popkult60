@@ -2,7 +2,7 @@
 permalink: /de/fields/
 link: /fields/
 layout: fields
-title: Popkult60
+title: Spannungsfelder
 subheading: 8 core research areas, the backbone of the intellectual framework behind the project
 lang: de
 ---
