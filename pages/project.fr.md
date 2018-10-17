@@ -21,26 +21,33 @@ L’encadrement et la conception étroite du projet de recherche permet égaleme
 
 # Directeur de projet: Prof. Dr. Andreas Fickers
 
-Richard Legay, *Les stations de radio commerciales et leur paysage sonore dans la culture populaire et les pratiques en Europe de l'Ouest dans les années 60- Approches transnationales et transmédiales de l'histoire de Radio Luxembourg / RTL et Europe n ° 1 dans les années 1960*
+**Richard Legay**, *Les stations de radio commerciales et leur paysage sonore dans la culture populaire et les pratiques en Europe de l'Ouest dans les années 60- Approches transnationales et transmédiales de l'histoire de Radio Luxembourg / RTL et Europe n ° 1 dans les années 1960*
+[Plus d'infos](../assets/pdf/Legay.pdf)
 
 # Directeur de projet: Prof. Dr. Dietmar Hüser
 
-Dr. Maude Williams, *Champ musical Europe – Enchevêtrements musicaux franco-allemands au sein d’une dynamique d’échange transatlantique et intra-européenne durant les années 1960*
+**Dr. Maude Williams**, *Champ musical Europe – Enchevêtrements musicaux franco-allemands au sein d’une dynamique d’échange transatlantique et intra-européenne durant les années 1960*
+[Plus d'infos](../assets/pdf/Williams.pdf)
 
 # Directrice de projet: Prof. Dr Sonja Kmec
 
-Julia Wack, *Ambitionierte Amateure - Europäische Filmclubs in den langen 1960er Jahre*
+**Julia Wack**, *Ambitionierte Amateure - Europäische Filmclubs in den langen 1960er Jahre*
+[Plus d'infos](../assets/pdf/Wack.pdf)
 
 # Directeur de projet: Ass.-Prof. Dr. Benoît Majerus
 
-Jessica Burton, *Les anti-héros de la désaméricanisation ? Les bandes dessinées de l’école franco-belge comme acteur d’européisation de culture populaire dans les longues années 1960*
+**Jessica Burton**, *Les anti-héros de la désaméricanisation ? Les bandes dessinées de l’école franco-belge comme acteur d’européisation de culture populaire dans les longues années 1960*
+[Plus d'infos](../assets/pdf/Burton.pdf)
 
 # Directeur de projet: Jun.-Prof. Dr Christoph Vatter
 
 Ann-Kristin Kurberg, *Divertissement sans frontières – Représentation et mise en scène des cultures étrangères dans les émissions de divertissement télévisuels allemand, français et espagnols des années 1960*
+[Plus d'infos](../assets/pdf/Kurberg.pdf)
 
 # Directeur de projet: Prof. Dr Clemens Zimmermann
 
-Aline Maldener, *Médias des jeunes et leur culture populaire en Allemagne de l'Ouest, Grande-Bretagne et France pendant les années 60 et 70*
+**Aline Maldener**, *Médias des jeunes et leur culture populaire en Allemagne de l'Ouest, Grande-Bretagne et France pendant les années 60 et 70*
+[Plus d'infos](../assets/pdf/Maldener.pdf)
 
-Dr. Gunter Mahlerwein, *De l’heure du conte à la vie réelle – Les séries européennes pour enfants dans les longues années 1960*
+**Dr. Gunter Mahlerwein**, *De l’heure du conte à la vie réelle – Les séries européennes pour enfants dans les longues années 1960*
+[Plus d'infos](../assets/pdf/Mahlerwein.pdf)
