@@ -39,7 +39,7 @@ Particularly far-reaching insights is making possible through the common spatial
 ## Research Director: Ass.-Prof. Dr. Benoît Majerus
 
 **Jessica Burton**, *Anti-Heroes of Desamericanization? - The bandes dessinées of the Franco-Belgian School as actors of the popular cultural Europeanization of comic culture in the long 1960s*
-[More details](../assets/pdf/Burton.pdf)
+[More details](../assets/pdf/burton-en.pdf)
 
 ## Research Director: Jun. Prof. Dr. Christoph Vatter
 
