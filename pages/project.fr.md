@@ -37,7 +37,7 @@ L’encadrement et la conception étroite du projet de recherche permet égaleme
 # Directeur de projet: Ass.-Prof. Dr. Benoît Majerus
 
 **Jessica Burton**, *Les anti-héros de la désaméricanisation ? Les bandes dessinées de l’école franco-belge comme acteur d’européisation de culture populaire dans les longues années 1960*
-[Plus d'infos](../assets/pdf/Burton.pdf)
+[Plus d'infos](../assets/pdf/burton-fr.pdf)
 
 # Directeur de projet: Jun.-Prof. Dr Christoph Vatter
 
