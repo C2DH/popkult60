@@ -36,7 +36,7 @@ Die sieben Teilprojekte:
 # Teilprojektleiter: Ass.-Prof. Dr. Benoît Majerus
 
 **Jessica Burton**,*Anti-Helden der Desamerikanisierung? - Die bandes dessinées der franko-belgischen Schule als Akteure der populärkulturellen Europäisierung der Comic-Kultur in den langen 1960er Jahren*
-[Mehr Infos](../assets/pdf/Burton.pdf)
+[Mehr Infos](../assets/pdf/burton-de.pdf)
 
 # Teilprojektleiter: Jun.-Prof. Dr. Christoph Vatter
 
