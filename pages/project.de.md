@@ -21,17 +21,17 @@ Die sieben Teilprojekte:
 # Teilprojektleiter: Prof. Dr. Andreas Fickers
 
 **Richard Legay**, *Hit-Piraten? - Populäre radiophone Unterhaltungskultur am Beispiel der transnati- onalen kommerziellen Rundfunksender Radio Luxemburg und Europe n°1 in den langen 1960er Jahren*
-[Mehr Infos](../assets/pdf/Legay.pdf)
+[Mehr Infos](../assets/pdf/legay-de.pdf)
 
 # Teilprojektleiter: Prof. Dr. Dietmar Hüser
 
 **Dr. Maude Williams**, *Musik-Feld Europa" - Deutsch-französische Musikverflechtungen im Kontext transatlantischer und innereuropäischer Austauschdynamiken der langen 1960er Jahre*
-[Mehr Infos](../assets/pdf/Williams.pdf)
+[Mehr Infos](../assets/pdf/williams-de.pdf)
 
 # Teilprojektleiterin: Prof. Dr Sonja Kmec
 
 **Julia Wack**,*Ambitionierte Amateure" - Europäische Filmclubs in den langen 1960er Jahren*
-[Mehr Infos](../assets/pdf/Wack.pdf)
+[Mehr Infos](../assets/pdf/wack-de.pdf)
 
 # Teilprojektleiter: Ass.-Prof. Dr. Benoît Majerus
 
@@ -41,14 +41,14 @@ Die sieben Teilprojekte:
 # Teilprojektleiter: Jun.-Prof. Dr. Christoph Vatter
 
 **Ann-Kristin Kuberg**, *Grenzenlose Unterhaltung - Repräsentation und Inszenierung fremder Kulturen in Unterhaltungsshows im bundesdeutschen, französischen und spanischen Fernsehen der 1960er Jahre*
-[Mehr Infos](../assets/pdf/Kuberg.pdf)
+[Mehr Infos](../assets/pdf/kurberg-de.pdf)
 
 # Teilprojektleiter: Prof. Dr. Clemens Zimmermann
 
 **Aline Maldener**, *Jugend-Medienensemble Europa" - Zur Transnationalität von Jugendmedien und ihrer populären Jugendkultur in Westdeutschland, Frankreich, Großbritannien 1964- 1974*
-[Mehr Infos](../assets/pdf/Maldener.pdf)
+[Mehr Infos](../assets/pdf/maldener-de.pdf)
 
 **Dr. Gunter Mahlerwein**, *Von der Märchenstunde zur Lebenswelt - Europäische Kinderserien in den langen 1960er Jahren*
-[Mehr Infos](../assets/pdf/Mahlerwein.pdf)
+[Mehr Infos](../assets/pdf/mahlerwein-de.pdf)
 
 
