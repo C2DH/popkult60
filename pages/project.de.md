@@ -18,9 +18,10 @@ Das Projekt "Populärkultur transnational - Europa in den langen 1960er Jahren" 
 Ganz bewusst sind daher sämtliche vorgesehenen Untersuchungen im Kern wechselseitig aufeinander bezogen, operieren folgerichtig mit denselben, zumindest mit ähnlichen Leitfragen und verorten sich in mehreren forschungsrelevanten und erkenntnisträchtigen Spannungsfeldern von "Populärkultur transnational".
 Die sieben Teilprojekte:
 
-# Teilprojektleiter: Prof. Dr. Andreas Fickers
+# Hit-Piraten? - Populäre radiophone Unterhaltungskultur am Beispiel der transnati- onalen kommerziellen Rundfunksender Radio Luxemburg und Europe n°1 in den langen 1960er Jahren # 
+**Richard Legay**
+Betreuer: Prof. Dr. Andreas Ficker
 
-**Richard Legay**, *Hit-Piraten? - Populäre radiophone Unterhaltungskultur am Beispiel der transnati- onalen kommerziellen Rundfunksender Radio Luxemburg und Europe n°1 in den langen 1960er Jahren*
 [Mehr Infos](../assets/pdf/legay-de.pdf)
 
 # Teilprojektleiter: Prof. Dr. Dietmar Hüser
