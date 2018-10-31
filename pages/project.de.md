@@ -21,6 +21,7 @@ Die sieben Teilprojekte:
 # Hit-Piraten? - Populäre radiophone Unterhaltungskultur am Beispiel der transnati- onalen kommerziellen Rundfunksender Radio Luxemburg und Europe n°1 in den langen 1960er Jahren # 
 **Richard Legay**
 [Mehr Infos](../assets/pdf/legay-de.pdf)
+
 Betreuer: Prof. Dr. Andreas Ficker
 
 # Teilprojektleiter: Prof. Dr. Dietmar Hüser
