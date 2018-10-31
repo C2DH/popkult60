@@ -40,7 +40,7 @@ Die sieben Teilprojekte:
 
 # Teilprojektleiter: Jun.-Prof. Dr. Christoph Vatter
 
-**Ann-Kristin Kuberg**, *Grenzenlose Unterhaltung - Repräsentation und Inszenierung fremder Kulturen in Unterhaltungsshows im bundesdeutschen, französischen und spanischen Fernsehen der 1960er Jahre*
+**Ann-Kristin Kurberg**, *Grenzenlose Unterhaltung - Repräsentation und Inszenierung fremder Kulturen in Unterhaltungsshows im bundesdeutschen, französischen und spanischen Fernsehen der 1960er Jahre*
 [Mehr Infos](../assets/pdf/kurberg-de.pdf)
 
 # Teilprojektleiter: Prof. Dr. Clemens Zimmermann
