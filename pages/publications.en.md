@@ -45,15 +45,15 @@ Maldener Aline, Zimmermann Clemens (Hrsg.), Let’s historize it! Jugendmedien i
 
 Maldener Aline, „Fabulous consumerism? Mediale Repräsentationen jugendlicher Konsumkultur in westdeutschen, britischen und französischen Jugendzeitschriften der 1960er und 70er Jahre“, in: Dietmar Hüser (Hrsg.), Populärkultur transnational. Lesen, Hören, Sehen, Erleben im Europa der langen 1960er Jahre, Bielefeld, 197–222
 
-Malherwein Gunter, Zwischen ländlicher Tradition und städtischer Jugendkultur? Musikalische Praxis in Dörfern 1950-1980, in: Franz-Werner Kersting/ Clemens Zimmermann (Hrsg.), Stadt-Land-Beziehungen im 20. Jahrhundert. Geschichts- und kulturwissenschaftliche Perspektiven, Paderborn 2015, S. 113-136.
+Mahlerwein Gunter, Zwischen ländlicher Tradition und städtischer Jugendkultur? Musikalische Praxis in Dörfern 1950-1980, in: Franz-Werner Kersting/ Clemens Zimmermann (Hrsg.), Stadt-Land-Beziehungen im 20. Jahrhundert. Geschichts- und kulturwissenschaftliche Perspektiven, Paderborn 2015, S. 113-136.
 
-Malherwein Gunter, Alternative cinema in the youth centre movement, in: Judith Thissen/Clemens Zimmermann (Hrsg.), Cinema beyond the City. Small-Town and Rural Film Culture in Europe, London 2016, S. 181-193.
+Mahlerwein Gunter, Alternative cinema in the youth centre movement, in: Judith Thissen/Clemens Zimmermann (Hrsg.), Cinema beyond the City. Small-Town and Rural Film Culture in Europe, London 2016, S. 181-193.
 
-Malherwein Gunter, Rheinhessen zwischen Stadt und Land, in: Volker Gallé/Gunter Mahlerwein (Hrsg.), Aufbruch in Rheinhessen. Kultureller und gesellschaftlicher Wandel nach 1945, Worms 2017, S. 11-23.
+Mahlerwein Gunter, Rheinhessen zwischen Stadt und Land, in: Volker Gallé/Gunter Mahlerwein (Hrsg.), Aufbruch in Rheinhessen. Kultureller und gesellschaftlicher Wandel nach 1945, Worms 2017, S. 11-23.
 
-Malherwein Gunter, Revolte im Dorf? Innovationspotenziale und Traditionsbezüge ländlicher Jugendzentren in Rheinhessen, in: Julia Paulus (Hrsg.), „Bewegte Dörfer“. Neue soziale Bewegungen in der Provinz 1970-1990, Paderborn 2018, 177-186.
+Mahlerwein Gunter, Revolte im Dorf? Innovationspotenziale und Traditionsbezüge ländlicher Jugendzentren in Rheinhessen, in: Julia Paulus (Hrsg.), „Bewegte Dörfer“. Neue soziale Bewegungen in der Provinz 1970-1990, Paderborn 2018, 177-186.
 
-Malherwein Gunter, Wie Woodstock aufs Land kam. Medienpraktiken einer ländlichen Jugendkultur der siebziger Jahre, in: Gunter Mahlerwein/Aline Maldener/Clemens Zimmermann (Hrsg.), Landmedien. Kulturhistorische Perspektiven auf das Verhältnis von Medialität und Ruralität im 20. Jahrhundert, (im Druck)
+Mahlerwein Gunter, Wie Woodstock aufs Land kam. Medienpraktiken einer ländlichen Jugendkultur der siebziger Jahre, in: Gunter Mahlerwein/Aline Maldener/Clemens Zimmermann (Hrsg.), Landmedien. Kulturhistorische Perspektiven auf das Verhältnis von Medialität und Ruralität im 20. Jahrhundert, (im Druck)
 
 Sonja Kmec, Thill Viviane (Hrsg.) Private eyes and the public gaze.Valorisation and mani- pulation of amateur images, Trier, 2009
 
