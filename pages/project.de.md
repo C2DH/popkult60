@@ -19,47 +19,47 @@ Ganz bewusst sind daher sämtliche vorgesehenen Untersuchungen im Kern wechselse
 
 Die sieben Teilprojekte:
 
-[Hit-Piraten? - Populäre radiophone Unterhaltungskultur am Beispiel der transnationalen kommerziellen Rundfunksender Radio Luxemburg und Europe n°1 in den langen 1960er Jahren](../assets/pdf/legay-de.pdf)
-**Richard Legay**
+
+**Richard Legay**, [Hit-Piraten? - Populäre radiophone Unterhaltungskultur am Beispiel der transnationalen kommerziellen Rundfunksender Radio Luxemburg und Europe n°1 in den langen 1960er Jahren](../assets/pdf/legay-de.pdf)
+
 
 *Betreuer: Prof. Dr. Andreas Fickers*
 
 
-[Musik-Feld Europa" - Deutsch-französische Musikverflechtungen im Kontext transatlantischer und innereuropäischer Austauschdynamiken der langen 1960er Jahre](../assets/pdf/williams-de.pdf)
-**Dr. Maude Williams**
+
+**Dr. Maude Williams**, [Musik-Feld Europa" - Deutsch-französische Musikverflechtungen im Kontext transatlantischer und innereuropäischer Austauschdynamiken der langen 1960er Jahre](../assets/pdf/williams-de.pdf)
+
 
 *Betreuer: Prof. Dr. Dietmar Hüser*
 
 
-[Ambitionierte Amateure" - Europäische Filmclubs in den langen 1960er Jahren*](../assets/pdf/wack-de.pdf)
-**Julia Wack**
+
+**Julia Wack**, [Ambitionierte Amateure" - Europäische Filmclubs in den langen 1960er Jahren*](../assets/pdf/wack-de.pdf)
+
 
 *Betreuerin: Prof. Dr Sonja Kmec*
 
 
-[Anti-Helden der Desamerikanisierung? - Die bandes dessinées der franko-belgischen Schule als Akteure der populärkulturellen Europäisierung der Comic-Kultur in den langen 1960er Jahren](../assets/pdf/burton-de.pdf)
-**Jessica Burton**
+
+**Jessica Burton**, [Anti-Helden der Desamerikanisierung? - Die bandes dessinées der franko-belgischen Schule als Akteure der populärkulturellen Europäisierung der Comic-Kultur in den langen 1960er Jahren](../assets/pdf/burton-de.pdf)
 
 
 *Betreuer: Ass.-Prof. Dr. Benoît Majerus*
 
 
-[Grenzenlose Unterhaltung - Repräsentation und Inszenierung fremder Kulturen in Unterhaltungsshows im bundesdeutschen, französischen und spanischen Fernsehen der 1960er Jahre](../assets/pdf/kurberg-de.pdf)
-**Ann-Kristin Kurberg**
+**Ann-Kristin Kurberg**, [Grenzenlose Unterhaltung - Repräsentation und Inszenierung fremder Kulturen in Unterhaltungsshows im bundesdeutschen, französischen und spanischen Fernsehen der 1960er Jahre](../assets/pdf/kurberg-de.pdf)
 
 
 *Betreuer: Jun.-Prof. Dr. Christoph Vatter*
 
 
-[Jugend-Medienensemble Europa" - Zur Transnationalität von Jugendmedien und ihrer populären Jugendkultur in Westdeutschland, Frankreich, Großbritannien 1964- 1974](../assets/pdf/maldener-de.pdf)
-**Aline Maldener**
+**Aline Maldener**, [Jugend-Medienensemble Europa" - Zur Transnationalität von Jugendmedien und ihrer populären Jugendkultur in Westdeutschland, Frankreich, Großbritannien 1964- 1974](../assets/pdf/maldener-de.pdf)
 
 
 *Betreuer: Prof. Dr. Clemens Zimmermann*
 
 
-[Von der Märchenstunde zur Lebenswelt - Europäische Kinderserien in den langen 1960er Jahren*](../assets/pdf/mahlerwein-de.pdf)
-**Dr. Gunter Mahlerwein**
+**Dr. Gunter Mahlerwein**, [Von der Märchenstunde zur Lebenswelt - Europäische Kinderserien in den langen 1960er Jahren*](../assets/pdf/mahlerwein-de.pdf)
 
 
 *Betreuer: Prof. Dr. Clemens Zimmermann*
