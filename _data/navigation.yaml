@@ -3,13 +3,13 @@ primary:
     - title: index
       href: /
     - title: project
-      href: /project/
+      href: /
     - title: fields
-      href: /fields/
+      href: /
     - title: people
-      href: /people/
+      href: /
     - title: publications
-      href: /publications/
+      href: /
     - title: blog
       follow: post
-      href: /blog/
+      href: /
