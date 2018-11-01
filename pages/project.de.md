@@ -20,27 +20,6 @@ Ganz bewusst sind daher sämtliche vorgesehenen Untersuchungen im Kern wechselse
 Die sieben Teilprojekte:
 
 
-**Richard Legay**, [Hit-Piraten? - Populäre radiophone Unterhaltungskultur am Beispiel der transnationalen kommerziellen Rundfunksender Radio Luxemburg und Europe n°1 in den langen 1960er Jahren](../assets/pdf/legay-de.pdf)
-
-
-*Betreuer: Prof. Dr. Andreas Fickers*
-
-
-
-**Dr. Maude Williams**, [Musik-Feld Europa" - Deutsch-französische Musikverflechtungen im Kontext transatlantischer und innereuropäischer Austauschdynamiken der langen 1960er Jahre](../assets/pdf/williams-de.pdf)
-
-
-*Betreuer: Prof. Dr. Dietmar Hüser*
-
-
-
-**Julia Wack**, [Ambitionierte Amateure" - Europäische Filmclubs in den langen 1960er Jahren*](../assets/pdf/wack-de.pdf)
-
-
-*Betreuerin: Prof. Dr Sonja Kmec*
-
-
-
 **Jessica Burton**, [Anti-Helden der Desamerikanisierung? - Die bandes dessinées der franko-belgischen Schule als Akteure der populärkulturellen Europäisierung der Comic-Kultur in den langen 1960er Jahren](../assets/pdf/burton-de.pdf)
 
 
@@ -53,10 +32,19 @@ Die sieben Teilprojekte:
 *Betreuer: Jun.-Prof. Dr. Christoph Vatter*
 
 
+
+**Richard Legay**, [Hit-Piraten? - Populäre radiophone Unterhaltungskultur am Beispiel der transnationalen kommerziellen Rundfunksender Radio Luxemburg und Europe n°1 in den langen 1960er Jahren](../assets/pdf/legay-de.pdf)
+
+
+*Betreuer: Prof. Dr. Andreas Fickers*
+
+
+
 **Aline Maldener**, [Jugend-Medienensemble Europa" - Zur Transnationalität von Jugendmedien und ihrer populären Jugendkultur in Westdeutschland, Frankreich, Großbritannien 1964- 1974](../assets/pdf/maldener-de.pdf)
 
 
 *Betreuer: Prof. Dr. Clemens Zimmermann*
+
 
 
 **Dr. Gunter Mahlerwein**, [Von der Märchenstunde zur Lebenswelt - Europäische Kinderserien in den langen 1960er Jahren*](../assets/pdf/mahlerwein-de.pdf)
@@ -64,3 +52,16 @@ Die sieben Teilprojekte:
 
 *Betreuer: Prof. Dr. Clemens Zimmermann*
 
+
+
+**Julia Wack**, [Ambitionierte Amateure" - Europäische Filmclubs in den langen 1960er Jahren*](../assets/pdf/wack-de.pdf)
+
+
+*Betreuerin: Prof. Dr Sonja Kmec*
+
+
+
+**Dr. Maude Williams**, [Musik-Feld Europa" - Deutsch-französische Musikverflechtungen im Kontext transatlantischer und innereuropäischer Austauschdynamiken der langen 1960er Jahre](../assets/pdf/williams-de.pdf)
+
+
+*Betreuer: Prof. Dr. Dietmar Hüser*
