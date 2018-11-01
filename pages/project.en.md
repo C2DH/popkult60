@@ -24,12 +24,6 @@ Particularly far-reaching insights is making possible through the common spatial
 The seven Projects: 
 
 
-**Richard Legay**,[Commercial radio stations and their soundscape in popular culture and practices in Western Europe in the 60s" - Transnational and transmedia approaches to the history of Radio Luxembourg/RTL and Europe n°1 in the larger 1960s](../assets/pdf/legay-en.pdf)
-
-
-*Supervisor: Prof. Dr. Andreas Fickers*
-
-
 
 **Jessica Burton**, [Anti-Heroes of Desamericanization? - The bandes dessinées of the Franco-Belgian School as actors of the popular cultural Europeanization of comic culture in the long 1960s*](../assets/pdf/burton-en.pdf)
 
@@ -42,6 +36,15 @@ The seven Projects:
 
 
 *Supervisor: Jun. Prof. Dr. Christoph Vatter*
+
+
+
+
+**Richard Legay**,[Commercial radio stations and their soundscape in popular culture and practices in Western Europe in the 60s" - Transnational and transmedia approaches to the history of Radio Luxembourg/RTL and Europe n°1 in the larger 1960s](../assets/pdf/legay-en.pdf)
+
+
+*Supervisor: Prof. Dr. Andreas Fickers*
+
 
 
 
