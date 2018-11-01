@@ -24,14 +24,14 @@ Les sept projets:
 **Jessica Burton**, [Les anti-héros de la désaméricanisation ? Les bandes dessinées de l’école franco-belge comme acteur d’européisation de culture populaire dans les longues années 1960](../assets/pdf/burton-fr.pdf)
 
 
-*Directeur de projet: Ass.-Prof. Dr. Benoît Majerus*
+*Directeur: Ass.-Prof. Dr. Benoît Majerus*
 
 
 
 **Ann-Kristin Kurberg**, [Divertissement sans frontières – Représentation et mise en scène des cultures étrangères dans les émissions de divertissement télévisuels allemand, français et espagnols des années 1960](../assets/pdf/kurberg-fr.pdf)
 
 
-*Directeur de projet: Jun.-Prof. Dr Christoph Vatter*
+*Directeur: Jun.-Prof. Dr Christoph Vatter*
 
 
 
@@ -48,26 +48,26 @@ Les sept projets:
 
 
 
-*Directeur de projet: Prof. Dr Clemens Zimmermann*
+*Directeur: Prof. Dr Clemens Zimmermann*
 
 
 
 **Dr. Gunter Mahlerwein**, [De l’heure du conte à la vie réelle – Les séries européennes pour enfants dans les longues années 1960](../assets/pdf/mahlerwein-fr.pdf)
 
 
-*Directeur de projet: Prof. Dr Clemens Zimmermann*
+*Directeur: Prof. Dr Clemens Zimmermann*
 
 
 
 **Julia Wack**, [Ambitionierte Amateure - Europäische Filmclubs in den langen 1960er Jahren](../assets/pdf/wack-fr.pdf)
 
 
-*Directrice de projet: Prof. Dr Sonja Kmec*
+*Directrice: Prof. Dr Sonja Kmec*
 
 
 
 **Dr. Maude Williams**, [Champ musical Europe – Enchevêtrements musicaux franco-allemands au sein d’une dynamique d’échange transatlantique et intra-européenne durant les années 1960](../assets/pdf/williams-fr.pdf)
 
 
-*Directeur de projet: Prof. Dr. Dietmar Hüser*
+*Directeur: Prof. Dr. Dietmar Hüser*
 
