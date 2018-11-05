@@ -2,13 +2,13 @@
 permalink: /de/publications/
 link: /publications/
 layout: page
-title: publications
-subheading: "Popkult60: A closer look at popular culture in Europe over the long decade of the 1960s"
+title: Publikationen
+subheading: "Popkult60: Ein näherer Einblik in die Populärkultur der langen 1960er Jahren"
 lang: de
 ---
 
 <!-- more -->
-## Publications
+## Publikationen
 
 Demeulenaere Alex, Henke Florian, Vatter Christoph, Interfaces franco-allemandes dans la culture populaire et les médias. Deutsch-französische Schnittstellen in Populärkultur und Medien, Münster, 2017 
 
