@@ -63,7 +63,7 @@ Die sieben Teilprojekte:
 
 
 
-**Dr. Maude Williams**, [Musik-Feld Europa" - Deutsch-französische Musikverflechtungen im Kontext transatlantischer und innereuropäischer Austauschdynamiken der langen 1960er Jahre](../assets/pdf/williams-de.pdf)
+**Dr. Maude Williams**, ["Musik-Feld Europa" - Deutsch-französische Musikverflechtungen im Kontext transatlantischer und innereuropäischer Austauschdynamiken der langen 1960er Jahre](../assets/pdf/williams-de.pdf)
 
 
 *Betreuer: Prof. Dr. Dietmar Hüser*
