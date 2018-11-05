@@ -3,7 +3,7 @@ permalink: /fr/project/
 link: /project/
 layout: page
 title: Projet
-subheading: "Popkult60: A closer look at popular culture in Europe over the long decade of the 1960s"
+subheading: "Popkult60: un examen plus approfondi de la culture populaire des longues années 1960"
 lang: fr
 ---
 
