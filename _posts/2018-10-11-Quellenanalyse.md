@@ -7,8 +7,6 @@ cover:
   caption: Barry Alldis und Keith Fordyce, Moderatoren bei Radio Luxembourg. Anet Alldis, Under the Bedclothes, 1993
 ---
 
-# Methodische Annäherungen an Ton- und Bild-Quellen bei Popkult60
-
 **Mit dem Beat Club nach London! Methodische Annäherungen an Ton- und Bild-Quellen bei Popkult60 am Beispiel von „Beat-Club“ und „Top 20“ von Radio Luxembourg**
 
 Der zweite Workshop der Popkult60-Forschungsgruppe fand vom 29. bis zum 31. Oktober 2018 in Luxemburg statt. 
