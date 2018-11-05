@@ -3,7 +3,7 @@ permalink: /de/fields/
 link: /fields/
 layout: fields
 title: Spannungsfelder
-subheading: 8 core research areas, the backbone of the intellectual framework behind the project
+subheading: 8 Forschungskernbereiche, die das Projekt gliedern
 lang: de
 ---
 
