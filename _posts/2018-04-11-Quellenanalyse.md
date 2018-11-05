@@ -4,7 +4,7 @@ title: "Methodische Annäherungen an Ton- und Bild-Quellen bei Popkult60"
 category: event
 cover:
   url: /assets/images/Alldis.png
-  copyright: Anet Alldis, Under the Bedclothes, 1993
+  caption: Barry Alldis und Keith Fordyce, Moderatoren bei Radio Luxembourg. Photo: Anet Alldis, Under the Bedclothes, 1993
 ---
 
 # Methodische Annäherungen an Ton- und Bild-Quellen bei Popkult60
