@@ -3,7 +3,7 @@ permalink: /de/publications/
 link: /publications/
 layout: page
 title: Publikationen
-subheading: "Popkult60: Ein näherer Einblick in die Populärkultur der langen 1960er Jahren"
+subheading: "Popkult60: Ein näherer Einblick in die Populärkultur der langen 1960er Jahre"
 lang: de
 ---
 
