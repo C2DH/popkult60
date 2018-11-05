@@ -44,18 +44,21 @@ Les sept projets:
 
 
 
+**Dr. Gunter Mahlerwein**, [De l’heure du conte à la vie réelle – Les séries européennes pour enfants dans les longues années 1960](../assets/pdf/mahlerwein-fr.pdf)
+
+
+
+*Directeur: Prof. Dr Clemens Zimmermann*
+
+
+
+
 **Aline Maldener**, [Médias des jeunes et leur culture populaire en Allemagne de l'Ouest, Grande-Bretagne et France pendant les années 60 et 70](../assets/pdf/maldener-fr.pdf)
 
 
 
 *Directeur: Prof. Dr Clemens Zimmermann*
 
-
-
-**Dr. Gunter Mahlerwein**, [De l’heure du conte à la vie réelle – Les séries européennes pour enfants dans les longues années 1960](../assets/pdf/mahlerwein-fr.pdf)
-
-
-*Directeur: Prof. Dr Clemens Zimmermann*
 
 
 
