@@ -15,7 +15,6 @@ Der zweite Workshop der Popkult60-Forschungsgruppe fand vom 29. bis zum 31. Okto
 Neben Vorträgen und Diskussionen zum Spannungsfeld Amerikanisierung und Europäisierung beschäftigten wir uns auch vertieft mit den Herausforderungen der Arbeit mit Fernseh- und Radio-Quellen: 
 
 <!-- more -->
-*Barry Alldis und Keith Fordyce, Moderatoren bei Radio Luxembourg.* 
 
 Ausgehend von ihrem Teilprojekt über europäische Jugendmedien zeigte uns Popkult60-Forscherin Aline Maldener am Beispiel des Beat Club vom 27. August 1966, wie die Moderatorin Uschi Nerke den deutschen Zuschauern die junge Londoner Clubszene am Beispiel des Tiles Club näherbrachte.
 Richard Legay spielte uns anschließend an seine Präsentation über transnationale radiophone Unterhaltungskultur Auszüge aus der englischsprachigen Radiosendung Top 20 mit dem britischen Kult-DJ Barry Alldis vom 08. August 1965 vor, die von Radio Luxembourg 208 ausgestrahlt worden war und sich primär an Hörerinnen und Hörer in Großbritannien richtete, aber auch in zahlreichen anderen Ländern sehr populär war. Beide Quellen verdeutlichen die transnationale Dimension populärkultureller Medien in den 1960er Jahren: sowohl bezogen auf die Produktionsebene als auch hinsichtlich der ausgestrahlten Inhalte und ihrer Rezipienten. 
