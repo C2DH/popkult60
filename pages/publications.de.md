@@ -72,4 +72,29 @@ Clemens Zimmermann, Rainer Hudemann, Michael Kuderna (Hrsg.), Medienlandschaft S
 
 Clemens Zimmermann, „Die Medienlandschaft Saar 1945-2000, Charakteristika, Zäsuren und transregionale Bezüge“, in: Gabriele B. Clemens (Hrsg.), Schlüsseljahre: Zäsuren und Kontinuitäten an der Saar 1815 – 1935 – 1955, Saarbrücken, 2017, 161-180 
 
-Clemens Zimmermann,“ Weltstädte, Metropolen, Megastädte. Dynamiken von Stadt und Raum von der Antike bis zur Gegenwart“, in: Clemens Zimmermann,Stephan Sander-Faes, (Hrsg.), Weltstädte, Metropolen. Megastädte – Dynamiken von Stadt und Raum von der Antike bis zur Gegenwart, Ostfildern, 2018, 11-28 
+Clemens Zimmermann, „Weltstädte, Metropolen, Megastädte. Dynamiken von Stadt und Raum von der Antike bis zur Gegenwart“, in: Clemens Zimmermann,Stephan Sander-Faes, (Hrsg.), Weltstädte, Metropolen. Megastädte – Dynamiken von Stadt und Raum von der Antike bis zur Gegenwart, Ostfildern, 2018, 11-28 
+
+Clemens Zimmermann, Die Zeit der Metropolen. Urbanisierung und Großstadtentwicklung, Frankfurt am Main 1996 [Fischer Geschichte Europa]. 2. vermehrte Auflage Frankfurt am Main 2000; 
+
+Clemens Zimmermann (Hrsg.), Kino und Stadt – Europäische Perspektiven = Die Alte Stadt, 28, 2001
+
+Clemens Zimmermann, „Kommunikation und Medien", in: Richard van Dülmen (Hrsg.), Fischer Lexikon Geschichte, Frankfurt am Main 2003, 238-259. In serbischer Sprache: Беоґрад 2010, 229-250
+
+Clemens Zimmermann, Manfred Schmeling (Hrsg.), Die Zeitschrift – Medium der Moderne/La presse magazine – un média de l'époque moderne. Deutschland und Frankreich im Vergleich/Etude comparative France-Allemagne, Bielefeld 2006
+
+Clemens Zimmermann, Medien im Nationalsozialismus. Deutschland 1933-1945, Italien 1922-1943 und Spanien 1936-1951, Wien 2007
+
+Clemens Zimmermann, Martina Heßler (Hrsg.), Creative Urban Milieus – Historical perspectives on Culture, Economy, and the City, Frankfurt am Main/New York 2008
+
+Clemens Zimmermann (Hrsg.), Städtische Kulturförderung = Informationen zur modernen Stadtgeschichte 2/2008
+
+Clemens Zimmermann, Martin Schreiber (Hrsg.), Journalism and Technological Change. Historical Perspectives, Contemporary Trends, Frankfurt am Main 2014
+
+Clemens Zimmermann, Judith Thissen (Hrsg.), Cinema beyond the City. Small-Town and Rural Film Culture in Europe, London 2016
+
+Clemens Zimmermann, Europäische Medienstädte 1500-2000. Historische Kontinuitäten und urbane Kontexte der Medienproduktion, St. Ingbert 2017
+
+Clemens Zimmermann, Aline Maldener (Hrsg.), Let´s Historize it! Jugendmedien im 20. Jahrhundert, Wien/Köln/Weimar 2018
+
+Clemens Zimmermann, Gunter Mahlerwein und Aline Maldener (Hrsg.), Landmedien. Kulturhistorische Perspektiven auf das Verhältnis von Medialität und Ruralität im 20. Jahrhundert, Innsbruck 2018
+
