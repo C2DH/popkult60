@@ -40,17 +40,19 @@ Die sieben Teilprojekte:
 
 
 
+**Dr. Gunter Mahlerwein**, [Von der Märchenstunde zur Lebenswelt - Europäische Kinderserien in den langen 1960er Jahren*](../assets/pdf/mahlerwein-de.pdf)
+
+
+*Betreuer: Prof. Dr. Clemens Zimmermann*
+
+
+
+
 **Aline Maldener**, [Jugend-Medienensemble Europa" - Zur Transnationalität von Jugendmedien und ihrer populären Jugendkultur in Westdeutschland, Frankreich, Großbritannien 1964- 1974](../assets/pdf/maldener-de.pdf)
 
 
 *Betreuer: Prof. Dr. Clemens Zimmermann*
 
-
-
-**Dr. Gunter Mahlerwein**, [Von der Märchenstunde zur Lebenswelt - Europäische Kinderserien in den langen 1960er Jahren*](../assets/pdf/mahlerwein-de.pdf)
-
-
-*Betreuer: Prof. Dr. Clemens Zimmermann*
 
 
 
