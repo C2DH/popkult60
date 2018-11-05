@@ -28,5 +28,5 @@ Ann-Kristin Kurberg und Christoph Vatter
 
 
 Beat Club, Nr. 11, 27.08.1966
-(../assets/images/beat-Club.png) 
+/assets/images/beat-Club.png
 
