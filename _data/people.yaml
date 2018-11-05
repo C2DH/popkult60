@@ -75,8 +75,8 @@
   url: "https://www.c2dh.uni.lu/de/people/richard-legay"
   CV: /assets/pdf/Legay-CV-publi.pdf
 -
- role: post-doc
-  id: gunter-mahlerwein
+  role: post-doc
+  id: gunter mahlerwein
   name: Gunter Mahlerwein
   description:
     fr: "Après avoir étudié la musique, l’histoire médiévale et moderne, la musicologie et l’histoire de l’art, **Gunter Mahlerwein** a travaillé pendant de nombreuses années comme professeur de musique et historien indépendant. Depuis 2009, il enseigne au Département d’histoire de l’Université de Mayence (2011-2015) et travaille depuis 2017 en tant qu’assistant de recherche au Département d’histoire culturelle et médiatique de l’Université de la Sarre. Ses travaux, qui se concentrent sur l’histoire sociale et culturelle, sont souvent liés au thème de l’espace (village, ville, région) et couvrent la période du 17ème au 20ème siècle. Ses premiers travaux sur l’histoire des médias et les cultures des jeunes prennent en compte l’aspect spatial. Dans le projet actuel, il traite de manière comparative des séries télévisées pour enfants des années 60 en Europe occidentale."
@@ -86,7 +86,7 @@
   url: "http://www.kmg.uni-saarland.de/~mahlerwein/index.htm"
   CV: /assets/pdf/Mahlerwein-CV-publi.pdf
 -
- role: professor
+  role: professor
   id: benoit-majerus
   name: Benoît Majerus
   description:
