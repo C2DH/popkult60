@@ -28,5 +28,7 @@ Ann-Kristin Kurberg und Christoph Vatter
 
 
 Beat Club, Nr. 11, 27.08.1966
-/assets/images/beat-Club.png
+<!-- more -->
+ /assets/images/beat-Club.png
 
+Moderatorin Uschi Nerke mit Barbara, die als Au-pair-Mädchen für ein Jahr nach London gekommen ist und sich als Bardame im Mod-Club „The Tiles“ das Geld für die Heimfahrt verdient
