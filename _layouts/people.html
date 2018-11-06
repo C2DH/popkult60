@@ -32,12 +32,12 @@ layout: default
 
              
               <div>{{ description }}</div>
+              {% if person.CV %}
+            <a href='{{person.CV | relative_url}}'>cv (pdf)</a>
+              {% endif %}
             </div>
           </div>
         </div>
-        {% if person.CV %}
-            <a href='{{person.CV | relative_url}}'>cv (pdf)</a>
-              {% endif %}
         {% endfor %}
       </div>
 
