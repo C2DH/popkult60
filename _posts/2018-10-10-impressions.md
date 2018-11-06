@@ -3,7 +3,7 @@ layout: post
 title: "The First full PopKult Meeting-Oct 2018"
 category: event
 cover:
-  url: /assets/images/flyer-2-workshop.png
+  url: /assets/images/Flyer-2-workshop.png
 ---
 
 **The First full PopKult Meeting - Oct 2018**
