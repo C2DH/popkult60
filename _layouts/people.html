@@ -30,13 +30,14 @@ layout: default
               {% endcapture %}
 
 
-              {% if person.CV %}
-              <a href='{{person.CV | relative_url}}'>cv (pdf)</a>
-              {% endif %}
+             
               <div>{{ description }}</div>
             </div>
           </div>
         </div>
+        {% if person.CV %}
+            <a href='{{person.CV | relative_url}}'>cv (pdf)</a>
+              {% endif %}
         {% endfor %}
       </div>
 
