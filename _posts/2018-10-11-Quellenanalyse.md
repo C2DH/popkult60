@@ -20,7 +20,7 @@ Ausgehend von ihrem Teilprojekt über europäische Jugendmedien zeigte uns Popku
 ![alt text](../../../../assets/images/beat-Club.png)
 
 {:.caption}
-... (Image caption)
+Beat Club, Nr. 11, 27.08.1966. Moderatorin Uschi Nerke mit Barbara, die als Au-pair-Mädchen für ein Jahr nach London gekommen ist und sich als Bardame im Mod-Club „The Tiles“ das Geld für die Heimfahrt verdient
 
 Richard Legay spielte uns anschließend an seine Präsentation über transnationale radiophone Unterhaltungskultur Auszüge aus der englischsprachigen Radiosendung Top 20 mit dem britischen Kult-DJ Barry Alldis vom 08. August 1965 vor, die von Radio Luxembourg 208 ausgestrahlt worden war und sich primär an Hörerinnen und Hörer in Großbritannien richtete, aber auch in zahlreichen anderen Ländern sehr populär war. Beide Quellen verdeutlichen die transnationale Dimension populärkultureller Medien in den 1960er Jahren: sowohl bezogen auf die Produktionsebene als auch hinsichtlich der ausgestrahlten Inhalte und ihrer Rezipienten.
 
@@ -31,6 +31,5 @@ Als großer Mehrwert der gemeinsamen Quellenanalyse und –diskussion, die zur E
 Ann-Kristin Kurberg und Christoph Vatter
 
 
-Beat Club, Nr. 11, 27.08.1966
-/asserts/image/beat-Club.png
-Moderatorin Uschi Nerke mit Barbara, die als Au-pair-Mädchen für ein Jahr nach London gekommen ist und sich als Bardame im Mod-Club „The Tiles“ das Geld für die Heimfahrt verdient
+
+
