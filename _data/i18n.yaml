@@ -21,6 +21,15 @@ facts & figures:
 project:
   en: project
   fr: projet
+  de: projekt
+fields:
+  en: fields
+  fr: champs de tension
+  de: spannungsfelder
+people:
+  en: people
+  fr: membres
+  de: mitglieder
 project-leaders:
   en: project leader
   fr: project leader
