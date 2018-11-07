@@ -21,11 +21,10 @@ layout: default
               <div class="cover" style="background-size: 25%;background-image: url({{absolute_url}});background-repeat:repeat;">
 
               </div>
-            </div>
+            </div>{{person.role}}
             </a>
             <div class="metadata">
               <h2><a href="{{person.url}}" target="_blank"><span>{{person.name}}</span></a></h2>
-            </div>{{person.role}}
               {% capture description %}
               {{person.description[page.lang] | markdownify }}
               {% endcapture %}
