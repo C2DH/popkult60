@@ -1,6 +1,6 @@
 ---
 category: field
-title: Americain – Européen
+title: Américain – Européen
 slug: amerikanisches-und-europaisches
 lang: fr
 ordering: 1
