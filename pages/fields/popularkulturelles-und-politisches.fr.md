@@ -1,6 +1,6 @@
 ---
 category: field
-title: popularkulturelles-und-politisches
+title: culture populaire – Politique
 slug: popularkulturelles-und-politisches
 lang: fr
 ordering: 2
