@@ -1,0 +1,28 @@
+
+<div class="card">
+  <div class='card-img-top with-iframe {{ iframe.aspectratio }}'
+        id='iframe-{{iframe.id}}' 
+        style='background-image: url({{ iframe.thumbnail }})'></div>
+  <div class="card-body py-3 px-5">
+    <p class="card-text">
+      {% if iframe.reference %}
+      {{ iframe.reference | markdownify }}
+      {% else %}
+        {% if iframe.title %}
+        {{ iframe.title }}
+        {% endif %}
+      {% endif %}
+    </p>
+  </div>
+
+</div>
+
+<script>
+  window.addEventListener('DOMContentLoaded', function() {
+    window.r2.plugins.iframe(
+      '#iframe-{{iframe.id}}',
+      '{{iframe.src}}',
+      '{{iframe.type}}'
+    );
+  });
+</script>

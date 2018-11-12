@@ -14,8 +14,6 @@ layout: default
 
     <blockquote class="abstract">{{ contents | first | markdownify }}</blockquote>
     {% if page.cover.url %}
-
-
       <div class="card">
         <img class='card-img-top' src='{{"" | relative_url}}{{page.cover.url}}'>
         {% if page.cover.caption %}
@@ -25,6 +23,12 @@ layout: default
         {% endif %}
       </div>
     {% endif %}
+
+    {% if page.cover.iframe %}
+      {% assign iframe = site.data.documents | where: "id", page.cover.iframe | first %}
+      {% include iframe.html %}
+    {% endif %}
+
     <section class="contents">
       {{ contents | last | markdownify }}
     </section>

@@ -3,8 +3,10 @@ layout: post
 title: "Methodische Annäherungen an Ton- und Bild-Quellen bei Popkult60"
 category: event
 cover:
-  url: /assets/images/Alldis.png
+  iframe: radio-luxembourg-208  
   caption: Barry Alldis und Keith Fordyce, Moderatoren bei Radio Luxembourg. Anet Alldis, Under the Bedclothes, 1993
+tags:
+  - radio
 ---
 
 **Mit dem Beat Club nach London! Methodische Annäherungen an Ton- und Bild-Quellen bei Popkult60 am Beispiel von „Beat-Club“ und „Top 20“ von Radio Luxembourg**
@@ -29,7 +31,3 @@ Gleichzeitig konkretisieren sich anhand des unterschiedlichen Quellenmaterials a
 Als großer Mehrwert der gemeinsamen Quellenanalyse und –diskussion, die zur Erweiterung des methodischen Portfolios konstitutiver Bestandteil der Workshops der Forschungsgruppe sind, erwies sich die interdisziplinäre Zusammensetzung von Popkult60. Die verschiedenen Perspektiven und methodischen Ansätze der einzelnen Fachdisziplinen ergänzten sich gegenseitig und führten zu neuen Erkenntnissen für die beteiligten Projektbearbeiterinnen und -bearbeiter.
 
 Ann-Kristin Kurberg und Christoph Vatter
-
-
-
-
