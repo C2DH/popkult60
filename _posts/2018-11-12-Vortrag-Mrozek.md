@@ -3,7 +3,7 @@ layout: post
 title: "Bericht über den Vortrag von Bodo Mrozek"
 category: event
 cover:
-  url: /assets/images/Bodo-expose.jpeg
+  url: /assets/images/bodo-expose.jpeg
 ---
 
 #Amerikanisierung, Westernisierung, Europäisierung? Popgeschichte und die historiographischen Raumdebatten#
