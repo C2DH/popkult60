@@ -1,6 +1,6 @@
 ---
 category: field
-title: Popkult60
+title: Americain – Européen
 slug: amerikanisches-und-europaisches
 lang: fr
 ordering: 1
