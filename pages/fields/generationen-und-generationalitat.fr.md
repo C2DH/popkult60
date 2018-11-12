@@ -1,6 +1,6 @@
 ---
 category: field
-title: generationen-und-generationalitat
+title: Génération – Générationnel 
 slug: generationen-und-generationalitat
 lang: fr
 ordering: 3
