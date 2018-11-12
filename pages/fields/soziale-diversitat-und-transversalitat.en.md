@@ -6,8 +6,8 @@ lang: en
 ordering: 4
 ---
 - Differences between age groups, social classes, races/ethnicities, cultures and genders
--	Intersectional overlapses and dynamics
--	Empowerement and growing awareness of diversity
+- Intersectional overlaps and dynamics
+-	Empowerment and growing awareness of diversity
 -	Growing questioning of established hierarchies
 -	(post)colonial references and intersectional tensions
 -	Rupture and solidification of gender stereotypes through sexualisation – intersectional
