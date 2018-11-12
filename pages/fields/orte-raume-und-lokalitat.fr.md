@@ -1,6 +1,6 @@
 ---
 category: field
-title: orte-raume-und-lokalitat
+title: Lieu – Espace – Localité
 slug: orte-raume-und-lokalitat
 lang: fr
 ordering: 6
