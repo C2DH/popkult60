@@ -2,7 +2,7 @@
 category: field
 title: dispositif-médialité-ensemble médiatique
 slug: dispositiv-medialitat-medienensemble
-lang: de
+lang: fr
 ordering: 7
 ---
 - L'analyse systématique et la réflexion des références intermédiales dans l'ensemble des médias de masse: avec pour chaque thématique un attention particulière sur les médias individuels (radio, TV, bandes dessinées, films, etc.)
