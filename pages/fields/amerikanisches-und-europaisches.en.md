@@ -1,6 +1,6 @@
 ---
 category: field
-title: Popkult60
+title: American – European
 slug: amerikanisches-und-europaisches
 lang: en
 ordering: 1
