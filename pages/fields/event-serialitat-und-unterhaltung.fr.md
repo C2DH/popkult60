@@ -1,6 +1,6 @@
 ---
 category: field
-title: event-serialitat-und-unterhaltung
+title: Événement – Sérialité – Divertissement
 slug: event-serialitat-und-unterhaltung
 lang: fr
 ordering: 8
