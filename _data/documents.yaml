@@ -9,12 +9,12 @@
     aspectratio: aspect-4-3
     
 -
-    id: podcast-maude-williams
-    thumbnail: https://www.youtube.com/watch?v=amKl2xfcFsQ&feature=youtu.be
+    id: podcast
+    thumbnail: https://www.youtube.com/watch?v=Kb_jRrxON_c&feature=youtu.be
     title: Podcast Maude Williams
-    type: youtube
+    type: vimeo
     layout: iframe
-    src: "https://youtu.be/amKl2xfcFsQ"
+    src: "https://youtu.be/Kb_jRrxON_c"
     aspectratio: aspect-4-3
     
     
