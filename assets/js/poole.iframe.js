@@ -1,17 +1,17 @@
-(function(r2, d3) {
+(function(poole, d3) {
   "use strict"
-  r2.plugins = r2.plugins || {};
+  poole.plugins = poole.plugins || {};
 
-  r2.plugins.iframe = function (id, src, type) {
+  poole.plugins.iframe = function (id, src, type) {
     var iframeWrapper = d3.select(id);
     var iframeWrapperToggler = iframeWrapper.select('.iframe-wrapper--toggler');
     var vimeoPlayer;
     var ready = false;
 
-    r2.log('plugins.iframe() ready:\n     id:',id,'\n     src:',src, '\n     type:', type, '\n     valid:', !!iframeWrapper.size());
+    poole.log('plugins.iframe() ready:\n     id:',id,'\n     src:',src, '\n     type:', type, '\n     valid:', !!iframeWrapper.size());
 
     iframeWrapper.on('click', function() {
-      r2.log('plugins.iframe() @click');
+      poole.log('plugins.iframe() @click');
       if(ready) {
         // do play
         return;
@@ -31,7 +31,7 @@
         vimeoPlayer = new Vimeo.Player(_iframe.node());
         // player.setVolume(0);
         vimeoPlayer.play().then(function() {
-          r2.log('video playing...')// the video was played
+          poole.log('video playing...')// the video was played
         }).catch(function(err) {
           console.error(err);
         });
@@ -43,4 +43,4 @@
     });
   };
 
-})(window.r2, window.d3);
+})(window.poole, window.d3);

@@ -1,8 +1,11 @@
-
 <div class="card">
   <div class='card-img-top with-iframe {{ iframe.aspectratio }}'
-        id='iframe-{{iframe.id}}' 
-        style='background-image: url({{ iframe.thumbnail }})'></div>
+        id='iframe-{{iframe.id}}'
+        style='background-image: url({{ iframe.thumbnail }})'>
+    <div class="card-toggler">
+      {% assign key="click to play" %}{% include t.html %}
+    </div>
+  </div>
   <div class="card-body py-3 px-5">
     <p class="card-text">
       {% if iframe.reference %}
@@ -19,7 +22,7 @@
 
 <script>
   window.addEventListener('DOMContentLoaded', function() {
-    window.r2.plugins.iframe(
+    window.poole.plugins.iframe(
       '#iframe-{{iframe.id}}',
       '{{iframe.src}}',
       '{{iframe.type}}'

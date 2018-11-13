@@ -24,9 +24,12 @@ layout: default
       </div>
     {% endif %}
 
-    {% if page.cover.iframe %}
-      {% assign iframe = site.data.documents | where: "id", page.cover.iframe | first %}
-      {% include iframe.html %}
+    {% if page.cover.document %}
+      {% assign document = site.data.documents | where: "id", page.cover.document | first %}
+      {% if document.layout == "iframe" %}
+        {% assign iframe = document %}
+        {% include partials/iframe.html %}
+      {% endif %}
     {% endif %}
 
     <section class="contents">

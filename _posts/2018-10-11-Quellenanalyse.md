@@ -3,7 +3,7 @@ layout: post
 title: "Methodische Annäherungen an Ton- und Bild-Quellen bei Popkult60"
 category: event
 cover:
-  iframe: radio-luxembourg-208  
+  document: radio-luxembourg-208  
   caption: Barry Alldis und Keith Fordyce, Moderatoren bei Radio Luxembourg. Anet Alldis, Under the Bedclothes, 1993
 tags:
   - radio

@@ -4,7 +4,7 @@
 .card-img-top.with-iframe{
   position: relative; /* If you want text inside of it */
   background-size: cover;
-  
+
   &.aspect-1-1{
     padding-top: 100%; /* 1:1 Aspect Ratio */
   }
@@ -26,6 +26,33 @@
     top: 0;
   }
 }
+
 .card-text{
   color: $white;
+}
+
+.card-toggler{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 50%;
+  margin-left: -25%;
+  text-align: center;
+
+  > span {
+    display: inline-block;
+    background: $black;
+    color: $white;
+    border-radius: 2rem;
+    border: 2px solid $white;
+    line-height: 2rem;
+    font-size: 1.2rem;
+    padding: 0 1rem;
+    cursor: pointer;
+
+    &:hover{
+      background: $white;
+      color: $black;
+    }
+  }
 }

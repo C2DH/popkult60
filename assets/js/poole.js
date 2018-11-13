@@ -1,13 +1,13 @@
 (function() {
   "use strict"
 
-  function R2() {
+  function Poole() {
     var _self = this;
     this.docs = {};
     this.relativePath = '';
     this.log = function() {
       var args = Array.prototype.slice.call(arguments);
-      console.log.apply(console, ['%cR2', 'color:cyan; background-color: magenta'].concat(args));
+      console.log.apply(console, ['%cPoole', 'color:cyan; background-color: magenta'].concat(args));
     }
     this.enrich = function(docs, namespace) {
       this.log('enrich()', 'n. docs:', docs.length, 'from:', namespace)
@@ -205,6 +205,6 @@
     }
   }
 
-  window.r2 = new R2();
-  r2.log('new R2() ready');
+  window.poole = new Poole();
+  poole.log('new Poole() ready');
 })();
