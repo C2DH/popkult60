@@ -10,11 +10,11 @@
     
 -
     id: podcast
-    thumbnail: https://www.youtube.com/watch?v=Kb_jRrxON_c&feature=youtu.be
+    thumbnail: https://vimeo.com/300472267?utm_source=email&utm_medium=vimeo-cliptranscode-201504&utm_campaign=29220
     title: Podcast Maude Williams
-    type: youtube
+    type: vimeo
     layout: iframe
-    src: "https://youtu.be/Kb_jRrxON_c"
+    src: "https://vimeo.com/300472267"
     aspectratio: aspect-4-3
     
     
