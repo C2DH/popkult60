@@ -7,3 +7,13 @@
     layout: iframe
     src: "https://player.vimeo.com/video/300239147"
     aspectratio: aspect-4-3
+    
+-
+    id: Podast Maude Williams
+    thumbnail: https://www.youtube.com/watch?v=amKl2xfcFsQ&feature=youtu.be
+    title: Podcast musique populaire 
+    type: youtube
+    layout: iframe
+    src: "https://youtu.be/amKl2xfcFsQ"
+    aspectratio: aspect-4-3    
+    
