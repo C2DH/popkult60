@@ -1,6 +1,6 @@
 ---
 category: field
-title: mainstream-und-avantgarde
+title: Mainstream – Avant-garde
 slug: mainstream-und-avantgarde
 lang: en
 ordering: 5
