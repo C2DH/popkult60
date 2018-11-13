@@ -9,11 +9,7 @@
     aspectratio: aspect-4-3
     
 -
-    id: Podcast-Maude-Williams
-    thumbnail: https://www.youtube.com/watch?v=amKl2xfcFsQ&feature=youtu.be
-    title: Podcast musique populaire 
-    type: youtube
-    layout: iframe
-    src: "https://youtu.be/amKl2xfcFsQ"
-    aspectratio: aspect-4-3    
-    
+  id: podcast-maude-williams
+  src: "https://youtu.be/amKl2xfcFsQ"
+  thumbnail: https://www.youtube.com/watch?v=amKl2xfcFsQ&feature=youtu.be
+  type: iframe
