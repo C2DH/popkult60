@@ -12,7 +12,7 @@
     id: podcast
     thumbnail: https://www.youtube.com/watch?v=Kb_jRrxON_c&feature=youtu.be
     title: Podcast Maude Williams
-    type: vimeo
+    type: youtube
     layout: iframe
     src: "https://youtu.be/Kb_jRrxON_c"
     aspectratio: aspect-4-3
