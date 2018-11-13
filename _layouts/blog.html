@@ -21,9 +21,9 @@ layout: default
                 {% endif %}
               </div>
             {% else %}
-              {% if post.cover.iframe %}
-              {% assign iframe = site.data.documents | where: "id", post.cover.iframe | first %}
-              {% include iframe.html %}
+              {% if post.cover.document %}
+              {% assign document = site.data.documents | where: "id", post.cover.document | first %}
+              {% include partials/document.html %}
               {% endif %}
             {% endif %}
 
