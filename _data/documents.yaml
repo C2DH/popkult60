@@ -14,6 +14,6 @@
     title: Podcast musique populaire 
     type: youtube
     layout: iframe
-    src: "https://youtu.be/amKl2xfcFsQ"
+    src: "https://www.youtube.com/watch?v=amKl2xfcFsQ&feature=youtu.be"
     aspectratio: aspect-4-3    
     
