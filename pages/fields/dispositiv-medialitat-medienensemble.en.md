@@ -1,6 +1,6 @@
 ---
 category: field
-title: dispositiv-medialitat-medienensemble
+title: Dispositive – mediality – Media ensemble
 slug: dispositiv-medialitat-medienensemble
 lang: en
 ordering: 7
