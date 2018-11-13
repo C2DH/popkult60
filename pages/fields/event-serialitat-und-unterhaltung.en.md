@@ -1,6 +1,6 @@
 ---
 category: field
-title: event-serialitat-und-unterhaltung
+title: Event – Seriality – Entertainment
 slug: event-serialitat-und-unterhaltung
 lang: en
 ordering: 8
