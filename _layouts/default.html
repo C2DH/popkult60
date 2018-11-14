@@ -10,10 +10,19 @@
     <!-- <link href="https://fonts.googleapis.com/css?family=Cormorant+Garamond:400,500,600,700|Poppins:300,400,500,600,700" rel="stylesheet"> -->
     <link rel="stylesheet" href="{{ '/assets/css/bootstrap.min.css?v=' | relative_url }}" integrity="sha384-Zug+QiDoJOrZ5t4lssLdxGhVrurbmBWopoEl+M6BdEfwnCJZtKxi1KgxUyJq13dy" crossorigin="anonymous">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+
+    {% if site.tags != "" %}
+      {% include collector.html %}
+    {% endif %}
+
+
 </head>
 <body class='{{page.layout}}'>
   {% include nav.html %}
   {{content}}
+  {% for tag in site.tags %}
+    {{tag.name}}
+  {% endfor %}
   {% include footer.html %}
   <script>
     window.addEventListener('DOMContentLoaded', function() {
@@ -27,6 +36,24 @@
       })
     });
   </script>
+
+  <script>
+    window.addEventListener('DOMContentLoaded', function() {
+      var poole = window.poole || new Poole();
+      {% unless documents %}
+      poole.enrich([
+        {% for document in site.data.documents %}
+          {{ document | jsonify }}{% unless forloop.last %},{% endunless %}
+        {% endfor %}
+      ], '{{ page.path }}');
+      {% endunless %}
+      // initialize Poole with
+      poole.setRelativePath('{{ "" | relative_url }}');
+      poole.setLanguage('{% if page.lang %}{{ page.lang }}{% else %}{{ site.default_lang }}{% endif %}');
+      poole.transformLinks();
+    });
+  </script>
+
   <script src="{{ '/assets/js/d3.custom.min.js' | relative_url }}"></script>
 
   <script src="https://player.vimeo.com/api/player.js"></script>
