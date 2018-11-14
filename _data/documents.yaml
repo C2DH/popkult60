@@ -19,12 +19,12 @@
 
 -
     id: club-discuss
-    thumbnail: https://github.com/C2DH/popkult60/blob/master/assets/images/beat-Club.png
-    title: Beat Club
+    thumbnail: /assets/images/beat-Club.png
+    src: /assets/images/beat-Club.png
+    title: "Beat Club, Nr. 11, 27.08.1966."
     type: image
-    layout: iframe
-    src: "https://github.com/C2DH/popkult60/blob/master/assets/images/beat-Club.png"
-    aspectratio: aspect-4-3
+    layout: image
+    aspectratio: aspect-16-9
 
 -
     id: beat-club
