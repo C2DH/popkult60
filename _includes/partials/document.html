@@ -1,4 +1,24 @@
 {% if document.layout == "iframe" %}
   {% assign iframe = document %}
   {% include partials/iframe.html %}
+{% else %}
+  <div class="card">
+    <div class='card-img-top {{ document.aspectratio }}'
+          id='doc-{{document.id}}'
+          style='background-image: url({{ doc.thumbnail }})'>
+    </div>
+    <div class="card-body py-3 px-5">
+      <p class="card-text">
+        {% if doc.reference %}
+        {{ doc.reference | markdownify }}
+        {% else %}
+          {% if doc.title %}
+          {{ doc.title }}
+          {% endif %}
+        {% endif %}
+      </p>
+    </div>
+
+  </div>
+
 {% endif %}
