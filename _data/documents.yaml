@@ -17,4 +17,12 @@
     src: "https://player.vimeo.com/video/300472267"
     aspectratio: aspect-4-3
     
-    
+- 
+    id: club-discuss
+    thumbnail: https://github.com/C2DH/popkult60/blob/master/assets/images/beat-Club.png
+    title: Beat Club
+    type: image
+    layout: iframe
+    src: "https://github.com/C2DH/popkult60/blob/master/assets/images/beat-Club.png"
+    aspectratio: aspect-4-3
+   
