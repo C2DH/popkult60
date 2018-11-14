@@ -1,6 +1,6 @@
 ---
 category: field
-title: orte-raume-und-lokalitat
+title: Time – Space - Place
 slug: orte-raume-und-lokalitat
 lang: en
 ordering: 6

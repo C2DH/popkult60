@@ -48,7 +48,7 @@ The seven Projects:
 
 
 
-**Dr. Gunter Mahlerwein**, [Von der Märchenstunde zur Lebenswelt - Europäische Kinderserien in den langen 1960er Jahren](../assets/pdf/mahlerwein-en.pdf)
+**Dr. Gunter Mahlerwein**, [From the age of fairytales to real life – European TV series for children in the long 1960s](../assets/pdf/mahlerwein-en.pdf)
 
 
 *Supervisor: Prof. Dr. Clemens Zimmermann*

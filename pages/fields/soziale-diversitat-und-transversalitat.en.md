@@ -1,6 +1,6 @@
 ---
 category: field
-title: soziale-diversitat-und-transversalitat
+title: Social Diversity - Transversality
 slug: soziale-diversitat-und-transversalitat
 lang: en
 ordering: 4
