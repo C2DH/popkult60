@@ -7,7 +7,7 @@
     layout: iframe
     src: "https://player.vimeo.com/video/300239147"
     aspectratio: aspect-4-3
-    
+
 -
     id: podcast
     thumbnail: https://vimeo.com/300472267
@@ -16,8 +16,8 @@
     layout: iframe
     src: "https://player.vimeo.com/video/300472267"
     aspectratio: aspect-4-3
-    
-- 
+
+-
     id: club-discuss
     thumbnail: https://github.com/C2DH/popkult60/blob/master/assets/images/beat-Club.png
     title: Beat Club
@@ -25,4 +25,12 @@
     layout: iframe
     src: "https://github.com/C2DH/popkult60/blob/master/assets/images/beat-Club.png"
     aspectratio: aspect-4-3
-   
+
+-
+    id: beat-club
+    thumbnail: /assets/images/beat-Club.png
+    src: /assets/images/beat-Club.png
+    title: "Beat Club, Nr. 11, 27.08.1966."
+    type: image
+    layout: image
+    aspectratio: aspect-16-9

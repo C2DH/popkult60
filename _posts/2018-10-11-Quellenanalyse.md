@@ -18,8 +18,8 @@ Neben Vorträgen und Diskussionen zum Spannungsfeld Amerikanisierung und Europä
 
 Ausgehend von ihrem Teilprojekt über europäische Jugendmedien zeigte uns Popkult60-Forscherin Aline Maldener am Beispiel des Beat Club vom 27. August 1966, wie die Moderatorin Uschi Nerke den deutschen Zuschauern die junge Londoner Clubszene am Beispiel des Tiles Club näherbrachte.
 
-{:.figure}
-![alt text](../../../../assets/images/beat-Club.png)
+
+[card](beat-club)
 
 {:.caption}
 *Beat Club, Nr. 11, 27.08.1966. Moderatorin Uschi Nerke mit Barbara, die als Au-pair-Mädchen für ein Jahr nach London gekommen ist und sich als Bardame im Mod-Club „The Tiles“ das Geld für die Heimfahrt verdient*
