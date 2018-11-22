@@ -9,11 +9,11 @@ lang: de
 ## Populärkultur Transnational – Europa in den langen 1960er Jahren
 <!-- more -->
 
-Verglichen mit den Vereinigten Staaten oder Großbritannien hat die Geschichte der Populärkultur in vielen kontinentaleuropäischen Ländern lange einen schweren akademischen Stand gehabt. Zwar hat sich dies auch dort in den letzten beiden Jahrzehnten verändert: Populärkulturelle Produkte, Phänomene und Praktiken sind nunmehr in den zeithistorischen Forschungsbetrieb eingezogen und finden in jüngeren Handbüchern zur Geschichte des 20. Jahrhunderts teils marginal, teils ausgiebiger Erwähnung.
+Verglichen mit den Vereinigten Staaten oder Großbritannien hatte die Geschichte der Populärkultur in vielen kontinentaleuropäischen Ländern lange einen schweren akademischen Stand. Zwar hat sich dies auch dort in den letzten beiden Jahrzehnten verändert: Populärkulturelle Produkte, Phänomene und Praktiken sind nunmehr in den zeithistorischen Forschungsbetrieb eingezogen und finden in jüngeren Handbüchern zur Geschichte des 20. Jahrhunderts teils marginal, teils ausgiebiger Erwähnung.
 
-Dennoch wird das Erkenntnispotenzial von Populärkultur für den Wandel gesellschaftlicher und politischer Verhältnisse weiterhin unterschätzt, noch immer liegen zahlreiche relevante Themenbereiche wissenschaftlich brach. Dies gilt erst recht unter transnationalen Gesichtspunkten und für europäisch dimensionierte Untersuchungen. Denn bei allem Nachdenken über Methoden und Konzepte transnationaler Geschichte bilden doch klar abgegrenzte, quellengesättigte Studien, die Aspekte der Populärkultur in zwei oder mehr Gesellschaften vergleichs-, transfer- und verflechtungsgeschichtlich in den Blick nehmen, nach wie vor eher die Ausnahme als die Regel.
+Dennoch wird das Erkenntnispotenzial von Populärkultur für den Wandel gesellschaftlicher und politischer Verhältnisse weiterhin unterschätzt, noch immer liegen zahlreiche relevante Themenbereiche wissenschaftlich brach. Dies gilt erst recht unter transnationalen Gesichtspunkten und für europäisch dimensionierte Untersuchungen. Denn bei allem Nachdenken über Methoden und Konzepte transnationaler Geschichte bilden klar abgegrenzte, quellengesättigte Studien, die Aspekte der Populärkultur in zwei oder mehr Gesellschaften vergleichs-, transfer- und verflechtungsgeschichtlich in den Blick nehmen, nach wie vor doch eher die Ausnahme als die Regel.
 
-Das Projekt "Populärkultur transnational - Europa in den langen 1960er Jahren" setzt sich zum Ziel, offensichtliche zeitgeschichtliche Desiderate im Bereich transnationaler Populärkultur zu füllen, theoretische Debatten mit empirischen Fallstudien zu unterfüttern und den Mehrwert eines transnationalen Zugriffs gegenüber Einzelländeranalysen nachzuweisen. Geschehen soll dies durch sieben Populärkulturstudien, die allesamt über den nationalen Tellerrand hinausschauen und mehrere Länder, Kulturen und Gesellschaften berücksichtigen. Besonders weitreichende Einsichten lassen die allen Teilprojekten gemeinsame räumliche - Westeuropa - und zeitliche - die langen 1960er Jahre - Rahmung sowie die grundsätzlich eng verwobenen Forschungsdesigns erwarten, die potenziellen "Elfenbeinturm"-Gefahren in Verbundprojekten einen Riegel vorschieben, stattdessen eine hochdialogische Arbeitsweise und fast zwangsläufige teilprojektrelevante Synergien erlauben.
+Das Projekt "Populärkultur transnational - Europa in den langen 1960er Jahren" setzt sich zum Ziel, offensichtliche zeitgeschichtliche Desiderate im Bereich transnationaler Populärkultur zu füllen, theoretische Debatten mit empirischen Fallstudien zu unterfüttern und den Mehrwert eines transnationalen Zugriffs gegenüber Einzelländeranalysen nachzuweisen. Geschehen soll dies durch sieben Populärkulturstudien, die allesamt über den nationalen Tellerrand hinausschauen und mehrere Länder, Kulturen und Gesellschaften berücksichtigen. Besonders weitreichende Einsichten lassen die allen Teilprojekten gemeinsame räumliche Rahmung (Westeuropa) und die zeitliche Eingrenzung (die langen 1960er Jahre) sowie die grundsätzlich eng verwobenen Forschungsdesigns erwarten, die potenziellen "Elfenbeinturm"-Gefahren in Verbundprojekten einen Riegel vorschieben, stattdessen eine hochdialogische Arbeitsweise und fast zwangsläufige teilprojektrelevante Synergien erlauben.
 
 Ganz bewusst sind daher sämtliche vorgesehenen Untersuchungen im Kern wechselseitig aufeinander bezogen, operieren folgerichtig mit denselben, zumindest mit ähnlichen Leitfragen und verorten sich in mehreren forschungsrelevanten und erkenntnisträchtigen Spannungsfeldern von "Populärkultur transnational".
 
@@ -40,7 +40,7 @@ Die sieben Teilprojekte:
 
 
 
-**Dr. Gunter Mahlerwein**, [Von der Märchenstunde zur Lebenswelt - Europäische Kinderserien in den langen 1960er Jahren*](../assets/pdf/mahlerwein-de.pdf)
+**Dr. Gunter Mahlerwein**, [Von der Märchenstunde zur Lebenswelt - Europäische Kinderserien in den langen 1960er Jahren](../assets/pdf/mahlerwein-de.pdf)
 
 
 *Betreuer: Prof. Dr. Clemens Zimmermann*
@@ -48,7 +48,7 @@ Die sieben Teilprojekte:
 
 
 
-**Aline Maldener**, [Jugend-Medienensemble Europa" - Zur Transnationalität von Jugendmedien und ihrer populären Jugendkultur in Westdeutschland, Frankreich, Großbritannien 1964- 1974](../assets/pdf/maldener-de.pdf)
+**Aline Maldener**, ["Jugend-Medienensemble Europa" - Zur Transnationalität von Jugendmedien und ihrer populären Jugendkultur in Westdeutschland, Frankreich, Großbritannien 1964- 1974](../assets/pdf/maldener-de.pdf)
 
 
 *Betreuer: Prof. Dr. Clemens Zimmermann*
@@ -56,7 +56,7 @@ Die sieben Teilprojekte:
 
 
 
-**Julia Wack**, [Ambitionierte Amateure" - Europäische Filmclubs in den langen 1960er Jahren*](../assets/pdf/wack-de.pdf)
+**Julia Wack**, ["Ambitionierte Amateure" - Europäische Filmclubs in den langen 1960er Jahren](../assets/pdf/wack-de.pdf)
 
 
 *Betreuerin: Prof. Dr Sonja Kmec*
