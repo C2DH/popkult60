@@ -5,6 +5,9 @@ category: event
 cover:
   document: radio-luxembourg-208  
   caption: Barry Alldis und Keith Fordyce, Moderatoren bei Radio Luxembourg. Anet Alldis, Under the Bedclothes, 1993
+authors:
+  - Ann-Kristin Kurberg
+  - Christoph Vatter
 tags:
   - radio
   - workshops
