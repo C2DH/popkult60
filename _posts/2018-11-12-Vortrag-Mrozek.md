@@ -8,7 +8,7 @@ tags:
   - paper report
   - workshop
   - youth 
-  - Amerikanisierung-Europäisierung
+  - Amerikanisches-Europäisches
 author:
   - Maude Williams
   - Julia Wack
