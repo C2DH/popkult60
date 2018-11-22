@@ -6,7 +6,7 @@ category: event
 cover:
   url: /assets/images/Affiche-Siegfried.jpg
 tags:
-  - paper report
+  - paper
   - workshop
   - youth
 authors:
