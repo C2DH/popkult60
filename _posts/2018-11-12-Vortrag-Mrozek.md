@@ -5,7 +5,7 @@ category: event
 cover:
   url: /assets/images/Bodo-expose.JPG
 tags:
-  - paper report
+  - paper
   - workshop
   - youth 
   - Amerikanisches-Europäisches
