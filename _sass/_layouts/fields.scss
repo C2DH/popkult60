@@ -11,7 +11,7 @@ div.field{
   .cover-wrapper{
     height: 0;
     width: 100%;
-    padding-bottom: 100%;
+    padding-bottom: 66%;
     margin:0;
     position:relative;
 
@@ -64,7 +64,7 @@ div.field{
 
       border-bottom: 2px solid $floyd-dark;
       font-size: 1.25rem;
-
+      margin: 0;
       span{
 
         font-family: Olio-Bold, Helvetica, sans-serif;
@@ -73,6 +73,16 @@ div.field{
         line-height: 25px;
         color: $white;
         padding: 0px 5px;
+      }
+    }
+
+    h3{
+      font-family: Olio-Bold, Helvetica, sans-serif;
+      line-height: 2rem;
+      font-size: inherit;
+      > span{
+        background: #ee578d;
+        color: #ffffff;
       }
     }
     > div{
