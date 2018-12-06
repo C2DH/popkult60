@@ -3,7 +3,7 @@ permalink: /fr/blog/
 link: /blog/
 layout: blog
 title: Popkult60
-subheading: Page blog Popkult60
+subheading: Popkult60 - actualités et reflexions
 lang: fr
 ---
 
