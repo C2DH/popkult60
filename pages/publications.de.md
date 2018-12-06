@@ -3,7 +3,7 @@ permalink: /de/publications/
 link: /publications/
 layout: page
 title: Publikationen
-subheading: "Popkult60: Ein näherer Einblick in die Populärkultur der langen 1960er Jahre"
+subheading: "Popkult60: Ein genauer Einblick in die Populärkultur der langen 1960er Jahre"
 lang: de
 ---
 
@@ -76,12 +76,19 @@ Zimmermann, Clemens: „Kommunikation und Medien”, in: van Dülmen, Richard (H
 Zimmermann, Clemens: „Marktanalysen und Werbeforschung der frühen Bundesrepublik. Deutsche Traditionen und US-amerikanische Einflüsse, 1950-1965“, in: Berg, Manfred / Gassert, Philipp (Hrsg.), Deutschland und die USA in der Internationalen Geschichte des 20. Jahrhunderts, Stuttgart, 2004, S. 473-491.
 
 Zimmermann, Clemens / Schmeling, Manfred (Hrsg.): Die Zeitschrift – Medium der Moderne / La presse magazine – un média de l’époque moderne. Deutschland und Frankreich im Vergleich / Étude comparative France-Allemagne, Bielefeld, 2006.
+
 Zimmermann, Clemens: Medien im Nationalsozialismus. Deutschland 1933-1945, Italien 1922-1943 und Spanien 1936-1951, Wien, 2007.
 Zimmermann, Clemens (Hrsg.): Städtische Kulturförderung (Informationen zur modernen Stadtgeschichte 2), 2008.
+
 Zimmermann, Clemens: „Öffentliche Meinung“, in: Jager, Friedrich (Hrsg.), Enzyklopädie der Neuzeit 9, Stuttgart / Weimar, 2009, S. 336-338.
+
 Zimmermann, Clemens / Hudemann, Rainer / Kuderna, Michael (Hrsg.): Medienlandschaft Saar von 1945 bis zur Gegenwart, 3 Bände, München, 2010.
+
 Zimmermann, Clemens: Europäische Medienstädte 1500-2000. Historische Kontinuitäten und urbane Kontexte der Medienproduktion, St. Ingbert, 2017.
+
 Zimmermann, Clemens: „Die Medienlandschaft Saar 1945-2000. Charakteristika, Zäsuren und transregionale Bezüge“, in: Clemens, Gabriele B. (Hrsg.), Schlüsseljahre. Zäsuren und Kontinuitäten an der Saar 1815 – 1935 – 1955, Saarbrücken, 2017, S. 161-180.
+
 Zimmermann, Clemens: „Weltstädte, Metropolen, Megastädte. Dynamiken von Stadt und Raum von der Antike bis zur Gegenwart“, in: Sander-Faes, Stephan / Zimmermann, Clemens (Hrsg.), Weltstädte, Metropolen. Megastädte. Dynamiken von Stadt und Raum von der Antike bis zur Gegenwart, Ostfildern, 2018, S. 11-28.
+
 Zimmermann, Clemens / Mahlerwein, Gunter / Maldener, Aline (Hrsg.), Landmedien. Kulturhistorische Perspektiven auf das Verhältnis von Medialität und Ruralität im 20. Jahrhundert, Innsbruck, 2018.
 
