@@ -3,7 +3,7 @@ permalink: /de/fields/
 link: /fields/
 layout: fields
 title: Spannungsfelder
-subheading: 8 Forschungskernbereiche, die das Projekt gliedern
+subheading: 8 Forschungskernbereiche als theoretischer Rahmen und Struktur des Projekts
 lang: de
 ---
 
