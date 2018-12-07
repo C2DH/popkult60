@@ -3,7 +3,7 @@ permalink: /de/project/
 link: /project/
 layout: page
 title: Projekt
-subheading: "Popkult60: Ein näherer Einblick in die Populärkultur der langen 1960er Jahre"
+subheading: "Popkult60: der Populärkultur der langen 1960er Jahre auf der Spur"
 lang: de
 ---
 ## Populärkultur Transnational – Europa in den langen 1960er Jahren
