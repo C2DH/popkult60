@@ -68,6 +68,11 @@ div.page{
   }
 }
 
+.index #nav-menu .navbar-expand{
+  // background: linear-gradient(#37ffd1, #00f7e4);
+  background:$floyd-pink-c;
+}
+
 div.page .contents .card{
   background: $white;
   .card-text{
