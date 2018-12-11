@@ -31,10 +31,10 @@ layout: default
                 <div class='opt odd' style='transform: rotate( {{ randomNumber }}deg)'></div> -->
               </div>
             </div>
-            <div class='metadata'>
+            <div class='metadata p-3'>
               <h2><a href='{{field.permalink | relative_url}}'><span>{{field.title}}</span></a></h2>
 
-              <div>{{ field.content | markdownify }}</div>
+              <div class= 'pt-3'> {{ field.content | markdownify }}</div>
             </div>
           </div>
         </div>
