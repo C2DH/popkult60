@@ -16,4 +16,4 @@ Our objective is to analyze European cultural transfers in a transnational persp
 
 Enjoy your visit!
 
-The Team Popkult60 
+The Team Popkult60
