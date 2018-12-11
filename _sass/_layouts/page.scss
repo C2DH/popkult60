@@ -81,7 +81,20 @@ div.page .contents .caption{
 }
 
 div.page{
-  background: #efefef;
+//   background: #efefef;
+// }
+  min-height: 300px;
+  background: linear-gradient($floyd-pink-c, $floyd-pink);
+  // border-left: none;
+  &.middle{
+    border-top-width: 0;
+
+    background: $floyd-dark;
+  }
+
+  &.no-padding{
+    min-height: auto;
+  }
 }
 
 @media (min-width: 768px){
