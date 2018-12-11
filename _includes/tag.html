@@ -1,0 +1,7 @@
+<a {% if page.lang == site.default_lang %}
+  href='{{ "" | relative_url}}/tags#{{ tag | slugify }}'
+{% else %}
+  href='{{ page.lang | relative_url}}{{link.href}}/tags#{{ tag | slugify }}'
+{% endif %}>
+  <code class="highligher-rouge"><nobr>{{ tag }} {% if tagsize %}({{ tagsize }}){% endif %}</nobr></code></a>
+  {% assign tagsize = false %}

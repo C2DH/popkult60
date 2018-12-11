@@ -5,6 +5,12 @@ subheading: Detlef Siegfried
 category: event
 cover:
   url: /assets/images/Affiche-Siegfried.jpg
+tags:
+  - paper
+  - workshop
+  - youth
+authors:
+  - Maude Williams
 ---
 
 # Popgeschichte als Gesellschaftsgeschichte

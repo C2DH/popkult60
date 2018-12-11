@@ -3,7 +3,7 @@ body.field{
 }
 
 div.field{
-  min-height: 200px;
+  // min-height: 200px;
   margin-bottom: 15px;
   margin-top: 15px;
 
@@ -11,7 +11,7 @@ div.field{
   .cover-wrapper{
     height: 0;
     width: 100%;
-    padding-bottom: 100%;
+    padding-bottom: 66%;
     margin:0;
     position:relative;
 
@@ -53,14 +53,18 @@ div.field{
   .metadata{
     background: $floyd-pink-c;
     position: relative;
-    margin: 0;
-    padding: 15px;
+
+    .date{
+      display: inline-block;
+      background-color: white;
+      padding: 0 4px;
+    }
 
     h2{
-      margin-bottom: 15px;
+
       border-bottom: 2px solid $floyd-dark;
-      line-height: 25px;
-      padding-bottom: 15px;
+      font-size: 1.25rem;
+      margin: 0;
       span{
 
         font-family: Olio-Bold, Helvetica, sans-serif;
@@ -69,6 +73,16 @@ div.field{
         line-height: 25px;
         color: $white;
         padding: 0px 5px;
+      }
+    }
+
+    h3{
+      font-family: Olio-Bold, Helvetica, sans-serif;
+      line-height: 2rem;
+      font-size: inherit;
+      > span{
+        background: #ee578d;
+        color: #ffffff;
       }
     }
     > div{

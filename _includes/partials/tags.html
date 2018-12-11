@@ -1,0 +1,11 @@
+<h3>tags</h3>
+{% include captures/tagcloud.html %}
+
+
+{% for temptag in tagcloud %}
+  {% assign tagitems = temptag | split: '#' %}
+  {% capture tagsize %}{{ tagitems[0] }}{% endcapture %}
+  {% capture tag %}{{ tagitems[1] }}{% endcapture %}
+  {% include tag.html %}
+  {% unless forloop.last %} &middot; {% endunless %}
+{% endfor %}

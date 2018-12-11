@@ -18,19 +18,24 @@ layout: default
           <div class="field person">
             <a href="{{person.url}}" target="_blank">
             <div class="cover-wrapper">
-              <div class="cover" style="background-size: 25%;background-image: url({{absolute_url}});background-repeat:repeat;">
+              <div class="cover" style="background-size: 50%;background-image: url({{absolute_url}});background-repeat:repeat;">
 
               </div>
-            </div> {{person.role}}
+            </div>
             </a>
-            <div class="metadata">
-              <h2><a href="{{person.url}}" target="_blank"><span>{{person.name}}</span></a></h2>
+            <div class="metadata p-3">
+              <h2>
+                <a href="{{person.url}}" target="_blank">
+                  <span>{{person.name}}</span>
+                </a>
+              </h2>
+              <h3>{% assign key=person.role %}{% include t.html %}</h3>
               {% capture description %}
               {{person.description[page.lang] | markdownify }}
               {% endcapture %}
 
 
-             
+
               <div>{{ description }}</div>
               {% if person.CV %}
             <a href='{{person.CV | relative_url}}'>cv (pdf)</a>

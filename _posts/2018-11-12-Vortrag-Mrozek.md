@@ -4,6 +4,14 @@ title: "Bericht über den Vortrag von Bodo Mrozek"
 category: event
 cover:
   url: /assets/images/Bodo-expose.JPG
+tags:
+  - paper
+  - workshop
+  - youth 
+  - Amerikanisches-Europäisches
+author:
+  - Maude Williams
+  - Julia Wack
 ---
 
 ## Amerikanisierung, Westernisierung, Europäisierung? Popgeschichte und die historiographischen Raumdebatten ##

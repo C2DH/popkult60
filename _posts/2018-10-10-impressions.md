@@ -4,6 +4,10 @@ title: "The First full PopKult Meeting-Oct 2018"
 category: event
 cover:
   url: /assets/images/Flyer-2-workshop.png
+tags:
+  - workshop
+author:
+  - Jessica Burton
 ---
 
 **The First full PopKult Meeting - Oct 2018**

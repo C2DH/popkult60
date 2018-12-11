@@ -6,4 +6,12 @@ body.blog {
   .card-text{
     color: $black;
   }
+
+  #list-of-posts.filtered .post{
+    opacity: .15;
+
+    &.active{
+      opacity:1
+    }
+  }
 }
