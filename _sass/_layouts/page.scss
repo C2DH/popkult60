@@ -68,11 +68,6 @@ div.page{
   }
 }
 
-.index #nav-menu .navbar-expand{
-  // background: linear-gradient(#37ffd1, #00f7e4);
-  background:$floyd-pink-c;
-}
-
 div.page .contents .card{
   background: $white;
   .card-text{
@@ -94,8 +89,10 @@ div.page{
   &.middle{
     border-top-width: 0;
 
-    background: repeating-linear-gradient(0deg, $floyd-pink 0px, $floyd-pink 2px, rgba(0,0,0,0) 2px, rgba(0,0,0,0) 8px);
-    z-index: 0;
+    .index #nav-menu .navbar-expand{
+      // background: linear-gradient(#37ffd1, #00f7e4);
+      background:$floyd-pink-c;
+    }
   }
 
   &.no-padding{
