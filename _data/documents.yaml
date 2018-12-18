@@ -10,7 +10,7 @@
 
 -
     id: Maude-podcast
-    thumbnail: https://github.com/C2DH/popkult60/blob/master/assets/images/covers-fr-dt.jpg
+    thumbnail: /assets/images/covers-fr-dt.jpg
     title: Maude Podcast
     type: vimeo
     layout: iframe
