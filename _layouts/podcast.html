@@ -29,8 +29,8 @@ layout: default
               {% endif %}
 
 
-              <div class='metadata px-3 pb-3 {% if audioaudiopost.cover.caption %} pt-0 {% else %} pt-3 {% endif %}'>
-                <h2 class='pb-3 mb-3'><a href='{{audioaudiopost.url | relative_url}}'><span>{{audioaudiopost.title}}</span></a></h2>
+              <div class='metadata px-3 pb-3 {% if audiopost.cover.caption %} pt-0 {% else %} pt-3 {% endif %}'>
+                <h2 class='pb-3 mb-3'><a href='{{audiopost.url | relative_url}}'><span>{{audiopost.title}}</span></a></h2>
                 <div class='date'>{{ audiopost.date | date: "%b %-d, %Y"}}</div>
 
                 <div class='tags pb-2 mb-2'>
