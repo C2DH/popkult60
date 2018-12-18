@@ -12,6 +12,6 @@ authors:
 
 ## Podcast "Comics in Europe"
 
-You're listening the podcast of Jessica Burton about Tintin, Spirou and their tranlations. 
+You're listening the podcast of Jessica Burton about Tintin, Spirou and their translations.
 
 <!-- more -->
