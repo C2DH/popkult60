@@ -1,5 +1,5 @@
 ---
-permalink: /de/podcast/
+permalink: /fr/podcast/
 link: /podcast/
 layout: blog
 title: Popkult60
