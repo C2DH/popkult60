@@ -9,12 +9,12 @@
     aspectratio: aspect-4-3
 
 -
-    id: podcast
-    thumbnail: https://vimeo.com/300472267
-    title: Podcast Maude Williams
+    id: Maude-podcast
+    thumbnail: /assets/images/cover-fr-dt.jpg
+    title: Maude Podcast
     type: vimeo
     layout: iframe
-    src: "https://player.vimeo.com/video/300472267"
+    src: "https://player.vimeo.com/video/307009093"
     aspectratio: aspect-4-3
 
 -
