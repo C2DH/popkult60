@@ -43,3 +43,22 @@
     layout: iframe
     src: "https://player.vimeo.com/video/307027965"
     aspectratio: aspect-4-3
+
+-
+    id: Ann-Kristin-podcast
+    thumbnail: /assets/images/telesalon.jpg
+    title: Ann-Kristin Podcast
+    type: vimeo
+    layout: iframe
+    src: "https://player.vimeo.com/video/307082446"
+    aspectratio: aspect-4-3
+    
+ -
+    id: Benoit-podcast
+    thumbnail: /assets/images/comic-cover.jpg
+    title: Benoit Podcast
+    type: vimeo
+    layout: iframe
+    src: "https://player.vimeo.com/video/307086698"
+    aspectratio: aspect-4-3
+    
