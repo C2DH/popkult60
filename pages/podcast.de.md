@@ -1,7 +1,7 @@
 ---
 permalink: /de/podcast/
 link: /podcast/
-layout: blog
+layout: podcast
 title: Popkult60
 subheading: Popkult60 - On Air
 lang: de
