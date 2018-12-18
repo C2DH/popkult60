@@ -13,3 +13,6 @@ primary:
     - title: blog
       follow: post
       href: /blog/
+    - title: podcast
+      follow: audiopost
+      href: /podcast/
