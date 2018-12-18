@@ -2,8 +2,9 @@
 layout: post
 title:  "Podcast on Music"
 category: podcast
-cover: 
-  url: 
+cover:
+  document: Maude-podcast  
+  caption: Maude Williams
 tags:
   - music
 authors:
@@ -12,7 +13,7 @@ authors:
 
 ## Podcast
 
-here is the first podcast of the reasearch group.
+Here is the first podcast of the reasearch group.
 
 <!-- more -->
 
