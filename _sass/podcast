@@ -1,0 +1,17 @@
+body.blog {
+  .card-body{
+    background-color: $floyd-pink-c;
+
+  }
+  .card-text{
+    color: $black;
+  }
+
+  #list-of-posts.filtered .post{
+    opacity: .15;
+
+    &.active{
+      opacity:1
+    }
+  }
+}
