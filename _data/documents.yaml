@@ -57,7 +57,7 @@
     id: Benoit-podcast
     thumbnail: /assets/images/comic-cover.jpg
     title: Benoit Podcast
-    type: vimeo
+    type: youtube
     layout: iframe
-    src: "https://player.vimeo.com/video/307086698"
+    src: "https://www.youtube.com/embed/ob5Qf6D5vYc"
     aspectratio: aspect-4-3
