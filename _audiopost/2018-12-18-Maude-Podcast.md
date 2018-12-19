@@ -1,6 +1,6 @@
 ---
 layout: audiopost
-title:  "Podcast on Music"
+title:  Podcast on Music
 category: podcast
 cover:
   document: Maude-podcast  
