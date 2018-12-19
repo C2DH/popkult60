@@ -3,3 +3,7 @@ default_lang: en
 languages: ['en', 'fr','de']
 excerpt_separator: <!-- more -->
 exclude: [d3/]
+collections:
+  audiopost:
+    output: true
+    permalink: /u/:path/
