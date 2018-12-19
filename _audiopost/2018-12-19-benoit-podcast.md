@@ -12,7 +12,7 @@ authors:
 
 ## Podcast "Comics in Europe"
 
-Vous écoutez le Podcast de Beoit Majérus qui présente une fois par mois l'émission sur les bandes dessinées [radio grandpapier](http://radio.grandpapier.org/)
+Vous écoutez le podcast de Benoît Majerus qui présente une fois par mois un livre académique sur la bande dessinée dans l’émission [radio grandpapier](http://radio.grandpapier.org/)
 
 
 <!-- more -->
