@@ -16,8 +16,6 @@ layout: default
                 <div class="card">
                   <img class='card-img-top' src='{{"" | relative_url}}{{post.cover.url}}'>
                   {% if post.cover.caption %}
-                  <div class="card-body py-0">
-                    <p class="card-text">{{post.cover.caption | markdownify }}</p>
                   </div>
                   {% endif %}
                 </div>
