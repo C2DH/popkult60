@@ -3,5 +3,5 @@
 {% else %}
   href='{{ page.lang | relative_url}}{{link.href}}/tags#{{ tag | slugify }}'
 {% endif %}>
-  <code class="highligher-rouge"><nobr>{{ tag }} {% if tagsize %}({{ tagsize }}){% endif %}</nobr></code></a>
+  <code class="highligher-rouge">{{ tag }}{% if tagsize %}&nbsp;({{ tagsize }}){% endif %}</code></a>
   {% assign tagsize = false %}
