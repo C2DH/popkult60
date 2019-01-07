@@ -31,25 +31,6 @@ div.field{
     }
   }
 
-  .opt{
-    position:absolute;
-    left: $moire-expand;
-    top: $moire-expand;
-    right: $moire-expand;
-    bottom:$moire-expand;
-
-    background: repeating-linear-gradient(0deg, $cadmio 0px, $cadmio 1px, rgba(0,0,0,0) 1px, rgba(0,0,0,0) 5px);
-
-
-
-    &.odd{
-      transform: rotate(2deg);
-      background: repeating-linear-gradient(0deg, $blue 0px, $blue 1px, rgba(0,0,0,0) 1px, rgba(0,0,0,0) 5px);
-    }
-  }
-
-
-
   .metadata{
     background: $floyd-pink-c;
     position: relative;

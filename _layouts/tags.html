@@ -2,7 +2,6 @@
 layout: default
 ---
 {% include captures/tagcloud.html %}
-<div class='page'>
   <div class='container'>
     <h1 class='title'>{% assign key="Blog tags"%}{% include t.html %}</h1>
     <h2 class='subheading'><span>{{page.subheading}}</span></h2>
@@ -36,9 +35,8 @@ layout: default
         </div>
       {% endfor %}
       </div>
-      <div class='col-sm-2'>
+      <div class='col-sm-2 tag-list'>
         {% include partials/tags.html %}
       </div>
     </div>
   </div>
-</div>
