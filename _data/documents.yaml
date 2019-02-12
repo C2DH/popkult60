@@ -61,3 +61,12 @@
     layout: iframe
     src: "https://www.youtube.com/embed/ob5Qf6D5vYc"
     aspectratio: aspect-4-3
+
+-
+    id: affiche-aix
+    thumbnail: /assets/images/affiche-aix.png
+    src: /assets/images/affiche-aix.png
+    title: "Tagung: Rapprochement et conflit: Les relations franco-allemandes – modèle ou exception?"
+    type: image
+    layout: image
+    aspectratio: aspect-16-9
