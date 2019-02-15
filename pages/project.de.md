@@ -17,6 +17,10 @@ Das Projekt "Populärkultur transnational - Europa in den langen 1960er Jahren" 
 
 Ganz bewusst sind daher sämtliche vorgesehenen Untersuchungen im Kern wechselseitig aufeinander bezogen, operieren folgerichtig mit denselben, zumindest mit ähnlichen Leitfragen und verorten sich in mehreren forschungsrelevanten und erkenntnisträchtigen Spannungsfeldern von "Populärkultur transnational".
 
+Die verschiedene Projekte werden von Professoren der Universitäten des Saarlandes und Luxemburgs betreut.
+
+Das Projekt wird vom Prof. Dr. [Dietmar Hüser] (https://popkult60.eu/people/), dem Sprecher der Forschergruppe, geleitet und die Koordination übernimmt Dr. [Maude Williams] (https://popkult60.eu/people/); beide sind an der Universität des Saarlandes tätig.
+
 Die sieben Teilprojekte:
 
 

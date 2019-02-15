@@ -21,8 +21,7 @@ The project "Popular Culture Transnational - Europe in the Long 1960s" aims to f
 
 Particularly far-reaching insights are made possible through the common spatial - Western European - and temporal - the long 1960s - framing as well as the fundamentally interwoven research designs, that avoid the potential "ivory tower" risks by joining projects, and give the possibility of a highly-functional approach and almost inevitable synergies between the projects. Therefore, all planned examinations at their core are deliberately mutually interdependent, operate consistently with the same, at least with similar key questions and locate themselves in several research-relevant and eponymous fields of tension of "transnational popular culture"
 
-The seven Projects: 
-
+The various projects are supervised by professors from the university of Saarland and the university of Luxembourg. The project is led by Professor [Dietmar Hüser](https://popkult60.eu/people/), who is the spokesperson of the project, and the coordination is led by [Maude Williams] (https://popkult60.eu/ people/); both working at the University of Saarland.
 
 
 **Jessica Burton**, [Anti-Heroes of Desamericanization? - The bandes dessinées of the Franco-Belgian School as actors of the popular cultural Europeanization of comic culture in the long 1960s*](../assets/pdf/burton-en.pdf)
