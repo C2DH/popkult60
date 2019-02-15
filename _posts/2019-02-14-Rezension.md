@@ -27,4 +27,4 @@ Auf *Deutsch* auf [H-Soz-Kult](https://www.hsozkult.de/publicationreview/id/rezb
 
 oder bei [Francia Recensio](https://journals.ub.uni-heidelberg.de/index.php/frrec/article/view/57517/49166), hier als [pdf.](../../../../assets/pdf/Francia.pdf)
 
-Auf *Französisch* bei der Zeitschrift *Vingtième Siècle bzw. 20 & 21 Revue d’histoire*, hier als [pdf.]
+Auf *Französisch* bei der Zeitschrift *Vingtième Siècle bzw. 20 & 21 Revue d’histoire*, hier als [pdf.](../../../../assets/pdf/Paulmaurice.pdf)
