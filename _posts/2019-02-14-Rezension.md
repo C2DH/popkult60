@@ -13,6 +13,8 @@ tags:
 ---
 Rezensionen zum Sammelband *Populärkultur transnational: Lesen, Hören, Sehen, Erleben im Europa der langen 1960er Jahre* sind erschienen! Das Band war das Ergebnis der 2014 in Saarbrücken organisierten [Tagung](../assets/pdf/tagungsbericht.pdf), die der Startschuss all unserer  Überlegungen zur heutigen DFG-Forschergruppe war.
 
+<!-- more -->
+
 Dietmar Hüser (Hg.)
 Populärkultur transnational
 Lesen, Hören, Sehen, Erleben im Europa der langen 1960er Jahre
@@ -25,4 +27,4 @@ Auf *Deutsch* auf [H-Soz-Kult](https://www.hsozkult.de/publicationreview/id/rezb
 
 oder bei [Francia Recensio](https://journals.ub.uni-heidelberg.de/index.php/frrec/article/view/57517/49166), hier als [pdf.](../assets/pdf/Francia.pdf)
 
-Auf *Französisch* bei der Zeitschrift *Vingtième Siècle bzw. 20 & 21 Revue d’histoire*, hier als [pdf.] 
+Auf *Französisch* bei der Zeitschrift *Vingtième Siècle bzw. 20 & 21 Revue d’histoire*, hier als [pdf.]
