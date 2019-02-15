@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dissertationpreis DFH"
+title: "Dissertationpreis der DFH"
 category: event
 cover:
   url: /assets/images/Williams-DFH.jpg
@@ -9,12 +9,13 @@ authors:
 tags:
   - preis
 ---
-Aktuelles aus unserem Team
+**Neues aus unserem Team**
 
-Die Koordinatorin der Forschergruppe, Maude Williams, hat den Dissertationspreis der Deutsch-Französischen Hochschule für ihre Dissertation "Kommunikation in Kriegsgesellschaften am Beispiel der Evakuierung der deutsch-französischen Grenzregion 1939/1940" bekommen.
+Die Koordinatorin unserer Forschergruppe, [Maude Williams](https://popkult60.eu/people/), hat den Dissertationspreis der Deutsch-Französischen Hochschule für ihre Dissertation "Kommunikation in Kriegsgesellschaften am Beispiel der Evakuierung der deutsch-französischen Grenzregion 1939/1940" bekommen.
 
 <!-- more -->
-*Auszug aus der Pressemitteilung der [DFH](https://www.dfh-ufa.org/informationen-fuer/unternehmen/dissertationspreise/preistraeger-seit-2008/)*
+
+*Auszug der Pressemitteilung der [Deutsch-Französischen Hochschule](https://www.dfh-ufa.org/informationen-fuer/unternehmen/dissertationspreise/preistraeger-seit-2008/)*
 
 Jährlich schließen über 1.500 Studierende erfolgreich ihr von der DFH gefördertes deutsch-französisches Studium mit einem Doppeldiplom ab. Sie sprechen mindestens zwei Fremdsprachen, haben im Rahmen mehrerer Auslandsaufenthalte ihre Motivation und ihr Durchsetzungsvermögen unter Beweis gestellt und interkulturelle Kompetenz erworben. Neben ihren 180 integrierten binationalen Studienprogrammen fördert die DFH auch die Mobilität von Doktoranden und unterstützt in diesem Rahmen zahlreiche Programme im Bereich der grenzüberschreitenden Forschung und Wissenschaft.
 
