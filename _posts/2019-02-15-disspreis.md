@@ -4,7 +4,6 @@ title: "Dissertationpreis der DFH"
 category: event
 cover:
   url: /assets/images/Williams-DFH.jpg
-  caption: v.l.n.r.: David Capitant, Präsident der DFH, Maude Williams, Olivier Mentz, Vize-Präsident der DFH (© Jacek Ruta/DFH-UFA)
   mode: portrait
 authors:
 tags:
@@ -15,6 +14,7 @@ tags:
 Die Koordinatorin unserer Forschergruppe, [Maude Williams](https://popkult60.eu/people/), hat den Dissertationspreis der Deutsch-Französischen Hochschule für ihre Dissertation "Kommunikation in Kriegsgesellschaften am Beispiel der Evakuierung der deutsch-französischen Grenzregion 1939/1940" bekommen.
 
 <!-- more -->
+Foto: v.l.n.r.: David Capitant, Präsident der DFH, Maude Williams, Olivier Mentz, Vize-Präsident der DFH (© Jacek Ruta/DFH-UFA)
 
 *Auszug der Pressemitteilung der [Deutsch-Französischen Hochschule](https://www.dfh-ufa.org/informationen-fuer/unternehmen/dissertationspreise/preistraeger-seit-2008/)*
 
