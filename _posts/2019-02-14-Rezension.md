@@ -11,7 +11,7 @@ authors:
 tags:
   - rezension
 ---
-Rezensionen zum Sammelband *Populärkultur transnational: Lesen, Hören, Sehen, Erleben im Europa der langen 1960er Jahre* sind erschienen! Das Band war das Ergebnis der 2014 in Saarbrücken organisierten [Tagung](../assets/pdf/tagungsbericht.pdf), die der Startschuss all unserer  Überlegungen zur heutigen DFG-Forschergruppe war.
+Rezensionen zum Sammelband *Populärkultur transnational: Lesen, Hören, Sehen, Erleben im Europa der langen 1960er Jahre* sind erschienen! Das Band war das Ergebnis der 2014 in Saarbrücken organisierten [Tagung](https://github.com/C2DH/popkult60/blob/master/assets/pdf/tagungsbericht.pdf), die der Startschuss all unserer  Überlegungen zur heutigen DFG-Forschergruppe war.
 
 <!-- more -->
 
