@@ -18,7 +18,7 @@ Le projet « culture populaire transnationale - l'Europe dans les 'longues' ann�
 
 L’encadrement et la conception étroite du projet de recherche permettent également d’éviter le danger potentiel de l’isolement. Au contraire, ils rendent même possible une méthode de travail basée sur le dialogue d’où émerge inévitablement une synergie entre les projets. C’est de manière consciente et volontaire que toutes les recherches prévues sont reliées les unes aux autres et opèrent avec les mêmes – sinon du moins de similaires – questionnements et s’encrent dans les différents champs de tensions qu’englobe le projet « Culture populaire transnationale ».
 
-Les différentes études sont encadrés par des professeurs de l'université de la Sarre et de l'université du Luxembourg. Le projet est dirigé par le professeur [Dietmar Hüser](https://popkult60.eu/people/), qui en est le porte-parole, et la coordination est menée par [Maude Williams](https://popkult60.eu/people/); tout deux travaillant à l'université de la Sarre.  
+Les différentes études sont encadrées par des professeurs de l'université de la Sarre et de l'université du Luxembourg. Le projet est dirigé par le professeur [Dietmar Hüser](https://popkult60.eu/people/), qui en est le porte-parole, et la coordination est menée par [Maude Williams](https://popkult60.eu/people/); tout deux travaillant à l'université de la Sarre.  
 
 Les sept projets:
 
