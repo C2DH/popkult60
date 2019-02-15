@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rezension 'Popkultur transnational'"
+title: "Rezension 'Populärkultur transnational'"
 category: event
 cover:
   url: /assets/images/cover-popkult.jpg
