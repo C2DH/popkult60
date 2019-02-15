@@ -19,7 +19,7 @@ Ganz bewusst sind daher sämtliche vorgesehenen Untersuchungen im Kern wechselse
 
 Die verschiedene Projekte werden von Professoren der Universitäten des Saarlandes und Luxemburgs betreut.
 
-Das Projekt wird vom Prof. Dr. [Dietmar Hüser] (https://popkult60.eu/people/), dem Sprecher der Forschergruppe, geleitet und die Koordination übernimmt Dr. [Maude Williams] (https://popkult60.eu/people/); beide sind an der Universität des Saarlandes tätig.
+Das Projekt wird vom Prof. Dr. [Dietmar Hüser] (https://popkult60.eu/people/), dem Sprecher der Forschergruppe, geleitet und die Koordination übernimmt Dr. [Maude Williams](https://popkult60.eu/people/); beide sind an der Universität des Saarlandes tätig.
 
 Die sieben Teilprojekte:
 
