@@ -4,7 +4,7 @@ title: "Dissertationpreis der DFH"
 category: event
 cover:
   url: /assets/images/Williams-DFH.jpg
-  caption: Foto: v.l.n.r.: David Capitant, Präsident der DFH, Maude Williams, Olivier Mentz, Vize-Präsident der DFH (© Jacek Ruta/DFH-UFA
+  caption: v.l.n.r.: David Capitant, Präsident der DFH, Maude Williams, Olivier Mentz, Vize-Präsident der DFH (© Jacek Ruta/DFH-UFA)
   mode: portrait
 authors:
 tags:
