@@ -11,7 +11,7 @@ tags:
 ---
 **Neues aus unserem Team**
 
-Die Koordinatorin unserer Forschergruppe, [Maude Williams](https://popkult60.eu/people/), hat den Dissertationspreis der Deutsch-Französischen Hochschule für ihre Dissertation "Kommunikation in Kriegsgesellschaften am Beispiel der Evakuierung der deutsch-französischen Grenzregion 1939/1940" bekommen.
+Die Koordinatorin unserer Forschungsgruppe, [Maude Williams](https://popkult60.eu/people/), hat den Dissertationspreis der Deutsch-Französischen Hochschule für ihre Dissertation "Kommunikation in Kriegsgesellschaften am Beispiel der Evakuierung der deutsch-französischen Grenzregion 1939/1940" bekommen.
 
 <!-- more -->
 Foto: v.l.n.r.: David Capitant, Präsident der DFH, Maude Williams, Olivier Mentz, Vize-Präsident der DFH (© Jacek Ruta/DFH-UFA)
