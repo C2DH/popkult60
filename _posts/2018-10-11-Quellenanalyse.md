@@ -10,7 +10,7 @@ authors:
   - Christoph Vatter
 tags:
   - radio
-  - workshops
+  - workshop
 ---
 
 **Mit dem Beat Club nach London! Methodische Annäherungen an Ton- und Bild-Quellen bei Popkult60 am Beispiel von „Beat-Club“ und „Top 20“ von Radio Luxembourg**
