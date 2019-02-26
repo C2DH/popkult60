@@ -3,7 +3,7 @@ layout: post
 title: "The Casterman Archives – February 2019"
 category: event
 cover:
-  url: /assets/images/casterman.jpg
+  url: /assets/images/castermann.png
 tags:
   - archives
 author:
