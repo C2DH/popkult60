@@ -3,7 +3,7 @@ layout: post
 title: "4. Workshop - Jörg Türschmann"
 category: event
 cover:
-  url: /assets/images/mainstream-und-avantgarde.svg
+  url: /assets/images/camera.png
 tags:
   - workshop
 author:
