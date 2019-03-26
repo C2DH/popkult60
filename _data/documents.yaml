@@ -70,3 +70,12 @@
     type: image
     layout: image
     aspectratio: aspect-16-9
+
+-
+    id: flyer-3workshop2
+    thumbnail: /assets/images/flyer-3workshop2.jpg
+    src: /assets/images/flyer-3workshop2.jpg
+    title: "Flyer"
+    type: image
+    layout: image
+    aspectratio: aspect-16-9
