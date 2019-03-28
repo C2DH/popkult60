@@ -3,7 +3,7 @@ layout: post
 title: "Retour sur l'intervention de Florence Tamagne"
 category: event
 cover:
-  url: /assets/images/tamagne.jpg
+  url: /assets/images/tamagne.jpeg
 tags:
   - workshop
 author:
