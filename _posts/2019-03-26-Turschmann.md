@@ -3,7 +3,7 @@ layout: post
 title: "4. Workshop - Jörg Türschmann"
 category: event
 cover:
-  url: /assets/images/camera.png
+  url: /assets/images/plakat-4-workshop.jpg'
 tags:
   - workshop
 author:
