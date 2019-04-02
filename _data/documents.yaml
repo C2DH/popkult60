@@ -82,7 +82,7 @@
 
 -
     id: SR-podcast
-    thumbnail: /assets/images/SR-interview.png
+    thumbnail: /assets/images/SR-Interview.png
     title:
     type: youtube
     layout: iframe
