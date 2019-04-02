@@ -91,7 +91,7 @@
 
 -
     id: MW-podcast-vian
-    thumbnail: /assets/images/boris-Vian.jpg
+    thumbnail: /assets/images/boris-Vian.png
     title:
     type: youtube
     layout: iframe
