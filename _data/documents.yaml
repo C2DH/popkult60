@@ -88,3 +88,12 @@
     layout: iframe
     src: "https://www.youtube.com/embed/uDYRYAdN__k"
     aspectratio: aspect-4-3
+
+-
+    id: MW-podcast-vian
+    thumbnail: /assets/images/boris-Vian.jpg
+    title:
+    type: youtube
+    layout: iframe
+    src: "https://www.youtube.com/embed/8BggD656SIU"
+    aspectratio: aspect-4-3
