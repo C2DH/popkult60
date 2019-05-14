@@ -97,3 +97,12 @@
     layout: iframe
     src: "https://www.youtube.com/embed/4VECYm3OuAY"
     aspectratio: aspect-4-3
+
+-
+    id: melanie-podcast
+    thumbnail: /assets/images/melanie-podcast.jpg
+    title:
+    type: youtube
+    layout: iframe
+    src: "https://www.youtube.com/embed/BNBY3k8AK4A"
+    aspectratio: aspect-4-3
