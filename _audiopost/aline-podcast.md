@@ -9,4 +9,4 @@ tags:
 authors:
   - Aline Maldener
 ---
-Sie hören den Podcast von Aline Maldener, die ihr Dissertationsprojekt zum Thema "Jugendmedien Ensemble" vorstellt.
+Sie hören den Podcast von Aline Maldener, die ihr Dissertationsprojekt zum Thema "Transnationalität populärer Jugendkultur" vorstellt.
