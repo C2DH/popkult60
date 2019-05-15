@@ -99,6 +99,14 @@
     aspectratio: aspect-4-3
 
 -
+    id: aline-podcast
+    thumbnail: /assets/images/maldener-podcast.jpg
+    title:
+    type: vimeo
+    layout: iframe
+    src: "https://player.vimeo.com/video/336327075"
+    aspectratio: aspect-4-3
+-
     id: melanie-podcast
     thumbnail: /assets/images/melanie-podcast.jpg
     title:
