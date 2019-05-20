@@ -114,3 +114,12 @@
     layout: iframe
     src: "https://www.youtube.com/embed/BNBY3k8AK4A"
     aspectratio: aspect-4-3
+
+-
+    id: jasmin-podcast
+    thumbnail: /assets/images/jasmin-podcast.png
+    title:
+    type: vimeo
+    layout: iframe
+    src: "https://player.vimeo.com/video/337319979"
+    aspectratio: aspect-4-3

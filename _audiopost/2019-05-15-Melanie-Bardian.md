@@ -9,4 +9,4 @@ tags:
 authors:
   - Melanie Bardian
 ---
-Sie hören den Podcast von Melanie Bardian, die  ihr Dissertationsprojekt zum Thema "America an der Saar (1975-1983) vorstellt.
+Sie hören den Podcast von Melanie Bardian, die ihr Dissertationsprojekt zum Thema "America an der Saar (1975-1983)" vorstellt.
