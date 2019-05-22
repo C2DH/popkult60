@@ -1,6 +1,6 @@
 ---
 layout: audiopost
-title:  Podcast on Robin Hood, a children's tv series of the late fifties
+title:  Podcast on Kinderfilmserien der 60er Jahre
 category: podcast
 cover:
   document: gunter-podcast
