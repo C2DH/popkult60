@@ -1,6 +1,6 @@
 ---
 layout: audiopost
-title:  Podcast on Robin Wood, A Child TV Serie ?
+title:  Podcast on Robin Hood, a children's tv series of the late fifties
 category: podcast
 cover:
   document: gunter-podcast
