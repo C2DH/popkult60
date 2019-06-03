@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "4. Workshop der Forschungsgruppe"
+title:  "Jörg Türschmann"
 category: event
 cover:
   url: /assets/images/Flyer-4-workshop.jpg
@@ -13,9 +13,7 @@ autors:
   - Aline Maldener
 ---
 
-## Mainstream - Avant-Garde
-
-Sie haben den Vortrag von Herrn Jörg Turschmann im Rahmen unseres Workshops am 2. Mai 2019 verpasst? Hier bekommen Sie die wichtigsten Informationen.
+Sie haben den Vortrag von *Jörg Turschmann*, Kunstgeplänkel und Kommerzverbrämung: wie Film und Fernsehen der 1960er sich zwischen Mainstream und Avantgarde neu orientieren”, im Rahmen unseres Workshops am 2. Mai 2019 verpasst? Hier bekommen Sie die wichtigsten Informationen.
 
  <!-- more -->
 
