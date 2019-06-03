@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Jörg Türschmann"
+title:  "Bericht über den Vortrag von Jörg Türschmann"
 category: event
 cover:
   url: /assets/images/Flyer-4-workshop.jpg
