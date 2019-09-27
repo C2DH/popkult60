@@ -5,7 +5,7 @@ category: podcast
 cover:
   document: gunter-podcast
 tags:
-  - autos
+  - Kinderfilmserien
 authors:
   - Gunter Mahlerwein
 ---

@@ -132,3 +132,12 @@
     layout: iframe
     src: "https://player.vimeo.com/video/337726830"
     aspectratio: aspect-4-3
+
+-
+  id: julia-wack-podcast
+  thumbnail: /assets/images/julia-wack-podcast.jpg
+  title:
+  type: vimeo
+  layout: iframe
+  src: "https://player.vimeo.com/video/362813664"
+  aspectratio: aspect-4-3
