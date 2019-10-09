@@ -1,6 +1,6 @@
---
+---
 layout: audiopost
-title:  Podcast on Europa 1
+title:  Podcast on Europe 1
 category: podcast
 cover:
   document: richard-legay-podcast
