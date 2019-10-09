@@ -141,3 +141,12 @@
   layout: iframe
   src: "https://player.vimeo.com/video/362813664"
   aspectratio: aspect-4-3
+
+-
+  id: richard-legay-podcast
+  thumbnail: /assets/images/podcast-image-richard.jpg
+  title:
+  type: vimeo
+  layout: iframe
+  src: "https://player.vimeo.com/video/365233152"
+  aspectratio: aspect-4-3
