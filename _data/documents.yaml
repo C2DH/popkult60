@@ -144,7 +144,7 @@
 
 -
   id: richard-legay-podcast
-  thumbnail: /assets/images/podcast-image-richard.jpg
+  thumbnail: /assets/images/podcast-image-richard.png
   title:
   type: vimeo
   layout: iframe
