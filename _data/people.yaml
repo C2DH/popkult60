@@ -9,7 +9,7 @@
   email: melanie.bardian@uni-saarland.de
   thumbnail: /assets/images/Melanie-Bardian.JPG
   url: "https://www.uni-saarland.de/lehrstuhl/zeitgeschichte/mitarbeiter/melanie-bardian/zur-person.html"
-  CV: /assets/pdf/Bardian-CV-publi.pdf  
+  CV: /assets/pdf/Bardian-CV-publi.pdf
 -
   role: phd
   id: jessica-burton
@@ -180,13 +180,10 @@
   id: clemens-zimmermann
   name: Clemens Zimmermann
   description:
-    fr: "**Clemens Zimmermann** est professeur d'histoire de la culture et des médias à l'Institut d'histoire de l'Université de la Sarre. Dans son habilitation, défendue à Heidelberg en 1991, il aborde les questions fondamentales de la politique du logement. Ses recherches portent principalement sur l'histoire européenne des villes et des médias depuis l’époque moderne. Il porte une attention particulière aux cultures et à la politique des médias, au journalisme et à l'histoire du cinéma, ainsi qu'à la médiatisation des espaces ruraux et urbains."
-    en: "**Clemens Zimmermann** works as a professor of cultural and media history at the Historical Institute of Saarland University. In his habilitation, from 1991 in Heidelberg, he turned to basic questions of housing policy. His focus is on European urban and media history since the spring-modern era. Special attention will be paid to media cultures and media politics, journalism and cinema history as well as the mediatization of rural and urban spaces."
-    de: "**Clemens Zimmermann** arbeitet als Prof. für Kultur- und Mediengeschichte am Historischen Institut der Universität des Saarlandes. Mit der Heidelberger Habilitationsschrift von 1991 wandte er sich Grundfragen der Wohnungspolitik zu. Sein wissenschaftlicher Schwerpunkt liegt auf der europäischen Stadt- und Mediengeschichte seit der Frühen Neuzeit. Besondere Aufmerksamkeit fanden hierbei Medienkulturen und Medienpolitik, Journalismus und Kinogeschichte sowie die Medialisierung ländlicher und urbaner Räume."
+    fr: "**Clemens Zimmermann** est professeur à l'Institut d'histoire de l'Université de la Sarre. Dans son habilitation, défendue à Heidelberg en 1991, il aborde les questions fondamentales de la politique du logement. Ses recherches portent principalement sur l'histoire européenne des villes et des médias depuis l’époque moderne. Il porte une attention particulière aux cultures et à la politique des médias, au journalisme et à l'histoire du cinéma, ainsi qu'à la médiatisation des espaces ruraux et urbains."
+    en: "**Clemens Zimmermann** works as professor at the Historical Institute of Saarland University. In his habilitation, from 1991 in Heidelberg, he turned to basic questions of housing policy. His focus is on European urban and media history since the spring-modern era. Special attention will be paid to media cultures and media politics, journalism and cinema history as well as the mediatization of rural and urban spaces."
+    de: "**Clemens Zimmermann** arbeitet als Professor am Historischen Institut der Universität des Saarlandes. Mit der Heidelberger Habilitationsschrift von 1991 wandte er sich Grundfragen der Wohnungspolitik zu. Sein wissenschaftlicher Schwerpunkt liegt auf der europäischen Stadt- und Mediengeschichte seit der Frühen Neuzeit. Besondere Aufmerksamkeit fanden hierbei Medienkulturen und Medienpolitik, Journalismus und Kinogeschichte sowie die Medialisierung ländlicher und urbaner Räume."
   email: cl.zimmermann@mx.uni-saarland.de
   thumbnail: /assets/images/Clemens-Zimmermann.JPG
   url: "http://www.kmg.uni-saarland.de/personen/cz.html"
   CV: /assets/pdf/Zimmermann-CV-publi.pdf
-
-
-
