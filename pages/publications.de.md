@@ -14,13 +14,13 @@ lang: de
 
 Burton, Jessica: “A Coordinated Europeanization of the Comics Industry through Distribution: The Politics of the Global Journey of Astérix and Tintin through the Strategic Distribution of their Magazines and Contents in the 1960s”, On_Culture: The Open Journal for the Study of Culture 8 (2019) https://www.on-culture.org/journal/issue-8/europeanization-comics-industry/
 
-Hüser, Dietmar/Baumann, Ansbert (Hrsg.), Migration | Integration | Exklusion - Eine andere deutsch-französische Geschichte des Fußballs in den langen 1960er Jahren, Edition lendemains, Vol. 48, Tübingen (Narr Francke Attempto) 2019.
+Hüser, Dietmar/Baumann, Ansbert (Hrsg.), Migration ; Integration ; Exklusion - Eine andere deutsch-französische Geschichte des Fußballs in den langen 1960er Jahren, Edition lendemains, Vol. 48, Tübingen (Narr Francke Attempto) 2019.
 
-Hüser, Dietmar, „Einleitung: Migration-Spielt-Fußball. Aktuelle Dimensionen und Perspektiven einer integrativen zeithistorischen Migrations- und Fußballforschung“, in: Hüser / Baumann (Hg.), Migration | Integration | Exklusion, S. 7-43.
+Hüser, Dietmar: „Einleitung: Migration-Spielt-Fußball. Aktuelle Dimensionen und Perspektiven einer integrativen zeithistorischen Migrations- und Fußballforschung“, in: Hüser / Baumann (Hg.), Migration ; Integration ; Exklusion, S. 7-43.
 
-Dietmar Hüser, „Integration. Gelingt spielend.“? - Sportpolitische Diskurse, fußballerische Praktiken und Formen indirekter Integration von Arbeitsmigranten im französisch-westdeutschen Vergleich, in: Hüser / Baumann (Hg.), Migration | Integration | Exklusion, S. 45-65.
+Dietmar Hüser: „Integration. Gelingt spielend.“? - Sportpolitische Diskurse, fußballerische Praktiken und Formen indirekter Integration von Arbeitsmigranten im französisch-westdeutschen Vergleich, in: Hüser / Baumann (Hg.), Migration ; Integration ; Exklusion, S. 45-65.
 
-Hüser, Dietmar, „Im Westen viel Populäres - Französische-deutsche Musik-Transfers der 1950er bis 1970er Jahre“, in: Auf dem Weg in die Zukunft: Die deutsch-französischen Beziehungen 100 Jahre nach dem Ersten Weltkrieg, Berlin (Hatje Lantz Verlag) 2020, S. 170-191.
+Hüser, Dietmar: „Im Westen viel Populäres - Französische-deutsche Musik-Transfers der 1950er bis 1970er Jahre“, in: Auf dem Weg in die Zukunft: Die deutsch-französischen Beziehungen 100 Jahre nach dem Ersten Weltkrieg, Berlin (Hatje Lantz Verlag) 2020, S. 170-191.
 
 Legay Richard & A. Lucchesi, ‘Learning by Doing: Introducing Students to Public History through Digital Projects’, International Public History (2019, Volume 2, Issue 1). https://doi.org/10.1515/iph-2019-0004
 
@@ -51,11 +51,11 @@ Vatter, Christoph, Nicole Colin, Joachim Umlauf, Im Schatten der Versöhnung. De
 
 *2018*
 
--	Beck, Philippe  /  Fickers, Andreas / Sproten, Vitus: “Kino, Radio und Zeitung als Taktgeber. Information, Unterhaltung und Propaganda im Zeitalter der Massenmedien”, in Christoph Brüll/ Carlo Lejeune/ Peter Quadflieg (Hg.): Grenzerfahrungen. Eine Geschichte der Deutschsprachigen Gemeinschaft Belgiens (Bd. 4) Staatenwechsel, Identitätskonflikte, Kriegserfahrungen (1919-1945), Eupen 2018, p. 284-308.
+Beck, Philippe  /  Fickers, Andreas / Sproten, Vitus: “Kino, Radio und Zeitung als Taktgeber. Information, Unterhaltung und Propaganda im Zeitalter der Massenmedien”, in Christoph Brüll/ Carlo Lejeune/ Peter Quadflieg (Hg.): Grenzerfahrungen. Eine Geschichte der Deutschsprachigen Gemeinschaft Belgiens (Bd. 4) Staatenwechsel, Identitätskonflikte, Kriegserfahrungen (1919-1945), Eupen 2018, p. 284-308.
 
--	Legay, Richard: ”RTL & Europe n°1 as central actors. The importance of mobility for commercial radio stations during the Parisian events of Mai 68”, Rundfunk & Geschichte (3-4, 2018), pp. 41-50.
+Legay, Richard: ”RTL & Europe n°1 as central actors. The importance of mobility for commercial radio stations during the Parisian events of Mai 68”, Rundfunk & Geschichte (3-4, 2018), pp. 41-50.
 
--	Mahlerwein, Gunter / Maldener, Aline / Zimmermann, Clemens: Landmedien. Kulturhistorische Perspektiven auf das Verhältnis von Medialität und Ruralität im 20. Jahrhundert, Innsbruck 2018
+Mahlerwein, Gunter / Maldener, Aline / Zimmermann, Clemens: Landmedien. Kulturhistorische Perspektiven auf das Verhältnis von Medialität und Ruralität im 20. Jahrhundert, Innsbruck 2018
 
 *Vor 2018*
 
