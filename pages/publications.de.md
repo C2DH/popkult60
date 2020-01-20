@@ -10,6 +10,55 @@ lang: de
 <!-- more -->
 ## Publikationen
 
+*2019*
+
+Burton, Jessica: “A Coordinated Europeanization of the Comics Industry through Distribution: The Politics of the Global Journey of Astérix and Tintin through the Strategic Distribution of their Magazines and Contents in the 1960s”, On_Culture: The Open Journal for the Study of Culture 8 (2019) https://www.on-culture.org/journal/issue-8/europeanization-comics-industry/
+
+Hüser, Dietmar/Baumann, Ansbert (Hrsg.), Migration | Integration | Exklusion - Eine andere deutsch-französische Geschichte des Fußballs in den langen 1960er Jahren, Edition lendemains, Vol. 48, Tübingen (Narr Francke Attempto) 2019.
+
+Hüser, Dietmar, „Einleitung: Migration-Spielt-Fußball. Aktuelle Dimensionen und Perspektiven einer integrativen zeithistorischen Migrations- und Fußballforschung“, in: Hüser / Baumann (Hg.), Migration | Integration | Exklusion, S. 7-43.
+
+Dietmar Hüser, „Integration. Gelingt spielend.“? - Sportpolitische Diskurse, fußballerische Praktiken und Formen indirekter Integration von Arbeitsmigranten im französisch-westdeutschen Vergleich, in: Hüser / Baumann (Hg.), Migration | Integration | Exklusion, S. 45-65.
+
+Hüser, Dietmar, „Im Westen viel Populäres - Französische-deutsche Musik-Transfers der 1950er bis 1970er Jahre“, in: Auf dem Weg in die Zukunft: Die deutsch-französischen Beziehungen 100 Jahre nach dem Ersten Weltkrieg, Berlin (Hatje Lantz Verlag) 2020, S. 170-191.
+
+Legay Richard & A. Lucchesi, ‘Learning by Doing: Introducing Students to Public History through Digital Projects’, International Public History (2019, Volume 2, Issue 1). https://doi.org/10.1515/iph-2019-0004
+
+Legay Richard, ‘Across the Waves: How the United States and France shaped the International Age of Radio’ (book review), Historical Journal of Film, Radio & Television (39-4, 2019). https://doi.org/10.1080/01439685.2019.1643153
+
+Legay Richard, T. Hochscherf, & H. Wagner, ‘Radio Beyond Boundaries: An Introduction’, Historical Journal of Film, Radio & Television (39-3, 2019), pp. 431-438. https://doi.org/10.1080/01439685.2019.1647969
+
+Legay Richard, ‘The Role of Commercial Radio Stations in the Media Vacuum of Mai 68 in Paris’, VIEW Journal of European Television History & Culture (7-12, 2018). https://doi.org/10.18146/2213-0969.2018.jethc136
+
+Mahlerwein, Gunter, « Vom Zupfgeigenhansl zu Zupfgeigenhansel. Brüche und Kontinuitäten zwischen Wandervogel und Deutschfolkbewegung der 1970er Jahre », in: Detlef Siegfried/David Templin (Hg.), Lebensreform um 1900 und Alternativmilieu um 1980. Kontinuitäten und Brüche in Milieus der gesellschaftlichen Selbstreflektion im frühen und späten 20. Jahrhundert, Göttingen 2019, S. 255-269.
+
+Dechert, Andre/Maldener, Aline (2019), „Mit gutem Beispiel voran“: Medienakteure und der westdeutsche Jugendmedienschutzdiskurs der 1950er und 1960er Jahre, in: medien&zeit 34/2, 2019, S. 29–37.
+
+Majerus, Benoît, « Histoire(s) dans “Superjhemp” », in De Superjhemp ënnert dem Röntgenbléck, Mersch, CNA, 2019, p. 94 113.
+
+Vatter, Christoph/Diagne, Ibrahima (Hg.): Interkulturelle Kommunikation in / mit Afrika: neue Perspektiven / Intercultural communication in/with Africa: new perspectives. Dossier des Interculture-Journal, 32, 2019.
+
+Vatter, Christoph (mit N. Ueckmann), « De l’opéra et de l’Afrique – enchevêtre¬ments (post-) coloniaux et interactions interculturelles à l’exemple de L’Africaine de Giacomo Meyerbeer à Halle et Lübeck ». In : Interculture Journal, 32, 2019, S. 103-121.
+
+Vatter, Christoph, „Klischees und Stereotype.” In: Fäcke, Christiane / Meißner, Franz-Joseph (Hg.): Handbuch Mehrsprachigkeits- und Mehrkulturalitätsdidaktik. Tübingen: Narr 2019, S. 188-192.
+
+Vatter, Christoph, „Enjeux intertextuels et intermédiatiques de la littérature urbaine. L’exemple de la « comédie urbaine » d’Insa Sané.“ In: Diagne, Ibrahima / Lüsebrink, Hans-Jürgen (Hg.): Intertextualité dans les littératures sénégalaises. Paris: L’Harmattan, 2019 , S. 251-270.
+
+Vatter, Christoph, „Dialogues interculturels dans le cinéma africain francophone entre malentendu, silence et médiation.” In: Moussa, Sarga / Lüsebrink, Hans-Jürgen (Hg.): Dialogues interculturels à l’époque coloniale et postcoloniale. Représentations littéraires et culturelles – Orient, Maghreb, Afrique occidentale (de 1830 à nos jours). Paris: Editions Kimé, 2019, S. 377-491.
+
+Vatter, Christoph, Nicole Colin, Joachim Umlauf, Im Schatten der Versöhnung. Deutsch-französische Kulturmittler im Kontext der europäischen Integration, Göttingen (Steidl) 2018, 224 S., 8 Abb. (Perspektive Außenkulturpolitik, 5); Nicole Colin, Patrick Farges, Fritz Taubert (Hg.), Annäherung durch Konflikt: Mittler und Vermittlung, Heidelberg (Synchron) 2017, 361 S. (Amsterdam German Studies. Forschungen – Berichte – Texte). In: Francia-Recensio 2019/4, 19./20. Jahrhundert – Histoire contemporaine, DOI: https://doi.org/10.11588/frrec.2019.4.68527
+
+
+*2018*
+
+-	Beck, Philippe  /  Fickers, Andreas / Sproten, Vitus: “Kino, Radio und Zeitung als Taktgeber. Information, Unterhaltung und Propaganda im Zeitalter der Massenmedien”, in Christoph Brüll/ Carlo Lejeune/ Peter Quadflieg (Hg.): Grenzerfahrungen. Eine Geschichte der Deutschsprachigen Gemeinschaft Belgiens (Bd. 4) Staatenwechsel, Identitätskonflikte, Kriegserfahrungen (1919-1945), Eupen 2018, p. 284-308.
+
+-	Legay, Richard: ”RTL & Europe n°1 as central actors. The importance of mobility for commercial radio stations during the Parisian events of Mai 68”, Rundfunk & Geschichte (3-4, 2018), pp. 41-50.
+
+-	Mahlerwein, Gunter / Maldener, Aline / Zimmermann, Clemens: Landmedien. Kulturhistorische Perspektiven auf das Verhältnis von Medialität und Ruralität im 20. Jahrhundert, Innsbruck 2018
+
+*Vor 2018*
+
 Badenoch, Alexander / Fickers, Andreas / Henrich-Franke, Christian (Hrsg.): Airy curtains. European broadcasting during the Cold War, Baden-Baden, 2013.
 
 Bignell, Jonathan / Fickers, Andreas (Hrsg.): A european television history, Oxford, 2008.
@@ -91,4 +140,3 @@ Zimmermann, Clemens: „Die Medienlandschaft Saar 1945-2000. Charakteristika, Z�
 Zimmermann, Clemens: „Weltstädte, Metropolen, Megastädte. Dynamiken von Stadt und Raum von der Antike bis zur Gegenwart“, in: Sander-Faes, Stephan / Zimmermann, Clemens (Hrsg.), Weltstädte, Metropolen. Megastädte. Dynamiken von Stadt und Raum von der Antike bis zur Gegenwart, Ostfildern, 2018, S. 11-28.
 
 Zimmermann, Clemens / Mahlerwein, Gunter / Maldener, Aline (Hrsg.), Landmedien. Kulturhistorische Perspektiven auf das Verhältnis von Medialität und Ruralität im 20. Jahrhundert, Innsbruck, 2018.
-
