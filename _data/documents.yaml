@@ -150,3 +150,12 @@
   layout: iframe
   src: "https://player.vimeo.com/video/365233152"
   aspectratio: aspect-4-3
+
+  -
+    id: juliette-greco-podcast
+    thumbnail: /assets/images/juliette-greco.jpg
+    title:
+    type: vimeo
+    layout: iframe
+    src: "https://player.vimeo.com/video/475555009"
+    aspectratio: aspect-4-3
