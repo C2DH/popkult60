@@ -1,0 +1,33 @@
+---
+# json themes
+---
+{% assign stories = site.stories | where: "type","story" | where: "lang",site.default_lang %}
+{
+  "data": [
+    {% for story in stories %}
+    {% assign contents = story.content | split: site.excerpt_separator %}
+    {% assign abstract = contents | first | normalize_whitespace %}
+    {% assign modules = contents | last | split: '---' %}
+    {
+      "slug": "{{ story.slug }}",
+      "title": "{{ story.title }}",
+      "status": "{{ story.status }}",
+      "abstract": "{{ abstract }}",
+      "data": {
+        {% assign modules = site.stories | where: "type","module" | | where: "lang", story.lang %}
+        "modules": [
+          {% for module in modules %}
+          {
+            "title": "{{ module.title }}",
+            "module": "{{ module.module }}",
+            "text": "{{ module.content | normalize_whitespace }}"
+          }{%unless forloop.last %},{% endunless%}
+          {% endfor %}
+        ],
+        "count_modules": "{{ modules | size}}"
+      }
+    }{%unless forloop.last %},{% endunless%}
+    {% endfor %}
+  ],
+  "total": {{ stories | size }}
+}

@@ -7,3 +7,5 @@ collections:
   audiopost:
     output: true
     permalink: /u/:path/
+  stories:
+    sort_by: sort
