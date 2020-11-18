@@ -10,9 +10,22 @@ lang: en
 <!-- more -->
 ## Publications
 
-*2020*
 
-Williams, Maude: Französische populäre Musik in der Bundesrepublik Deutschland der „langen“ 1960er Jahre: Zwischen Überwindung und Verstärkung des Nationalen, in: Ralf von Appen / Thorsten Hindrichs (Hg.), One Nation Under a Groove – »Nation« als Kategorie populärer Musik, (= Beiträge zur Popularmusikforschung), transcript, Bielefeld, 2020, S.75-100
+*2020*
+Vatter, Christoph (Hg. mit Patricia Oster): Fluchtraum Europa. Interdisziplinäre Perspektiven. Baden-Baden: Nomos, 2020.
+Vatter, Christoph (Hg. mit Doris G. Eibl): Mensch-Tier-Beziehungen in den frankophonen Kulturen, Literaturen und Medien. Les relations entre homme et animal dans les cultures, littératures, et médias francophones. Würzburg: Königshausen & Neumann, 2020.
+
+Vatter, Christoph  (mit Sebastian Weier, Astrid Fellner, Joachim Frenk, Daniel Kazmaier, Eva Michely, Romana Weiershausen, Christian Wille): „Bordertextures. Vers une approche transdisciplinaire des frontières. Un rapport d’atelier.” In: Hamez, Grégory / Defays, Jean-Marc (Hg.): Réalités, perceptions et représentations des frontières. L'espace transfrontalier de la Grande Région Sarre-Lor-Lux. Louvain-La-Neuve: EME, 2020, S. 29-48.
+
+Vatter, Christoph (mit Marie Duchene):  „Mann – Frau – Tier – BEEF!? Genderkonstruktionen und Fleischkonsum im Männer-Foodmagazin BEEF ! in interkultureller Perspektive.” In: Eibl, Doris G. / Vatter, Christoph (Hg.): Mensch-Tier-Beziehungen in den frankophonen Kulturen, Literaturen und Medien. Les relations entre homme et animal dans les cultures, littératures, et médias francophones. Würzburg : Königshausen & Neumann, 2020, S. 121-142.
+
+Vatter, Christoph: „Intermédialité, interculturalité et identité chez Fatou Diome. De la fonction de la télévision entre médiation interculturelle et critique médiatique dans La préférence nationale et Le Ventre de l’Atlantique.” In: Diagne, Ibrahima / Lüsebrink, Hans-Jürgen (Hg.: Cultures médiatiques et intermédialité dans les littératures sénégalaises. Enjeux culturels et écritures littéraires, de l'époque coloniale à la postmodernité. Paris: L’Harmattan, 2020, S. 195-216.
+
+Vatter, Christoph:„Zwischen Afrika und Europa. Fluchtgeschichten und Europa-Imaginationen in Filmen aus dem subsaharischen Afrika.” In: Oster, Patricia / Vatter, Christoph (Hg.): Fluchtraum Europa. Interdisziplinäre Perspektiven. Baden-Baden: Nomos, 2020, S. 235-254.
+
+Williams, Maude: "Französische populäre Musik in der Bundesrepublik Deutschland der 'langen' 1960er Jahre: Zwischen Überwindung und Verstärkung des Nationalen", in: Ralf von Appen / Thorsten Hindrichs (Hg.), One Nation Under a Groove – »Nation« als Kategorie populärer Musik, (= Beiträge zur Popularmusikforschung), transcript, Bielefeld, 2020, S.75-100
+
+Zimmermann, Clemens : Kleinstädte im 20. Jahrhundert. Selbstbilder, Potenziale, Urbanität und Peripherisierung, in: Werner Nell/Marc Weiland, Hg., Kleinstadtliteratur. Erkundungen eines Imaginationsraumes ungleichzeitiger Moderne, Bielefeld 2020, 59-74
 
 *2019*
 
