@@ -10,6 +10,10 @@ lang: en
 <!-- more -->
 ## Publications
 
+*2020*
+
+Williams, Maude: Französische populäre Musik in der Bundesrepublik Deutschland der „langen“ 1960er Jahre: Zwischen Überwindung und Verstärkung des Nationalen, in: Ralf von Appen / Thorsten Hindrichs (Hg.), One Nation Under a Groove – »Nation« als Kategorie populärer Musik, (= Beiträge zur Popularmusikforschung), transcript, Bielefeld, 2020, S.75-100
+
 *2019*
 
 Burton, Jessica: “A Coordinated Europeanization of the Comics Industry through Distribution: The Politics of the Global Journey of Astérix and Tintin through the Strategic Distribution of their Magazines and Contents in the 1960s”, On_Culture: The Open Journal for the Study of Culture 8 (2019) https://www.on-culture.org/journal/issue-8/europeanization-comics-industry/
