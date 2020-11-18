@@ -11,6 +11,8 @@ lang: fr
 ## Publications
 
 *2020*
+
+
 Vatter, Christoph (Hg. mit Patricia Oster): Fluchtraum Europa. Interdisziplinäre Perspektiven. Baden-Baden: Nomos, 2020.
 Vatter, Christoph (Hg. mit Doris G. Eibl): Mensch-Tier-Beziehungen in den frankophonen Kulturen, Literaturen und Medien. Les relations entre homme et animal dans les cultures, littératures, et médias francophones. Würzburg: Königshausen & Neumann, 2020.
 
