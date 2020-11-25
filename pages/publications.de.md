@@ -13,6 +13,8 @@ lang: de
 *2020*
 
 
+Mahlerwein, Gunter: "Aufgewachsen auf dem Lande". Gesellschaftlicher und kultureller Wandel in den ländlichen Räumen Norddeutschlands in den 1950er und 1960der Jahren, in: Lu Seegers (Hrsg.), 1968. Gesellschaftliche Nachwirkungen auf dem Lande, Göttingen 2020, S. 43-57.
+
 Vatter, Christoph (Hg. mit Patricia Oster): Fluchtraum Europa. Interdisziplinäre Perspektiven. Baden-Baden: Nomos, 2020.
 Vatter, Christoph (Hg. mit Doris G. Eibl): Mensch-Tier-Beziehungen in den frankophonen Kulturen, Literaturen und Medien. Les relations entre homme et animal dans les cultures, littératures, et médias francophones. Würzburg: Königshausen & Neumann, 2020.
 
