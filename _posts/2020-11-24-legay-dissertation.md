@@ -15,7 +15,7 @@ tags:
 
 Commitee: Valérie Schafer (présidente du jury), Stefan Krebs (vice-président), Andreas Fickers (directeur de thèse), Paul Lesch, Carolyn Birdsall, Alec Badenoch and Marie Cronqvist.
 
-Click here to access to the thesis: http://hdl.handle.net/10993/44696
+Click [here](http://hdl.handle.net/10993/44696) to access to the thesis 
 
 <!-- more -->
 
