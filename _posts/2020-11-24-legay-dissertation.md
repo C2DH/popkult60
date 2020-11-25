@@ -11,11 +11,11 @@ tags:
   - Thesis
 ---
 
-**Richard Legay**, successfully defended his thesis "Commercial radio stations and their dispositif. Transnational and intermedial perspectives on Radio Luxembourg and Europe n°1 in the Long Sixties" on 10th november 2020 in Campus Belval, Luxembourg (DHLab, Maison des Sciences Humaines). Congratulations!
+**Richard Legay**, successfully defended his thesis "Commercial radio stations and their dispositif. Transnational and intermedial perspectives on Radio Luxembourg and Europe n°1 in the Long Sixties" on 10th November 2020 in Campus Belval, Luxembourg (DHLab, Maison des Sciences Humaines). Congratulations!
 
 Commitee: Valérie Schafer (présidente du jury), Stefan Krebs (vice-président), Andreas Fickers (directeur de thèse), Paul Lesch, Carolyn Birdsall, Alec Badenoch and Marie Cronqvist.
 
-Click [here](http://hdl.handle.net/10993/44696) to access to the thesis 
+Click [here](http://hdl.handle.net/10993/44696) to access to the thesis
 
 <!-- more -->
 
