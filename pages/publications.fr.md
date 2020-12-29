@@ -12,6 +12,9 @@ lang: fr
 
 *2020*
 
+Mahlerwein, Gunter; Zimmermann, Clemens:Von den Kindern von Bullerbü bis zu Netflix. Fernsehserienforschung in Sicht der Geschichtswissenschaft,in: Marco Agnetta / Markus Schleich (Hrsg.), Folge um Folge. Multiple Perspektiven auf die Fernsehserie, Hildesheim 2020
+S.45-62.
+
 Mahlerwein, Gunter: "Aufgewachsen auf dem Lande". Gesellschaftlicher und kultureller Wandel in den ländlichen Räumen Norddeutschlands in den 1950er und 1960der Jahren, in: Lu Seegers (Hrsg.), 1968. Gesellschaftliche Nachwirkungen auf dem Lande, Göttingen 2020, S. 43-57.
 
 Vatter, Christoph (Hg. mit Patricia Oster): Fluchtraum Europa. Interdisziplinäre Perspektiven. Baden-Baden: Nomos, 2020.
