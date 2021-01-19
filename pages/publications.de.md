@@ -10,6 +10,7 @@ lang: de
 <!-- more -->
 ## Publikationen
 
+
 *2020*
 
 Mahlerwein, Gunter; Zimmermann, Clemens:Von den Kindern von Bullerbü bis zu Netflix. Fernsehserienforschung in Sicht der Geschichtswissenschaft,in: Marco Agnetta / Markus Schleich (Hrsg.), Folge um Folge. Multiple Perspektiven auf die Fernsehserie, Hildesheim 2020
@@ -29,6 +30,8 @@ Vatter, Christoph: „Intermédialité, interculturalité et identité chez Fato
 Vatter, Christoph:„Zwischen Afrika und Europa. Fluchtgeschichten und Europa-Imaginationen in Filmen aus dem subsaharischen Afrika.” In: Oster, Patricia / Vatter, Christoph (Hg.): Fluchtraum Europa. Interdisziplinäre Perspektiven. Baden-Baden: Nomos, 2020, S. 235-254.
 
 Williams, Maude: "Französische populäre Musik in der Bundesrepublik Deutschland der 'langen' 1960er Jahre: Zwischen Überwindung und Verstärkung des Nationalen", in: Ralf von Appen / Thorsten Hindrichs (Hg.), One Nation Under a Groove – »Nation« als Kategorie populärer Musik, (= Beiträge zur Popularmusikforschung), transcript, Bielefeld, 2020, S.75-100
+
+Williams, Maude:"Das Protestlied „Le déserteur“ von Boris Vian: Wahrnehmung und Aneignung in Frankreich und in der Bundesrepublik Deutschland der 1960er Jahre", Archiv für Textmusikforschung, 5,1 (2020), https://doi.org/10.15203/ATeM_2020_1.05
 
 Zimmermann, Clemens : Kleinstädte im 20. Jahrhundert. Selbstbilder, Potenziale, Urbanität und Peripherisierung, in: Werner Nell/Marc Weiland, Hg., Kleinstadtliteratur. Erkundungen eines Imaginationsraumes ungleichzeitiger Moderne, Bielefeld 2020, 59-74
 
