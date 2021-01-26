@@ -10,6 +10,12 @@ lang: de
 <!-- more -->
 ## Publikationen
 
+*2021*
+
+Zimmermann, Clemens: Cinema as a Political Medium – Germany and Italy Compared from 1945 to the 1950s. the Aim of this Volume, in: Zimmermann, Clemens; Klinkhammer, Lutz (Hrsg.): Cinema as a Political Media. Germany and Italy compared, 1945-1950s, (=online-Schriften des DHI Rom. Neue Reihe, Bd. 5) Heidelberg university publishing, Heidelberg, 2021, S.1-18.
+
+Zimmermann, Clemens; Klinkhammer, Lutz (Hrsg.): Cinema as a Political Media. Germany and Italy compared, 1945-1950s, (=online-Schriften des DHI Rom. Neue Reihe, Bd. 5) Heidelberg university publishing, Heidelberg, 2021
+
 
 *2020*
 
@@ -33,7 +39,7 @@ Williams, Maude: "Französische populäre Musik in der Bundesrepublik Deutschlan
 
 Williams, Maude:"Das Protestlied „Le déserteur“ von Boris Vian: Wahrnehmung und Aneignung in Frankreich und in der Bundesrepublik Deutschland der 1960er Jahre", Archiv für Textmusikforschung, 5,1 (2020), https://doi.org/10.15203/ATeM_2020_1.05
 
-Zimmermann, Clemens : Kleinstädte im 20. Jahrhundert. Selbstbilder, Potenziale, Urbanität und Peripherisierung, in: Werner Nell/Marc Weiland, Hg., Kleinstadtliteratur. Erkundungen eines Imaginationsraumes ungleichzeitiger Moderne, Bielefeld 2020, 59-74
+Zimmermann, Clemens: Kleinstädte im 20. Jahrhundert. Selbstbilder, Potenziale, Urbanität und Peripherisierung, in: Werner Nell/Marc Weiland, Hg., Kleinstadtliteratur. Erkundungen eines Imaginationsraumes ungleichzeitiger Moderne, Bielefeld 2020, 59-74
 
 *2019*
 

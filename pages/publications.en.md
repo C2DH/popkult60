@@ -11,8 +11,12 @@ lang: en
 ## Publications
 
 
-*2020*
+*2021*
+Zimmermann, Clemens: Cinema as a Political Medium – Germany and Italy Compared from 1945 to the 1950s. the Aim of this Volume, in: Zimmermann, Clemens; Klinkhammer, Lutz (Hrsg.): Cinema as a Political Media. Germany and Italy compared, 1945-1950s, (=online-Schriften des DHI Rom. Neue Reihe, Bd. 5) Heidelberg university publishing, Heidelberg, 2021, S.1-18.
 
+Zimmermann, Clemens; Klinkhammer, Lutz (Hrsg.): Cinema as a Political Media. Germany and Italy compared, 1945-1950s, (=online-Schriften des DHI Rom. Neue Reihe, Bd. 5) Heidelberg university publishing, Heidelberg, 2021
+
+*2020*
 
 Mahlerwein, Gunter; Zimmermann, Clemens:Von den Kindern von Bullerbü bis zu Netflix. Fernsehserienforschung in Sicht der Geschichtswissenschaft,in: Marco Agnetta / Markus Schleich (Hrsg.), Folge um Folge. Multiple Perspektiven auf die Fernsehserie, Hildesheim 2020
 S.45-62.
