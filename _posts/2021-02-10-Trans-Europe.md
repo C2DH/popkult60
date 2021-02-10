@@ -11,7 +11,10 @@ tags:
   - workshop
   - Event
   - popular music
+
+
 ---
+
 **CFP-Trans-Europe-Express. Verbreitung populärer Musik in Westeuropa während der "langen" 1960er Jahre**
 
 Sie arbeiten über populäre Musik in Europa? Schauen Sie hier den CFP unserer Forschungsgruppe in Kooperation mit der Université Lille und Université Paris-Créteil!
