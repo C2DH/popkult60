@@ -1,0 +1,56 @@
+---
+layout: post
+title: "CFP-Trans-Europe-Express. Verbreitung populärer Musik in Westeuropa während der "langen" 1960er Jahre"
+category: event
+cover:
+  url: /assets/images/workshop-2022.jpg
+  mode: portrait
+authors:
+  - Maude Williams
+tags:
+  - workshop
+  - Event
+  - popular music
+
+---
+**CFP-Trans-Europe-Express. Verbreitung populärer Musik in Westeuropa während der "langen" 1960er Jahre**
+
+Sie arbeiten über populäre Musik in Europa? Schauen Sie hier den CFP unserer Forschungsgruppe in Kooperation mit der Université Lille und Université Paris-Créteil!
+
+<!-- more -->
+
+
+Die Geschichte populärer Musik in Westeuropa (Chanson, Schlager, Pop, Rock, Jazz ...) wurde bisher je nach Ländern, Disziplinen und Forschungsperspektiven unterschiedlich intensiv behandelt. Während die Geschichte der populären Musik in Großbritannien ein fester Bestandteil der historischen Forschung ist und in Deutschland immer mehr an Bedeutung gewinnt, steckt sie in Frankreich, Italien, Spanien und anderen europäischen Ländern noch in den Kinderschuhen.
+Zugleich aber ist populäre Musik hochrelevant für die Analyse europäischer Gesellschaften, insbesondere für den Zeitraum, der uns hier interessiert: die „langen“ 1960er Jahre. Durch unterschiedliche Genres und öffentliche Reaktionen darauf werden gesellschaftliche und sozio-kulturelle Entwicklungen, die Veränderungen von Mentalitäten oder Moralvorstellungen (moral panics) ans Licht gebracht und bieten nützliche Perspektiven sowohl für die Sozial- und Kulturgeschichte als auch für eine Geschichte der Emotionen. Darüber hinaus ist populäre Musik einerseits aus wirtschaftlicher Sicht interessant, indem sie die westdeutschen „Wirtschaftswunder“-Jahre oder die französischen „trentes glorieuses“ kritisch hinterfragt, andererseits aus politischer Sicht, indem sie die vielfältigen und polymorphen Verflechtungen der Politik im musikalischen Bereich aufzeigt.
+Diese Forschungsperspektiven sind für alle europäischen Länder relevant und lassen sich nicht rein national denken. Alle Forschenden, die sich mit der Geschichte der populären Musik in den „langen“ 1960er Jahren beschäftigen, erkennen die europäische Dimension des Themas und die Verbindungen, den Austausch und die Transfers, die zwischen den Akteuren in den verschiedenen Ländern bestehen. Das Ziel dieses Workshops besteht darin, diesen transnationalen Aspekt der Geschichte populärer Musik in Europa zu beleuchten. Ohne amerikanische Einflüsse auszuschließen, die für die Entwicklung diverser populärer Genres von zentraler Bedeutung sind, soll hier der innereuropäische Austausch im Vordergrund stehen sowie die Vielfalt musikalischer Einflüsse und Wechselwirkungen in Europa während der „langen“ 1960er Jahre.
+
+Vorschläge für Beiträge können daher in folgende Themenfelder aufgenommen werden:
+
+- Vertriebsnetze: Schauspieler, Vermittler, die Plattenindustrie, die Presse, Radiosender, das Fernsehen, Festivals, Clubs, Bälle, Bars ...
+- Verbreitungsformen: Schallplatten, Festivals, Konzerte, Radio- und Fernsehsendungen, Filme, Jukeboxen, Scopitonen etc.
+- Publiken und Akteure (Musiker, Produzenten, Impresarios, Techniker, Festivalveranstalter usw.; populäre Musik als Moment emotionaler Zugehörigkeit zu einer transnationalen Jugendkultur / Subkultur oder als Faktor für neue Formen von Identitätsbildung, die auf populärmusikalischen Referenzen aufbauen?
+- Geschichte der Techniken / Kulturtransfers: Austausch von Technikern, Entwicklung von Studiotechniken, musikalische Adaptionen, Übersetzung von Texten usw.
+- Politische Geschichte / Geschichte Europas: Instrumentalisierung von populärer Musik für politische Zwecke; Unterschiede im Umgang mit populärer Musik und Musikveranstaltungen (z.B. Festivals) durch verschiedene politische Regime; populäre Musik in Ost- und Westeuropa; populäre Musik als Medium der Europäisierung
+- National vs. europäisch: nationale Besonderheiten, was Genres, Techniken, Praktiken wie auch den theoretischen (musikwissenschaftlichen) Umgang mit populärer Musik angeht; Misserfolge oder Erfolge in der Akkulturation bestimmter Genres / Künstlerinnen und Künstler im Ausland (z.B. Schlager); vergleichende Entwicklung von Hitparaden ...
+
+Die Liste ist nicht vollständig, und kann gerne erweitert werden.
+
+Der Workshop schlägt ein innovatives Format vor. Die Teilnehmenden werden eingeladen, einen Artikel mit 45.000 Zeichen (inklusive Fußnoten und Leerzeichen) zu verfassen, der vor dem Workshop einzureichen ist. Dieser wird während des Workshops in komprimierter Form präsentiert und von einem anderen Forscher kommentiert. Der Workshop umfasst darüber hinaus einen methodischen Teil, in dem die Teilnehmenden eine Quelle, ein Buch oder eine Theorie vorstellen können, die für das eigene Thema nützlich ist und Gegenstand der Diskussion sein wird.
+
+Der Workshop findet **vom 11. bis 14. Mai 2022 an der Universität des Saarlandes** statt. Die Arbeitssprachen sind: Deutsch, Französisch und wenn nötig Englisch. 
+
+Die Reise-, Unterkunfts- und Verpflegungskosten der Teilnehmer werden von den Veranstaltern übernommen.
+
+Bitte senden Sie Ihren Vorschlag (max. 500 Wörter) und einen kurzen Lebenslauf, wenn möglich in Deutsch und/oder Französisch (sonst in Englisch), **bis zum 15. April 2021** an **musiquepopulaireeurope@gmail.com.**
+
+**Organisationskomitee:**
+Arnaud Baubérot (Universität Paris-Est Créteil)
+Dietmar Hüser (Universität des Saarlandes)
+Florence Tamagne (Universität Lille)
+Maude Williams (Universität des Saarlandes)
+
+**Wissenschaftliches Komitee:**
+Gunter Mahlerwein (Universität des Saarlandes)
+Caroline Moine (Université Versailles Saint-Quentin-en-Yvelines)
+Christophe Pirenne (Université de Liège)
+Valérie Schafer (Université du Luxembourg)
