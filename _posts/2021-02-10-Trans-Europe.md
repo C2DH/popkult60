@@ -11,7 +11,6 @@ tags:
   - workshop
   - Event
   - popular music
-
 ---
 **CFP-Trans-Europe-Express. Verbreitung populärer Musik in Westeuropa während der "langen" 1960er Jahre**
 
@@ -37,7 +36,7 @@ Die Liste ist nicht vollständig, und kann gerne erweitert werden.
 
 Der Workshop schlägt ein innovatives Format vor. Die Teilnehmenden werden eingeladen, einen Artikel mit 45.000 Zeichen (inklusive Fußnoten und Leerzeichen) zu verfassen, der vor dem Workshop einzureichen ist. Dieser wird während des Workshops in komprimierter Form präsentiert und von einem anderen Forscher kommentiert. Der Workshop umfasst darüber hinaus einen methodischen Teil, in dem die Teilnehmenden eine Quelle, ein Buch oder eine Theorie vorstellen können, die für das eigene Thema nützlich ist und Gegenstand der Diskussion sein wird.
 
-Der Workshop findet **vom 11. bis 14. Mai 2022 an der Universität des Saarlandes** statt. Die Arbeitssprachen sind: Deutsch, Französisch und wenn nötig Englisch. 
+Der Workshop findet **vom 11. bis 14. Mai 2022 an der Universität des Saarlandes** statt. Die Arbeitssprachen sind: Deutsch, Französisch und wenn nötig Englisch.
 
 Die Reise-, Unterkunfts- und Verpflegungskosten der Teilnehmer werden von den Veranstaltern übernommen.
 
