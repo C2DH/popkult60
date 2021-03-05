@@ -11,7 +11,6 @@ tags:
   - Vortragsreihe
 
 ---
-****
 
 **Philipp Stadelmeier Élitisme populaire. Die Vollendung des Kinos zur modernen Kunst in Serge Daneys Filmkritiken, 1962 – 1970**
 
