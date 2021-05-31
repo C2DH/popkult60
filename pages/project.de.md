@@ -73,7 +73,7 @@ Nach einer **ersten Projektphase (2018-2021)** befindet sich die Forschungsgrupp
 *Betreuer: Prof. Dr. Dietmar Hüser*
 
 
-**Die 10 Projekte der zweiten Phase:**
+#**Die 10 Projekte der zweiten Phase:**
 
 
 
