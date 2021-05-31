@@ -3,7 +3,7 @@ layout: post
 title: "Zweite Phase der Forschungsgruppe startet!"
 category: event
 cover:
-  url: /assets/images/zweitephase.jpg
+  url: /assets/images/zweite-phase.jpg
   mode: portrait
 authors:
   - Maude Williams
