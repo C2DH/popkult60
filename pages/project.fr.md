@@ -75,3 +75,75 @@ Les sept projets:
 
 
 *Directeur: Prof. Dr. Dietmar Hüser*
+
+
+
+
+**Les 10 projects de la seconde phase:**
+
+
+
+**Ansbert Baumann**, [„Alte Fans“ und „neue Fans“? - Fankulturen im westeuropäischen Fußball der langen 1960er Jahre: ein transnationaler Vergleich der Strukturen und Trends in Westdeutschland, Frankreich und Italien](../assets/pdf/baumann-fr.pdf)
+
+
+*Betreuer: Prof. Dr. Dietmar Hüser*
+
+
+
+**Gunter Mahlerwein**, [Von popular zu populär und zurück - Das europäische Folkrevival der 1950er bis 1970er Jahre aus transnationaler und transregionaler Perspektive](../assets/pdf/mahlerwein-2-fr.pdf)
+
+
+*Betreuer: Clemens Zimmermann*
+
+
+
+**Sonja Malzner**, [Traumziel Indischer Ozean - Populärkulturelle Tourismusdiskurse im Kontext der Dekolonisierung und des beginnenden Ferntourismus](../assets/pdf/malzner-fr.pdf)
+
+*Betreuerin: Sonja Kmec*
+
+
+
+**N.N.**, [Der Alltag der Revolte - Die Transnationalität französischer und westdeutscher Landkommunen in den langen 1960er](../assets/pdf/nnh-fr.pdf)
+
+
+*Betreuer: Prof. Dr. Dietmar Hüser*
+
+
+
+**N.N.**, [Postkoloniale Popkulturen in Belgien, Deutschland und Frankreich. Zur Repräsentation Subsahara-Afrikas im Medienensemble der langen 1960er Jahre im Kontext der Dekolonialisierung](../assets/pdf/nnv-fr.pdf)
+
+
+*Betreuer: Christoph Vatter*
+
+
+
+**N.N.**, [„Von der Tanzkapelle zur Coverband“ - Der „Ball“ als populärer Ort des Vergnügens und der musikalischen Sozialisation auf dem Land](../assets/pdf/nnv-fr.pdf)
+
+
+*Betreuer: Andreas Fickers*
+
+**N.N.**, [Jahrmärkte in Grenzräumen - Eine transregionale Geschichte des Luxemburger Vergnügungsparks](../assets/pdf/nnf-fr.pdf)
+
+
+*Betreuerin: Valérie Schafer*
+
+
+
+**N.N.**, [„Hold the future in your hand“ - Das Bewerben von Radios, Fernsehern und Plattenspielern in Luxemburg, Deutschland und Frankreich in den 1960er Jahren](../assets/pdf/nnve-fr.pdf)
+
+
+*Betreuerin: Machteld Venken*
+
+
+
+**Antonia Schlotter**, [Wie Malefiz zu Barricade wurde - eine transnationale Geschichte des Gesellschaftsspiels der 1960er und 1970er Jahre](../assets/pdf/schlotter-fr.pdf)
+
+
+*Betreuer: Clemens Zimmermann*
+
+
+
+**Maude Williams**,["Champ musical Europe" - Enchevêtrements musicaux franco-allemands au sein d’une dynamique d’échange transatlantique et intra-européenne durant les années 1960](../assets/pdf/williams-2-fr.pdf)
+
+
+*Betreuer: Prof. Dr. Dietmar Hüser*

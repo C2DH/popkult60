@@ -72,3 +72,74 @@ The various projects are supervised by professors from the university of Saarlan
 
 
 *Supervisor: Prof. Dr. Dietmar Hüser*
+
+
+
+**The 10 new projects:**
+
+
+
+**Ansbert Baumann**, [„Alte Fans“ und „neue Fans“? - Fankulturen im westeuropäischen Fußball der langen 1960er Jahre: ein transnationaler Vergleich der Strukturen und Trends in Westdeutschland, Frankreich und Italien](../assets/pdf/baumann-en.pdf)
+
+
+*Betreuer: Prof. Dr. Dietmar Hüser*
+
+
+
+**Gunter Mahlerwein**, [Von popular zu populär und zurück - Das europäische Folkrevival der 1950er bis 1970er Jahre aus transnationaler und transregionaler Perspektive](../assets/pdf/mahlerwein-2-en.pdf)
+
+
+*Betreuer: Clemens Zimmermann*
+
+
+
+**Sonja Malzner**, [Traumziel Indischer Ozean - Populärkulturelle Tourismusdiskurse im Kontext der Dekolonisierung und des beginnenden Ferntourismus](../assets/pdf/malzner-en.pdf)
+
+*Betreuerin: Sonja Kmec*
+
+
+
+**N.N.**, [Der Alltag der Revolte - Die Transnationalität französischer und westdeutscher Landkommunen in den langen 1960er](../assets/pdf/nnh-en.pdf)
+
+
+*Betreuer: Prof. Dr. Dietmar Hüser*
+
+
+
+**N.N.**, [Postkoloniale Popkulturen in Belgien, Deutschland und Frankreich. Zur Repräsentation Subsahara-Afrikas im Medienensemble der langen 1960er Jahre im Kontext der Dekolonialisierung](../assets/pdf/nnv-en.pdf)
+
+
+*Betreuer: Christoph Vatter*
+
+
+
+**N.N.**, [„Von der Tanzkapelle zur Coverband“ - Der „Ball“ als populärer Ort des Vergnügens und der musikalischen Sozialisation auf dem Land](../assets/pdf/nnv-en.pdf)
+
+
+*Betreuer: Andreas Fickers*
+
+**N.N.**, [Jahrmärkte in Grenzräumen - Eine transregionale Geschichte des Luxemburger Vergnügungsparks](../assets/pdf/nnf-en.pdf)
+
+
+*Betreuerin: Valérie Schafer*
+
+
+
+**N.N.**, [„Hold the future in your hand“ - Das Bewerben von Radios, Fernsehern und Plattenspielern in Luxemburg, Deutschland und Frankreich in den 1960er Jahren](../assets/pdf/nnve-en.pdf)
+
+
+*Betreuerin: Machteld Venken*
+
+
+
+**Antonia Schlotter**, [Wie Malefiz zu Barricade wurde - eine transnationale Geschichte des Gesellschaftsspiels der 1960er und 1970er Jahre](../assets/pdf/schlotter-en.pdf)
+
+
+*Betreuer: Clemens Zimmermann*
+
+
+
+**Maude Williams**, ["Music field Europe" – German-French Music Entanglements in Transatlantic und Innereuropean Exchange Dynamics during the long 1960s](../assets/pdf/williams-2-en.pdf)
+
+
+*Betreuer: Prof. Dr. Dietmar Hüser*
