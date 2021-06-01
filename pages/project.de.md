@@ -88,13 +88,13 @@ Nach einer **ersten Projektphase (2018-2021)** befindet sich die Forschungsgrupp
 **Gunter Mahlerwein**, [Von popular zu populär und zurück - Das europäische Folkrevival der 1950er bis 1970er Jahre aus transnationaler und transregionaler Perspektive](../assets/pdf/mahlerwein-2-de.pdf)
 
 
-*Betreuer: Clemens Zimmermann*
+*Betreuer: Prof. Dr. Clemens Zimmermann*
 
 
 
 **Sonja Malzner**, [Traumziel Indischer Ozean - Populärkulturelle Tourismusdiskurse im Kontext der Dekolonisierung und des beginnenden Ferntourismus](../assets/pdf/malzner-de.pdf)
 
-*Betreuerin: Sonja Kmec*
+*Betreuerin: Prof. Dr. Sonja Kmec*
 
 
 
@@ -108,19 +108,19 @@ Nach einer **ersten Projektphase (2018-2021)** befindet sich die Forschungsgrupp
 **N.N.**, [Postkoloniale Popkulturen in Belgien, Deutschland und Frankreich. Zur Repräsentation Subsahara-Afrikas im Medienensemble der langen 1960er Jahre im Kontext der Dekolonialisierung](../assets/pdf/nnv-de.pdf)
 
 
-*Betreuer: Christoph Vatter*
+*Betreuer: Prof. Dr. Christoph Vatter*
 
 
 
 **N.N.**, [„Von der Tanzkapelle zur Coverband“ - Der „Ball“ als populärer Ort des Vergnügens und der musikalischen Sozialisation auf dem Land](../assets/pdf/nnv-de.pdf)
 
 
-*Betreuer: Andreas Fickers*
+*Betreuer: Prof. Dr. Andreas Fickers*
 
 **N.N.**, [Jahrmärkte in Grenzräumen - Eine transregionale Geschichte des Luxemburger Vergnügungsparks](../assets/pdf/nnf-de.pdf)
 
 
-*Betreuerin: Valérie Schafer*
+*Betreuerin: Prof. Dr. Valérie Schafer*
 
 
 
