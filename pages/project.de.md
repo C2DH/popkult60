@@ -137,7 +137,7 @@ Nach einer **ersten Projektphase (2018-2021)** befindet sich die Forschungsgrupp
 
 
 
-**Maude Williams**, [„Musik-Feld Europa“ - Deutsch-französische Musikverflechtungen im Kontext transatlantischer und innereuropäischer Austauschdynamiken der langen 1960er Jahre](../assets/pdf/williams2-de.pdf)
+**Maude Williams**, [„Musik-Feld Europa“ - Deutsch-französische Musikverflechtungen im Kontext transatlantischer und innereuropäischer Austauschdynamiken der langen 1960er Jahre](../assets/pdf/williams-2-de.pdf)
 
 
 *Betreuer: Prof. Dr. Dietmar Hüser*
