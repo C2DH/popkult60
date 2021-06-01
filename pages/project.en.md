@@ -68,7 +68,7 @@ The various projects are supervised by professors from the university of Saarlan
 
 
 
-**Dr. Maude Williams**, [Music-Field Europe – German-French Music Entanglements in Transatlantic und Inner-european Exchange Dynamics during the long 1960s](../assets/pdf/williams-en.pdf)
+**Dr. Maude Williams**, [Music-Field Europe – German-French Music Entanglements in Transatlantic und Inner-european Exchange Dynamics during the long 1960s](../assets/pdf/williams-2-en.pdf)
 
 
 *Supervisor: Prof. Dr. Dietmar Hüser*

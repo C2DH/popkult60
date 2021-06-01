@@ -7,6 +7,7 @@ subheading: "Popkult60: der Populärkultur der langen 1960er Jahre auf der Spur"
 lang: de
 ---
 ## Populärkultur Transnational – Europa in den langen 1960er Jahren
+
 <!-- more -->
 
 Verglichen mit den Vereinigten Staaten oder Großbritannien hatte die Geschichte der Populärkultur in vielen kontinentaleuropäischen Ländern lange einen schweren akademischen Stand. Zwar hat sich dies auch dort in den letzten beiden Jahrzehnten verändert: Populärkulturelle Produkte, Phänomene und Praktiken sind nunmehr in den zeithistorischen Forschungsbetrieb eingezogen und finden in jüngeren Handbüchern zur Geschichte des 20. Jahrhunderts teils marginal, teils ausgiebiger Erwähnung.
@@ -84,7 +85,7 @@ Nach einer **ersten Projektphase (2018-2021)** befindet sich die Forschungsgrupp
 
 
 
-**Gunter Mahlerwein**, [Von popular zu populär und zurück - Das europäische Folkrevival der 1950er bis 1970er Jahre aus transnationaler und transregionaler Perspektive](../assets/pdf/mahlerwein2-de.pdf)
+**Gunter Mahlerwein**, [Von popular zu populär und zurück - Das europäische Folkrevival der 1950er bis 1970er Jahre aus transnationaler und transregionaler Perspektive](../assets/pdf/mahlerwein-2-de.pdf)
 
 
 *Betreuer: Clemens Zimmermann*

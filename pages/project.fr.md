@@ -71,7 +71,7 @@ Les sept projets:
 
 
 
-**Dr. Maude Williams**, [Champ musical Europe – Enchevêtrements musicaux franco-allemands au sein d’une dynamique d’échange transatlantique et intra-européenne durant les années 1960](../assets/pdf/williams-fr.pdf)
+**Dr. Maude Williams**, [Champ musical Europe – Enchevêtrements musicaux franco-allemands au sein d’une dynamique d’échange transatlantique et intra-européenne durant les années 1960](../assets/pdf/williams-2-fr.pdf)
 
 
 *Directeur: Prof. Dr. Dietmar Hüser*
