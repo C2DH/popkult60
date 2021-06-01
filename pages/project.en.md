@@ -125,17 +125,17 @@ After a **first phase of the project (2018-2021)** the research group is now in 
 
 *Betreuer: Prof. Dr. Andreas Fickers*
 
-**N.N.**, [Jahrmärkte in Grenzräumen - Eine transregionale Geschichte des Luxemburger Vergnügungsparks](../assets/pdf/nnf-en.pdf)
-
-
-*Betreuerin: Prof. Dr. Valérie Schafer*
-
-
-
-**N.N.**, [„Hold the future in your hand“ - Das Bewerben von Radios, Fernsehern und Plattenspielern in Luxemburg, Deutschland und Frankreich in den 1960er Jahren](../assets/pdf/nnve-en.pdf)
+**N.N.**, [Jahrmärkte in Grenzräumen - Eine transregionale Geschichte des Luxemburger Vergnügungsparks](../assets/pdf/nnve-en.pdf)
 
 
 *Betreuerin: Prof. Dr. Machteld Venken*
+
+
+
+**N.N.**, [„Hold the future in your hand“ - Das Bewerben von Radios, Fernsehern und Plattenspielern in Luxemburg, Deutschland und Frankreich in den 1960er Jahren](../assets/pdf/nns-en.pdf)
+
+
+*Betreuerin: Prof. Dr. Valérie Schafer*
 
 
 
