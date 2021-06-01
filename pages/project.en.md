@@ -135,7 +135,7 @@ The various projects are supervised by professors from the university of Saarlan
 **Antonia Schlotter**, [Wie Malefiz zu Barricade wurde - eine transnationale Geschichte des Gesellschaftsspiels der 1960er und 1970er Jahre](../assets/pdf/schlotter-en.pdf)
 
 
-*Betreuer: Clemens Zimmermann*
+*Betreuer: Prof. Dr. Clemens Zimmermann*
 
 
 
