@@ -23,7 +23,9 @@ Les différentes études sont encadrées par des professeurs de l'université de
 
 Après une **première phase (2018-2021)** le groupe de recherche se trouve actuellement dans sa **seconde phase (2021-2024)** avec de nouveaux projets, directeurs de recherche et chercheurs.
 
-**Les sept projets:**
+
+
+**Les sept projets de la première phase:**
 
 
 **Jessica Burton**, [Les anti-héros de la désaméricanisation ? Les bandes dessinées de l’école franco-belge comme acteur d’européisation de culture populaire dans les longues années 1960](../assets/pdf/burton-fr.pdf)

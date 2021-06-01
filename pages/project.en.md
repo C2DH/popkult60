@@ -29,7 +29,7 @@ The project is led by Professor [Dietmar Hüser](https://popkult60.eu/people/), 
 After a **first phase of the project (2018-2021)** the research group is now in its **second phase (2021-2024)** with new themes, project leaders and researchers.
 
 
-**The seven projects:**
+**The seven projects of the first phase:**
 
 **Jessica Burton**, [Anti-Heroes of Desamericanization? - The bandes dessinées of the Franco-Belgian School as actors of the popular cultural Europeanization of comic culture in the long 1960s*](../assets/pdf/burton-en.pdf)
 
