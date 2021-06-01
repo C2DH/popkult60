@@ -20,7 +20,10 @@ L’encadrement et la conception étroite du projet de recherche permettent éga
 
 Les différentes études sont encadrées par des professeurs de l'université de la Sarre et de l'université du Luxembourg. Le projet est dirigé par le professeur [Dietmar Hüser](https://popkult60.eu/people/), qui en est le porte-parole, et la coordination est menée par [Maude Williams](https://popkult60.eu/people/); tout deux travaillant à l'université de la Sarre.  
 
-Les sept projets:
+
+Après une **première phase (2018-2021)** le groupe de recherche se trouve actuellement dans sa **seconde phase (2021-2024)** avec de nouveaux projets, directeurs de recherche et chercheurs.
+
+**Les sept projets:**
 
 
 **Jessica Burton**, [Les anti-héros de la désaméricanisation ? Les bandes dessinées de l’école franco-belge comme acteur d’européisation de culture populaire dans les longues années 1960](../assets/pdf/burton-fr.pdf)
@@ -33,7 +36,7 @@ Les sept projets:
 **Ann-Kristin Kurberg**, [Divertissement sans frontières – Représentation et mise en scène des cultures étrangères dans les émissions de divertissement télévisuels allemand, français et espagnols des années 1960](../assets/pdf/kurberg-fr.pdf)
 
 
-*Directeur: Jun.-Prof. Dr Christoph Vatter*
+*Directeur: Prof. Dr Christoph Vatter*
 
 
 

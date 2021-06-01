@@ -36,7 +36,7 @@ Nach einer **ersten Projektphase (2018-2021)** befindet sich die Forschungsgrupp
 **Ann-Kristin Kurberg**, [Grenzenlose Unterhaltung - Repräsentation und Inszenierung fremder Kulturen in Unterhaltungsshows im bundesdeutschen, französischen und spanischen Fernsehen der 1960er Jahre](../assets/pdf/kurberg-de.pdf)
 
 
-*Betreuer: Jun.-Prof. Dr. Christoph Vatter*
+*Betreuer: Prof. Dr. Christoph Vatter*
 
 
 
