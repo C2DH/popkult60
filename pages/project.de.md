@@ -112,7 +112,7 @@ Nach einer **ersten Projektphase (2018-2021)** befindet sich die Forschungsgrupp
 
 
 
-**N.N.**, [„Von der Tanzkapelle zur Coverband“ - Der „Ball“ als populärer Ort des Vergnügens und der musikalischen Sozialisation auf dem Land](../assets/pdf/nnv-de.pdf)
+**N.N.**, [„Von der Tanzkapelle zur Coverband“ - Der „Ball“ als populärer Ort des Vergnügens und der musikalischen Sozialisation auf dem Land](../assets/pdf/nnf-de.pdf)
 
 
 *Betreuer: Prof. Dr. Andreas Fickers*

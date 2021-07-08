@@ -122,10 +122,10 @@ Après une **première phase (2018-2021)** le groupe de recherche se trouve actu
 
 
 
-**N.N.**, [„Von der Tanzkapelle zur Coverband“ - Der „Ball“ als populärer Ort des Vergnügens und der musikalischen Sozialisation auf dem Land](../assets/pdf/nnv-fr.pdf)
+**N.N.**, [„Von der Tanzkapelle zur Coverband“ - Der „Ball“ als populärer Ort des Vergnügens und der musikalischen Sozialisation auf dem Land](../assets/pdf/nnf-fr.pdf)
 
 
-*Betreuer: Prof. Dr. ndreas Fickers*
+*Betreuer: Prof. Dr. Andreas Fickers*
 
 **N.N.**, [Jahrmärkte in Grenzräumen - Eine transregionale Geschichte des Luxemburger Vergnügungsparks](../assets/pdf/nnve-fr.pdf)
 
