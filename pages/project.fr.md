@@ -88,34 +88,34 @@ Après une **première phase (2018-2021)** le groupe de recherche se trouve actu
 
 
 
-**Ansbert Baumann**, [„Alte Fans“ und „neue Fans“? - Fankulturen im westeuropäischen Fußball der langen 1960er Jahre: ein transnationaler Vergleich der Strukturen und Trends in Westdeutschland, Frankreich und Italien](../assets/pdf/baumann-fr.pdf)
+**Ansbert Baumann**, [« Anciens fans » et « nouveaux fans »? Les cultures fans dans le football ouest-européen des années 1960 : une comparaison transnationale des structures et des tendances en Allemagne de l'Ouest, en France et en Italie](../assets/pdf/baumann-fr.pdf)
 
 
 *Betreuer: Prof. Dr. Dietmar Hüser*
 
 
 
-**Gunter Mahlerwein**, [Von popular zu populär und zurück - Das europäische Folkrevival der 1950er bis 1970er Jahre aus transnationaler und transregionaler Perspektive](../assets/pdf/mahlerwein-2-fr.pdf)
+**Gunter Mahlerwein**, [Du populaire au „populaire“ et retour - Le renouveau folklorique européen des années 1950 à 1970 dans une perspective transnationale et transrégionale](../assets/pdf/mahlerwein-2-fr.pdf)
 
 
 *Betreuer: Prof. Dr. Clemens Zimmermann*
 
 
 
-**Sonja Malzner**, [Traumziel Indischer Ozean - Populärkulturelle Tourismusdiskurse im Kontext der Dekolonisierung und des beginnenden Ferntourismus](../assets/pdf/malzner-fr.pdf)
+**Sonja Malzner**, [Destination de rêve : Océan Indien. Les discours touristiques européens dans le contexte de la décolonisation et des débuts du tourisme à longue distance](../assets/pdf/malzner-fr.pdf)
 
 *Betreuerin: Prof. Dr. Sonja Kmec*
 
 
 
-**N.N.**, [Der Alltag der Revolte - Die Transnationalität französischer und westdeutscher Landkommunen in den langen 1960er](../assets/pdf/nnh-fr.pdf)
+**N.N.**, [La vie quotidienne de la révolte - La transnationalité des communautés rurales françaises et ouest-allemandes dans les longues années 1960](../assets/pdf/nnh-fr.pdf)
 
 
 *Betreuer: Prof. Dr. Dietmar Hüser*
 
 
 
-**N.N.**, [Postkoloniale Popkulturen in Belgien, Deutschland und Frankreich. Zur Repräsentation Subsahara-Afrikas im Medienensemble der langen 1960er Jahre im Kontext der Dekolonialisierung](../assets/pdf/nnv-fr.pdf)
+**N.N.**, [Cultures pop postcoloniales en Belgique, en Allemagne et en France. La représentation de l'Afrique subsaharienne dans l'ensemble des médias des longues années 1960 dans le contexte de la décolonisation](../assets/pdf/nnv-fr.pdf)
 
 
 *Betreuer: Prof. Dr. Christoph Vatter*
@@ -127,21 +127,21 @@ Après une **première phase (2018-2021)** le groupe de recherche se trouve actu
 
 *Betreuer: Prof. Dr. Andreas Fickers*
 
-**N.N.**, [Jahrmärkte in Grenzräumen - Eine transregionale Geschichte des Luxemburger Vergnügungsparks](../assets/pdf/nnve-fr.pdf)
+**N.N.**, [Les fêtes foraines dans les régions frontalières - Une histoire transrégionale du parc d'attractions du Luxembourg](../assets/pdf/nnve-fr.pdf)
 
 
 *Betreuerin: Prof. Dr. Machteld Venken*
 
 
 
-**N.N.**, [„Hold the future in your hand“ - Das Bewerben von Radios, Fernsehern und Plattenspielern in Luxemburg, Deutschland und Frankreich in den 1960er Jahren](../assets/pdf/nns-fr.pdf)
+**N.N.**, [„Hold the future in your hand“ - : la publicité pour la radio, la télévision et le tourne-disque au Luxembourg, en Allemagne et en France dans les années 1960](../assets/pdf/nns-fr.pdf)
 
 
 *Betreuerin: Prof. Dr. Valérie Schafer*
 
 
 
-**Antonia Schlotter**, [Wie Malefiz zu Barricade wurde - eine transnationale Geschichte des Gesellschaftsspiels der 1960er und 1970er Jahre](../assets/pdf/schlotter-fr.pdf)
+**Antonia Schlotter**, [Comment Malefiz devint Barricade - une histoire transnationale du jeu de société des années 1960 et 1970](../assets/pdf/schlotter-fr.pdf)
 
 
 *Betreuer: Prof. Dr. Clemens Zimmermann*
