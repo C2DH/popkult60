@@ -3,7 +3,7 @@ layout: post
 title: "Die Forschungsgruppe stellt ein!"
 category: event
 cover:
-  url: /assets/images/Stellenausschreibungen.png
+  url: /assets/images/stellenausschreibungen.png
   mode: portrait
 authors:
   - Maude Williams
