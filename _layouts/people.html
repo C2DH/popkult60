@@ -46,7 +46,7 @@ layout: default
         {% endfor %}
       </div>
 
-      <h2 class="subheading mt-5"><span>{% assign key='former team members' %}{% include t.html %}</span></h2>
+      <h2 class="subheading mt-5"><span>{% assign key='former members' %}{% include t.html %}</span></h2>
         <div class="row" >
           {% assign people = site.data.people | where: "category","former-team" %}
           {% for person in people %}
