@@ -10,6 +10,7 @@
   thumbnail: /assets/images/Melanie-Bardian.JPG
   url: "https://www.uni-saarland.de/lehrstuhl/zeitgeschichte/mitarbeiter/melanie-bardian/zur-person.html"
   CV: /assets/pdf/Bardian-CV-publi.pdf
+  category: team
 -
   role: phd
   id: jessica-burton
@@ -21,6 +22,7 @@
   email: jessica.burton@uni.lu
   thumbnail: /assets/images/Jessica-Burton.JPG
   CV: /assets/pdf/Burton-CV-publi.pdf
+  category: team
 -
   role: professor
   id: andreas-fickers
@@ -33,6 +35,7 @@
   thumbnail: /assets/images/Andreas-Fickers.JPG
   url: "https://c2dh.uni.lu/people/andreas-fickers"
   CV: /assets/pdf/Fickers-CV-publi.pdf
+  category: team
 -
   role: professor
   id: dietmar-hueser
@@ -45,6 +48,7 @@
   thumbnail: /assets/images/Dietmar-Hueser.JPG
   url: "https://www.uni-saarland.de/lehrstuhl/zeitgeschichte/hueser.html"
   CV: /assets/pdf/Hüser-CV-publi.pdf
+  category: team
 -
   role: professor
   id: sonja-kmec
@@ -57,6 +61,7 @@
   thumbnail: /assets/images/Sonja-Kmec.JPG
   url: "https://history.uni.lu/team-sonja-kmec/"
   CV: /assets/pdf/Kmec-CV-publi.pdf
+  category: team
 -
   role: phd
   id: ann-kristin-kurberg
@@ -68,6 +73,7 @@
   email: ann.kurberg@uni-saarland.de
   thumbnail: /assets/images/Ann-Kristin-Kurberg.JPG
   CV: /assets/pdf/Kurberg-CV-publi.pdf
+  category: team
 -
   role: phd
   id: richard-legay
@@ -80,6 +86,7 @@
   thumbnail: /assets/images/Richard-Legay.JPG
   url: "https://www.c2dh.uni.lu/de/people/richard-legay"
   CV: /assets/pdf/Legay-CV-publi.pdf
+  category: team
 -
   role: post-doc
   id: gunter mahlerwein
@@ -92,6 +99,7 @@
   thumbnail: /assets/images/Gunter-Mahlerwein.JPG
   url: "http://www.kmg.uni-saarland.de/personen/gm.html"
   CV: /assets/pdf/Mahlerwein-CV-publi.pdf
+  category: team
 -
   role: professor
   id: benoit-majerus
@@ -104,6 +112,7 @@
   thumbnail: /assets/images/Benoit-Majerus.JPG
   url: "https://www.c2dh.uni.lu/people/benoit-majerus"
   CV: /assets/pdf/Benoit-CV-publi.pdf
+  category: former-team
 -
   role: phd
   id: aline-maldener
@@ -116,6 +125,7 @@
   thumbnail: /assets/images/Aline-Maldener.JPG
   url: "http://www.kmg.uni-saarland.de/personen/am.html"
   CV: /assets/pdf/Maldener-CV-publi.pdf
+  category: team
 -
   role: associate member
   id: jasmin-nicklas
@@ -128,6 +138,7 @@
   thumbnail: /assets/images/Jasmin-Nicklas.JPG
   url: "https://www.uni-saarland.de/lehrstuhl/zeitgeschichte/mitarbeiter/jasmin-nicklas/zur-person.html"
   CV: /assets/pdf/Nicklas-CV-publi.pdf
+  category: team
 
 -
   role: professor
@@ -141,6 +152,7 @@
   thumbnail: /assets/images/machteld-venken.jpg
   url: "https://wwwfr.uni.lu/c2dh/people/machteld_venken"
   CV: /assets/pdf/Venken-CV-publi.pdf
+  category: team
 
 -
   role: professor
@@ -154,6 +166,7 @@
   thumbnail: /assets/images/valerie-schafer.jpg
   url: "https://wwwfr.uni.lu/c2dh/people/valerie_schafer"
   CV: /assets/pdf/Schafer-CV-publi.pdf
+  category: team
 
 -
   role: associate member
@@ -167,6 +180,7 @@
   thumbnail: /assets/images/Vitus-Sproten.JPG
   url: "https://www.c2dh.uni.lu/people/vitus-sproten"
   CV: /assets/pdf/Sproten-CV-publi.pdf
+  category: former-team
 -
   role: professor
   id: christoph-vatter
@@ -179,6 +193,7 @@
   thumbnail: /assets/images/Christoph-Vatter.JPG
   url: "https://www.uni-saarland.de/lehrstuhl/vatter/dr-christoph-vatter.html"
   CV: /assets/pdf/Vatter-CV-publi.pdf
+  category: team
 
 -
   role: phd
@@ -191,6 +206,7 @@
   email: julia.wack@uni.lu
   thumbnail: /assets/images/Julia-Wack.JPG
   CV: /assets/pdf/Wack-CV-publi.pdf
+  category: team
 -
   role: post-doc
   id: maude-williams
@@ -203,6 +219,7 @@
   thumbnail: /assets/images/Maude-Williams.JPG
   url: "https://www.uni-saarland.de/lehrstuhl/zeitgeschichte/mitarbeiter/m-williams/zur-person.html"
   CV: /assets/pdf/Williams-CV-publi.pdf
+  category: team
 -
   role: professor
   id: clemens-zimmermann
@@ -215,3 +232,4 @@
   thumbnail: /assets/images/Clemens-Zimmermann.JPG
   url: "http://www.kmg.uni-saarland.de/personen/cz.html"
   CV: /assets/pdf/Zimmermann-CV-publi.pdf
+  category: team
