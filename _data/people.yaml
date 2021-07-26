@@ -128,6 +128,33 @@
   thumbnail: /assets/images/Jasmin-Nicklas.JPG
   url: "https://www.uni-saarland.de/lehrstuhl/zeitgeschichte/mitarbeiter/jasmin-nicklas/zur-person.html"
   CV: /assets/pdf/Nicklas-CV-publi.pdf
+
+-
+  role: professor
+  id: machteld venken
+  name: Machteld Venken
+  description:
+    fr: "**Machteld Venken**  "
+    en: "**Machteld Venken** "
+    de: "**Machteld Venken**  "
+  email: machteld.venken@uni.lu
+  thumbnail: /assets/images/machteld-venken.jpg
+  url: "https://wwwfr.uni.lu/c2dh/people/machteld_venken"
+  CV: /assets/pdf/Venken-CV-publi.pdf
+
+-
+  role: professor
+  id: valerie-schafer
+  name: Valérie schafer
+  description:
+    fr: "**Valérie Schafer** is Vice-Chair of the ECREA Communication History Section and General Secretary of the Society for the History of Media (SPHM). She is on the editorial board of the journals Le Temps des Médias, Flux and Cahiers François Viète and is a co-founder of the journal Internet Histories. Digital Technology, Culture and Society"
+    en: "**Valérie Schafer** specialises in the history of computing, telecommunications and data networks. Her main research interests are the history of the Internet and the Web, the history of European digital cultures and infrastructures, and born-digital heritage (especially Web archives)."
+    de: "**Valérie Schafer** has been a Professor in Contemporary European History at the C²DH (Luxembourg Centre for Contemporary and Digital History) at the University of Luxembourg since February 2018. She previously worked at the CNRS in France and is still an Associate Researcher at the Center for Internet and Society. She is also a Mercator Fellow at the university of Siegen in 2021 (Project Medien der Kooperation)."
+  email: valerie.schafer@uni.lu
+  thumbnail: /assets/images/valerie-schafer.jpg
+  url: "https://wwwfr.uni.lu/c2dh/people/valerie_schafer"
+  CV: /assets/pdf/Schafer-CV-publi.pdf
+
 -
   role: associate member
   id: vitus-sproten
@@ -152,19 +179,6 @@
   thumbnail: /assets/images/Christoph-Vatter.JPG
   url: "https://www.uni-saarland.de/lehrstuhl/vatter/dr-christoph-vatter.html"
   CV: /assets/pdf/Vatter-CV-publi.pdf
-
--
-  role: professor
-  id: valerie-schafer
-  name: Valérie schafer
-  description:
-    fr: "**Valérie Schafer** is Vice-Chair of the ECREA Communication History Section and General Secretary of the Society for the History of Media (SPHM). She is on the editorial board of the journals Le Temps des Médias, Flux and Cahiers François Viète and is a co-founder of the journal Internet Histories. Digital Technology, Culture and Society"
-    en: "**Valérie Schafer** specialises in the history of computing, telecommunications and data networks. Her main research interests are the history of the Internet and the Web, the history of European digital cultures and infrastructures, and born-digital heritage (especially Web archives)."
-    de: "**Valérie Schafer** has been a Professor in Contemporary European History at the C²DH (Luxembourg Centre for Contemporary and Digital History) at the University of Luxembourg since February 2018. She previously worked at the CNRS in France and is still an Associate Researcher at the Center for Internet and Society. She is also a Mercator Fellow at the university of Siegen in 2021 (Project Medien der Kooperation)."
-  email: valerie.schafer@uni.lu
-  thumbnail: /assets/images/valerie-schafer.jpg
-  url: "https://wwwfr.uni.lu/c2dh/people/valerie_schafer"
-  CV: /assets/pdf/Schafer-CV-publi.pdf
 
 -
   role: phd
