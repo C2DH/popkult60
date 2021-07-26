@@ -15,6 +15,6 @@ tags:
 
 **Projekt Aktuell: Die Saarbrücker Zeitung berichtet**
 
-"Knapp drei Millionen Euro für deutsch-luxemburgische Forscher" ist der Titel des Artikels der Saarbrücker Zeitung, der am 21.07.2021 erscheinen ist und über unsere Forschungsgruppe berichtet.
+"Knapp drei Millionen Euro für deutsch-luxemburgische Forscher" ist der Titel des Artikels der Saarbrücker Zeitung, die am 21.07.2021 erscheinen ist und über unsere Forschungsgruppe berichtet.
 
 <!-- more -->
