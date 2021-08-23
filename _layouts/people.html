@@ -6,7 +6,8 @@ layout: default
     <h1 class="title"><span>{{page.title}}</span></h1>
     <h2 class="subheading"><span>{{page.subheading}}</span></h2>
       <div class="row" >
-        {% for person in site.data.people %}
+        {% assign people = site.data.people | where: "category","team" %}
+        {% for person in people %}
         {% if person.thumbnail %}
           {% assign url = person.thumbnail %}
           {% include captures/absolute_url.html %}
@@ -45,9 +46,46 @@ layout: default
         {% endfor %}
       </div>
 
+      <h2 class="subheading mt-5"><span>{% assign key='former members' %}{% include t.html %}</span></h2>
+        <div class="row" >
+          {% assign people = site.data.people | where: "category","former-team" %}
+          {% for person in people %}
+          {% if person.thumbnail %}
+            {% assign url = person.thumbnail %}
+            {% include captures/absolute_url.html %}
+          {% else %}
+            {% assign absolute_url = "/assets/images/random.png" | relative_url %}
+          {% endif %}
+          <div class="col-sm-6 col-lg-4">
+            <div class="field person">
+              <a href="{{person.url}}" target="_blank">
+              <div class="cover-wrapper">
+                <div class="cover" style="background-size: 50%;background-image: url({{absolute_url}});background-repeat:repeat;">
+
+                </div>
+              </div>
+              </a>
+              <div class="metadata p-3">
+                <h2>
+                  <a href="{{person.url}}" target="_blank">
+                    <span>{{person.name}}</span>
+                  </a>
+                </h2>
+                <h3>{% assign key=person.role %}{% include t.html %}</h3>
+                {% capture description %}
+                {{person.description[page.lang] | markdownify }}
+                {% endcapture %}
 
 
 
-
+                <div>{{ description }}</div>
+                {% if person.CV %}
+              <a href='{{person.CV | relative_url}}'>cv (pdf)</a>
+                {% endif %}
+              </div>
+            </div>
+          </div>
+          {% endfor %}
+        </div>
 
   </div>
