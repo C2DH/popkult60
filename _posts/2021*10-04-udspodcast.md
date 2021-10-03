@@ -11,7 +11,7 @@ author:
   - Christoph Vatter
 ---
 
-UdS Podcast: POLL012 – POPKULT60 MIT PROF. DIETMAR HÜSER UND PROF. CHRISTOPH VATTER
+Podcast über unser Projekt am Zentrum für lebenslanges Lernen der UdS
 
 <!-- more -->
 
