@@ -3,7 +3,7 @@ layout: post
 title: "Podcast: UdS podcast"
 category: event
 cover:
-  url: /assets/images/podcast.md
+  url: /assets/images/podcast.jpg
 tags:
   - Projekt
 author:
