@@ -2,8 +2,8 @@
 permalink: /fr/fields/
 link: /fields/
 layout: fields
-title: Champs de tension 
-subheading: 8 champs principaux de recherche qui sous-tendent le projet
+title: Champs de tension
+subheading: 10 champs principaux de recherche qui sous-tendent le projet
 lang: fr
 ---
 

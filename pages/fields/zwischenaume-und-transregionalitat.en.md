@@ -3,7 +3,7 @@ category: field
 title: Zwischenäume & Transregionalität
 slug: zwischenaume-und-transregionalitat
 lang: en
-ordering: 1
+ordering: 10
 ---
 - Translokale und transregionale Prozesse der Populärkultur in den langen 1960er Jahren
 - Mikrohistorisch orientierten Forschungsperspektive
