@@ -2,7 +2,7 @@
 category: field
 title: Populärkulturelles & Kulturökonomisches
 slug: popularkulturelles-und-ulturokonomisches
-lang: en
+lang: de
 ordering: 9
 ---
 
