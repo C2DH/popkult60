@@ -1,8 +1,19 @@
-theme: jekyll-theme-minimal
+title: Your awesome title
+email: your-email@example.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Welcome to the website of the research project "Transnational popular
+  culture – Europe in the long 1960s" supported by the Deutsche Forschungsgemeinschaft
+  (DFG) in Germany and the National Research Fund (FNR) in Luxembourg.
+
+theme: minima
 default_lang: en
 languages: ['en', 'fr','de']
 excerpt_separator: <!-- more -->
-exclude: [d3/]
+exclude:
+  - d3/
+  - vendor/
+  - tmp/
+  - gems/
 collections:
   audiopost:
     output: true
