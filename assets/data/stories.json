@@ -14,7 +14,7 @@
       "status": "{{ story.status }}",
       "abstract": "{{ abstract }}",
       "data": {
-        {% assign modules = site.stories | where: "type","module" | | where: "lang", story.lang %}
+        {% assign modules = site.stories | where: "type","module" | where: "lang", story.lang %}
         "modules": [
           {% for module in modules %}
           {
