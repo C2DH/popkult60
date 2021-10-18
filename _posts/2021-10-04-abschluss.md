@@ -3,7 +3,7 @@ layout: post
 title: "Abschlusstagung und Kick Off Veranstaltung"
 category: event
 cover:
-  url: /assets/images/Kickoffplakat.jpg
+  url: /assets/images/Kickoff.jpeg
   mode: portrait
 authors:
   - Maude Williams
@@ -17,4 +17,4 @@ tags:
 
 <!-- more -->
 
-Alle Ergebnisse der ersten Phase sowie die neuen Projekte der zweiten Phase des Projekts werden während diesen drei Tagen vorgestellt. 
+Alle Ergebnisse der ersten Phase sowie die neuen Projekte der zweiten Phase des Projekts werden während diesen drei Tagen vorgestellt. Das Programm finden Sie [hier](../assets/pdf/Flyer.pdf)
