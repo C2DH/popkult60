@@ -17,4 +17,4 @@ tags:
 
 <!-- more -->
 
-Alle Ergebnisse der ersten Phase sowie die neuen Projekte der zweiten Phase des Projekts werden während diesen drei Tagen vorgestellt. Das Programm finden Sie [hier](../assets/pdf/flyer.pdf)
+Alle Ergebnisse der ersten Phase sowie die neuen Projekte der zweiten Phase des Projekts werden während diesen drei Tagen vorgestellt. Das Programm finden Sie [hier](../assets/pdf/Flyer-abschlusstagung-Gruppe.pdf)
