@@ -3,12 +3,12 @@
 <head>
     <meta charset='utf-8'>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="shortcut icon" href="{{ '/assets/images/favicon.ico' | relative_url }}" type="image/x-icon" />
+    <link rel="shortcut icon" href="{{ '/assets/images/favicon.ico' | relative_url }}" type="image/x-icon"/>
     {% if page.title %}
-      <meta property="og:title" content="{{ page.title }}" />
-      <meta property="og:description" content="{% if page.subheading %}{{ page.subheading }}{% else %}{{ site.description }}{% endif %}" />
-      <meta property="og:type" content="website" />
-      <meta property="og:url" content="{{ site.absolute_base_url }}" />
+      <meta property="og:title" content="{{ page.title }}"/>
+      <meta property="og:description" content="{% if page.subheading %}{{ page.subheading }}{% else %}{{ site.description }}{% endif %}"/>
+      <meta property="og:type" content="website"/>
+      <meta property="og:url" content="{{ site.absolute_base_url }}"/>
     {% else %}
       <meta property="og:title" content="{{ site.title }}" />
       <meta property="og:description" content="{{ site.description }}" />
@@ -17,7 +17,7 @@
     {% endif %}
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
     <meta http-equiv="Content-Language" content="{{ page.lang }}">
-    <title>{% if page.title %}{{page.title}} · {% endif %}{{site.title}}</title>
+    <title>{% if page.title %}{{page.title}} - {% endif %}{{site.title}}</title>
 
     <!-- <link href="https://fonts.googleapis.com/css?family=Cormorant+Garamond:400,500,600,700|Poppins:300,400,500,600,700" rel="stylesheet"> -->
     <link rel="stylesheet" href="{{ '/assets/css/bootstrap.min.css?v=' | relative_url }}" integrity="sha384-Zug+QiDoJOrZ5t4lssLdxGhVrurbmBWopoEl+M6BdEfwnCJZtKxi1KgxUyJq13dy" crossorigin="anonymous">
