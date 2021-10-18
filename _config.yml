@@ -4,6 +4,7 @@ description: 'Popkult60 "Transnational popular culture - Europe in the long 1960
 theme: minima
 default_lang: en
 languages: ['en', 'fr','de']
+encoding: utf-8
 excerpt_separator: <!-- more -->
 exclude:
   - d3/
