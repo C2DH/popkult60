@@ -16,3 +16,5 @@ primary:
     - title: podcast
       follow: audiopost
       href: /podcast/
+    - title: exhibition
+      href: 'https://popkult60.eu/e/'
