@@ -27,9 +27,9 @@ fields:
   fr: champs de tension
   de: spannungsfelder
 exhibition:
-  en: * exhibition!
-  fr: * exhibition!
-  de: * exhibition!
+  en: "* exhibition!"
+  fr: "* exhibition!"
+  de: "* exhibition!"
 people:
   en: people
   fr: membres

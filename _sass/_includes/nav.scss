@@ -5,10 +5,14 @@
   border-top: 2px solid $floyd-pink;
   // border: 2px solid $dark-grey;
   > img {
-    width: 100%;
+    width: 200px;
   }
 }
-
+@media(min-width: 768px){
+  #popkult-logo > img{
+    width:300px;
+  }
+}
 
 #nav-menu{
   position:absolute;

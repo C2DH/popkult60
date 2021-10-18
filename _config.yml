@@ -1,5 +1,5 @@
-title: Your awesome title
-email: your-email@example.com
+title: Popkult60
+email: c2dh.exhibitions@uni.lu
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to the website of the research project "Transnational popular
   culture – Europe in the long 1960s" supported by the Deutsche Forschungsgemeinschaft
@@ -20,3 +20,4 @@ collections:
     permalink: /u/:path/
   stories:
     sort_by: sort
+absolute_base_url: "https://popkult60.eu"
