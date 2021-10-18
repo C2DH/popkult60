@@ -2,7 +2,7 @@
   <div class='container-fluid'>
     <div class='row no-gutters'>
       <div id='popkult-logo'>
-        <img src="{{'/assets/images/popkult60-logo.png' | relative_url}}">
+        <img src="{{'/assets/images/popkult60-logo.svg' | relative_url}}">
       </div>
     </div>
   </div>
@@ -16,7 +16,7 @@
               <span class="navbar-toggler-icon"></span>
           </button> -->
           <div class="navbar-collapse collapse justify-content-between align-items-center w-100">
-              <ul class="navbar-nav">
+              <ul class="navbar-nav flex-wrap">
                 {% for link in site.data.navigation.primary.links %}
                   {% assign is_active = false %}
                   {% assign show_following=false %}
