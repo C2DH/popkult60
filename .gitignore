@@ -5,3 +5,6 @@ _site/
 d3/node_modules/
 Gemfile.lock
 .bundle/
+vendor/
+.DS_Store
+.DS_Store
