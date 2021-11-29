@@ -18,4 +18,3 @@ Rezension von **Clemens Zimmermann**: Fuhg, Felix: London’s Working-Class Yout
 <!-- more -->
 
 Die ganzr Rezension finden Sie [hier](.../assets/pdf/fluhg.pdf).
-   
