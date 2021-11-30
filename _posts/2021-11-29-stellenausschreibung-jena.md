@@ -3,7 +3,7 @@ layout: post
 title: "Die Forschungsgruppe stellt ein!"
 category: event
 cover:
-  url: /assets/images/stellenausschreibungen.jpg
+  url: /assets/images/africa.jpeg
   mode: portrait
 authors:
   - Maude Williams
