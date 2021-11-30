@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Interview "Landmedien und Medienstädte – Ist die Zukunft überall?""
+title: "Interview: Landmedien und Medienstädte – Ist die Zukunft überall?"
 category: event
 cover:
   url: /assets/images/radiosendung.jpeg
