@@ -13,6 +13,7 @@ lang: fr
 
 *2021*
 
+
 Zimmermann, Clemens: Cinema as a Political Medium – Germany and Italy Compared from 1945 to the 1950s. the Aim of this Volume, in: Zimmermann, Clemens; Klinkhammer, Lutz (Hrsg.): Cinema as a Political Media. Germany and Italy compared, 1945-1950s, (=online-Schriften des DHI Rom. Neue Reihe, Bd. 5) Heidelberg university publishing, Heidelberg, 2021, S.1-18.
 
 
@@ -20,6 +21,15 @@ Zimmermann, Clemens; Klinkhammer, Lutz (Hrsg.): Cinema as a Political Media. Ger
 
 
 *2020*
+
+
+Dietmar Hüser / Hans-Christian Herrmann (Hg.), Macrons neues Frankreich: Hintergründe, Reformansätze und deutsch-französische Perspektiven / La nouvelle France de Macron : Contextes, ébauches de réforme et perspectives franco-allemandes, Bielefeld (transcript) 2020, 350 S.
+
+Dietmar Hüser, Im Westen viel Populäres - Französisch-deutsche Musik-Transfers der 1950er bis 1970er Jahre, in: Kunststiftung NRW (Hg.), Auf dem Weg in die Zukunft: Die deutsch-französischen Beziehungen 100 Jahre nach dem Ersten Weltkrieg, Berlin (Hatje Cantz Verlag) 2020, S. 170-191.
+
+Dietmar Hüser, Auf der Flucht vor Diktatur und Armut - Spanische Republikaner und Arbeitsmigranten im Nachkriegsfrankreich, in: Patricia Oster / Christoph Vatter (Hg.), Fluchtraum Europa. Interdisziplinäre Perspektiven, Baden-Baden (Nomos) 2020, S. 123-148.
+
+Dietmar Hüser, Das Erbe Giscard d'Estaings? - Wahlen und Parteien, Politik und Protest in der Frühphase Emmanuel Macrons als französischer Staatspräsident: Zeithistorische Kontexte und Ausblicke, in: ders. / Hans-Christian Herrmann (Hg.), Macrons neues Frankreich: Hintergründe, Reformansätze und deutsch-französische Perspektiven / La nouvelle France de Macron : Contextes, ébauches de réforme et perspectives franco-allemandes, Bielefeld (transcript) 2020, S. 61-87.
 
 Mahlerwein, Gunter; Zimmermann, Clemens:Von den Kindern von Bullerbü bis zu Netflix. Fernsehserienforschung in Sicht der Geschichtswissenschaft,in: Marco Agnetta / Markus Schleich (Hrsg.), Folge um Folge. Multiple Perspektiven auf die Fernsehserie, Hildesheim 2020
 S.45-62.
@@ -44,6 +54,7 @@ Williams, Maude:"Das Protestlied „Le déserteur“ von Boris Vian: Wahrnehmung
 Zimmermann, Clemens : Kleinstädte im 20. Jahrhundert. Selbstbilder, Potenziale, Urbanität und Peripherisierung, in: Werner Nell/Marc Weiland, Hg., Kleinstadtliteratur. Erkundungen eines Imaginationsraumes ungleichzeitiger Moderne, Bielefeld 2020, 59-74
 
 *2019*
+
 
 Burton, Jessica: “A Coordinated Europeanization of the Comics Industry through Distribution: The Politics of the Global Journey of Astérix and Tintin through the Strategic Distribution of their Magazines and Contents in the 1960s”, On_Culture: The Open Journal for the Study of Culture 8 (2019) https://www.on-culture.org/journal/issue-8/europeanization-comics-industry/
 
