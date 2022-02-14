@@ -106,33 +106,33 @@ After a **first phase of the project (2018-2021)** the research group is now in 
 
 
 
-**N.N.**, [The Everyday Life of Revolt - The Transnationality of French and West German Rural Communities in the Long 1960s](../assets/pdf/nnh-en.pdf)
+**Sylvi Siebler**, [The Everyday Life of Revolt - The Transnationality of French and West German Rural Communities in the Long 1960s](../assets/pdf/nnh-en.pdf)
 
 
 *Betreuer: Prof. Dr. Dietmar Hüser*
 
 
 
-**N.N.**, [Postcolonial Pop Cultures in Belgium, Germany and France. Representation of sub-Saharan Africa in the media ensemble of the long 1960s in the context of the Decolonisation](../assets/pdf/nnv-en.pdf)
+**Marie Kollek**, [Postcolonial Pop Cultures in Belgium, Germany and France. Representation of sub-Saharan Africa in the media ensemble of the long 1960s in the context of the Decolonisation](../assets/pdf/nnv-en.pdf)
 
 
 *Betreuer: Prof. Dr. Christoph Vatter*
 
 
 
-**N.N.**, [„Von der Tanzkapelle zur Coverband“ - Der „Ball“ als populärer Ort des Vergnügens und der musikalischen Sozialisation auf dem Land](../assets/pdf/nnf-en.pdf)
+**Laura Steil**, [„Von der Tanzkapelle zur Coverband“ - Der „Ball“ als populärer Ort des Vergnügens und der musikalischen Sozialisation auf dem Land](../assets/pdf/nnf-en.pdf)
 
 
 *Betreuer: Prof. Dr. Andreas Fickers*
 
-**N.N.**, [Funfairs in Border Areas - A Transregional History of the Luxembourg Amusement Park](../assets/pdf/nnve-en.pdf)
+**Véronique Faber**, [Funfairs in Border Areas - A Transregional History of the Luxembourg Amusement Park](../assets/pdf/nnve-en.pdf)
 
 
 *Betreuerin: Prof. Dr. Machteld Venken*
 
 
 
-**N.N.**, ['Hold the future in your hand': Advertising radios, televisions and record players in Luxembourg, Germany and France in the 1960s](../assets/pdf/nns-en.pdf)
+**Matthias Höfer**, ['Hold the future in your hand': Advertising radios, televisions and record players in Luxembourg, Germany and France in the 1960s](../assets/pdf/nns-en.pdf)
 
 
 *Betreuerin: Prof. Dr. Valérie Schafer*

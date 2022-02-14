@@ -108,33 +108,33 @@ Après une **première phase (2018-2021)** le groupe de recherche se trouve actu
 
 
 
-**N.N.**, [La vie quotidienne de la révolte - La transnationalité des communautés rurales françaises et ouest-allemandes dans les longues années 1960](../assets/pdf/nnh-fr.pdf)
+**Sylvi Siebler**, [La vie quotidienne de la révolte - La transnationalité des communautés rurales françaises et ouest-allemandes dans les longues années 1960](../assets/pdf/nnh-fr.pdf)
 
 
 *Betreuer: Prof. Dr. Dietmar Hüser*
 
 
 
-**N.N.**, [Cultures pop postcoloniales en Belgique, en Allemagne et en France. La représentation de l'Afrique subsaharienne dans l'ensemble des médias des longues années 1960 dans le contexte de la décolonisation](../assets/pdf/nnv-fr.pdf)
+**Marie Kollek**, [Cultures pop postcoloniales en Belgique, en Allemagne et en France. La représentation de l'Afrique subsaharienne dans l'ensemble des médias des longues années 1960 dans le contexte de la décolonisation](../assets/pdf/nnv-fr.pdf)
 
 
 *Betreuer: Prof. Dr. Christoph Vatter*
 
 
 
-**N.N.**, [„Von der Tanzkapelle zur Coverband“ - Der „Ball“ als populärer Ort des Vergnügens und der musikalischen Sozialisation auf dem Land](../assets/pdf/nnf-fr.pdf)
+**Laura Steil**, [„Von der Tanzkapelle zur Coverband“ - Der „Ball“ als populärer Ort des Vergnügens und der musikalischen Sozialisation auf dem Land](../assets/pdf/nnf-fr.pdf)
 
 
 *Betreuer: Prof. Dr. Andreas Fickers*
 
-**N.N.**, [Les fêtes foraines dans les régions frontalières - Une histoire transrégionale du parc d'attractions du Luxembourg](../assets/pdf/nnve-fr.pdf)
+**Véronique Faber**, [Les fêtes foraines dans les régions frontalières - Une histoire transrégionale du parc d'attractions du Luxembourg](../assets/pdf/nnve-fr.pdf)
 
 
 *Betreuerin: Prof. Dr. Machteld Venken*
 
 
 
-**N.N.**, [„Hold the future in your hand“ - : la publicité pour la radio, la télévision et le tourne-disque au Luxembourg, en Allemagne et en France dans les années 1960](../assets/pdf/nns-fr.pdf)
+**Matthias Höfer**, [„Hold the future in your hand“ - : la publicité pour la radio, la télévision et le tourne-disque au Luxembourg, en Allemagne et en France dans les années 1960](../assets/pdf/nns-fr.pdf)
 
 
 *Betreuerin: Prof. Dr. Valérie Schafer*

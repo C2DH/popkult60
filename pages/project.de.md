@@ -98,21 +98,21 @@ Nach einer **ersten Projektphase (2018-2021)** befindet sich die Forschungsgrupp
 
 
 
-**N.N.**, [Der Alltag der Revolte - Die Transnationalität französischer und westdeutscher Landkommunen in den langen 1960er](../assets/pdf/nnh-de.pdf)
+**Sylvi Siebler**, [Der Alltag der Revolte - Die Transnationalität französischer und westdeutscher Landkommunen in den langen 1960er](../assets/pdf/nnh-de.pdf)
 
 
 *Betreuer: Prof. Dr. Dietmar Hüser*
 
 
 
-**N.N.**, [Postkoloniale Popkulturen in Belgien, Deutschland und Frankreich. Zur Repräsentation Subsahara-Afrikas im Medienensemble der langen 1960er Jahre im Kontext der Dekolonialisierung](../assets/pdf/nnv-de.pdf)
+**Marie Kollek**, [Postkoloniale Popkulturen in Belgien, Deutschland und Frankreich. Zur Repräsentation Subsahara-Afrikas im Medienensemble der langen 1960er Jahre im Kontext der Dekolonialisierung](../assets/pdf/nnv-de.pdf)
 
 
 *Betreuer: Prof. Dr. Christoph Vatter*
 
 
 
-**N.N.**, [„Von der Tanzkapelle zur Coverband“ - Der „Ball“ als populärer Ort des Vergnügens und der musikalischen Sozialisation auf dem Land](../assets/pdf/nnf-de.pdf)
+**Laura Steil**, [„Von der Tanzkapelle zur Coverband“ - Der „Ball“ als populärer Ort des Vergnügens und der musikalischen Sozialisation auf dem Land](../assets/pdf/nnf-de.pdf)
 
 
 *Betreuer: Prof. Dr. Andreas Fickers*
@@ -120,14 +120,14 @@ Nach einer **ersten Projektphase (2018-2021)** befindet sich die Forschungsgrupp
 
 
 
-**N.N.**, [Jahrmärkte in Grenzräumen - Eine transregionale Geschichte des Luxemburger Vergnügungsparks](../assets/pdf/nnve-de.pdf)
+**Véronique Faber**, [Jahrmärkte in Grenzräumen - Eine transregionale Geschichte des Luxemburger Vergnügungsparks](../assets/pdf/nnve-de.pdf)
 
 
 *Betreuerin: Machteld Venken*
 
 
 
-**N.N.**, [„Hold the future in your hand“ - Das Bewerben von Radios, Fernsehern und Plattenspielern in Luxemburg, Deutschland und Frankreich in den 1960er Jahren](../assets/pdf/nns-de.pdf)
+**Matthias Höfer**, [„Hold the future in your hand“ - Das Bewerben von Radios, Fernsehern und Plattenspielern in Luxemburg, Deutschland und Frankreich in den 1960er Jahren](../assets/pdf/nns-de.pdf)
 
 
 *Betreuerin: Prof. Dr. Valérie Schafer*
