@@ -1,0 +1,227 @@
+---
+layout: default
+---
+
+<div class='container'>
+  <h1 class='title'><span>{{page.title}}</span></h1>
+  {% if page.subheading %}
+    <h2 class='subheading'><span>{{page.subheading}}</span></h2>
+  {% endif %}
+  <div id="app-root"></div>
+</div>
+
+<script src="https://unpkg.com/react@17/umd/react.development.js" crossorigin></script>
+<script src="https://unpkg.com/react-dom@17/umd/react-dom.development.js" crossorigin></script>
+<script src="https://unpkg.com/prop-types@15.6/prop-types.min.js"></script>
+<script src="https://unpkg.com/@c2dh/react-facets@1.0.4/dist/bundle.min.js" crossorigin></script>
+<script src="https://unpkg.com/citation-js@0.5.0/build/citation.min.js" crossorigin></script>
+<style>
+  .Bibliography_item{
+    color: #41061b;
+    background: white;
+    box-shadow: 0 .125rem .25rem rgba(0,0,0,.075)!important;
+    border-radius: 2px;
+
+    font-size: .9em;
+  }
+
+  .Bibliography_item a{
+    color: #41061b;
+    border-bottom-color: #41061b;
+    word-break: break-word;
+  }
+
+  .Dimension{
+    background: #ffeacc;
+    padding: 10px;
+  }
+  .Dimension ul {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0;
+    font-size: .9em;
+        list-style-type: none;
+  }
+
+  .DimensionGroupListItem_actions_removeBtn{
+    background-color: transparent;
+  }
+  .DimensionGroupListItem {
+    color: var(--gray-600);
+    border: 1px solid var(--gray-600);
+    margin: 2px;
+    padding: 1px 8px;
+    border-radius: 4px;
+    display: flex;
+  }
+  .DimensionGroupListItem:hover{
+    background-color: var(--gray-200);
+  }
+  .DimensionGroupListItem.with-count, .DimensionGroupListItem.active{
+    border: 1px solid var(--dark);
+    color: var(--dark);
+  }
+  .DimensionGroupListItem.active{
+    font-weight: bold;
+    box-shadow: 0 0 0px 3px #f9542159;
+  }
+
+  .DimensionGroupListItem_label{
+    cursor: pointer;
+  }
+  .DimensionGroupListItem_actions{
+    padding-top: 0px;
+    margin-left: var(--spacer-2);
+    width: 18px;
+    height: 18px;
+    position: relative;
+  }
+  .DimensionGroupListItem_actions_removeBtn{
+    border-radius: 10px;
+    position: absolute;
+    top: 2px;
+    left: 4px;
+    flex-shrink: 1;
+    width: 18px;
+    height: 18px;
+    background: transparent;
+    border: transparent;
+    cursor: pointer;
+  }
+  .DimensionGroupListItem_actions_removeBtn svg {
+    position: absolute;
+    top: 1px;
+    left: 1px;
+    padding: 0;
+  }
+
+  .Dimension_toggleShowMoreBtn{
+    background: transparent;
+    border: 1px solid transparent;
+    font-size: inherit;
+    height: 100%;
+  }
+  .Dimension_toggleShowMoreBtn:hover span{
+    box-shadow: 0px 1px 0 var(--dark)
+  }
+
+  .Dimension_toggleShowMoreBtn:focus {
+    outline: none
+  }
+
+  .Facets_dimensionHeading  span{
+    font-family: Olio-Bold, Helvetica, sans-serif;
+    background: #41061b;
+    font-size: 25px;
+    line-height: 25px;
+    color: #ffffff;
+    padding: 0px 5px;
+    display: inline-block;
+  }
+</style>
+<script>
+    'use strict';
+    const e = React.createElement;
+    const Facets = window.reactFacets.default;
+    const Cite = require('citation-js');
+
+    const Bibliography = ({ sortedItems, selected, format='html', template='apa' }) => {
+      return (
+        e('div', { className: "Bibliography" }, sortedItems.map((item, i) => {
+          if (Array.isArray(selected) && selected.indexOf(item.idx) === -1) {
+            return null
+          }
+          return e('p', {
+            key: i,
+            className:'Bibliography_item p-2 px-3',
+            dangerouslySetInnerHTML: {
+              __html: String(Cite(item).format('bibliography', { format, template })).replace(
+                  /(\shttps?:\/\/[0-9a-zA-Z-./_:?=]+)([^0-9a-zA-Z-./]+)/g,
+                  (m, link, r) => `<a href="${link}" target="_blank">${link}</a>${r}`
+              )
+            }
+          })
+        }))
+      )
+    }
+
+
+    const App = ({ items }) => {
+      const [selected, setSelected] = React.useState(null)
+      // sort items based on state
+      const sortedItems = items.map((item, idx) => ({
+        ...item,
+        idx
+      })).sort(window.reactFacets.sortFn({
+        by: 'year',
+        direction: 0,
+        dimensions,
+      }))
+      const onSelect = (name, indices) => {
+        console.debug('[App] @onFacetSelectHandler', name, indices)
+        // values and value
+        setSelected(indices)
+      }
+      const showMoreLabel = ({ active, n }) => e('span', null, active ? 'show less (' + n + ')': 'show more (' + n + ')')
+
+      return (
+        e('div', { className: 'App container mt-4' },
+          e('div', { className: 'row' },
+            e('div', { className: 'col-sm-4' },
+              e(Facets, { items, dimensions, onSelect, showMoreLabel })
+            ),
+            e('div', { className: 'col-sm-8' },
+              e(Bibliography, { sortedItems, selected })
+            )
+          )
+        )
+      )
+    }
+
+    const dimensions = [
+      {
+        name: 'authors',
+        fn: (d) => {
+          if (Array.isArray(d.author)) {
+            return d.author.map(a => [a.family, a.given].join(', '))
+          }
+          return []
+        },
+        // each group has these props:
+        // key: k, count: 0, indices: [], selected: []
+        sortFn: (a,b) => {
+          return a.count === b.count
+            ? a.key > b.key
+              ? 1 : -1
+            : a.count > b.count ? -1 : 1
+        },
+        isArray: true
+      },
+      {
+        name: 'year',
+        fn: (d) => !d.issued? 0 : d.issued['date-parts'][0],
+        sortFn: (a,b) => {
+          return a.count > b.count ? -1 : 1
+        }
+      }
+    ]
+
+    const onFacetSelectHandler = (name, indices) => {
+        console.debug('[ArticleBilbiography] @onFacetClickHandler', name, indices)
+        // values and value
+        setSelected(indices)
+      }
+
+    window.addEventListener('DOMContentLoaded', function() {
+      fetch("{{ '/assets/data/publications.json' | relative_url }}")
+        .then(response => response.json())
+        .then((items) => {
+          const domContainer = document.querySelector('#app-root');
+          ReactDOM.render(e(App, { items }), domContainer)
+        }).catch(function (err) {
+        	// There was an error
+        	console.warn('Something went wrong.', err);
+        });
+    })
+
+</script>
