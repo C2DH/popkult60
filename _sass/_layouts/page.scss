@@ -1,16 +1,16 @@
 div.page{
   position: relative;
   padding: 150px 0;
-  background: linear-gradient($floyd-pink-c, $floyd-pink);
+  // background: linear-gradient($floyd-pink-c, $floyd-pink);
 
   // border-left: 30px solid #f1f43F;
-  border: 2px solid $floyd-purple;
+  // border: 2px solid $floyd-purple;
   border-bottom-width: 0;
 
   &.middle{
     background: $floyd-dark;
   }
-  
+
   h1.title{
     text-align: center;
     // border-bottom: 2px solid $floyd-dark;
@@ -84,7 +84,7 @@ div.page{
 //   background: #efefef;
 // }
   min-height: 300px;
-  background: repeating-linear-gradient(0deg, $floyd-pink 0px, $floyd-pink 2px, rgba(0,0,0,0) 2px, rgba(0,0,0,0) 8px);
+  // background: repeating-linear-gradient(0deg, $floyd-pink 0px, $floyd-pink 2px, rgba(0,0,0,0) 2px, rgba(0,0,0,0)8px);
   // border-left: none;
   &.middle{
     border-top-width: 0;
