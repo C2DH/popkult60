@@ -18,9 +18,15 @@ $floyd-orange: #ee7236;
 $floyd-orange-c: #ffe920;
 $floyd-indaco: #0279b4;
 $floyd-indaco-c: #ce291d;
-$floyd-pink: #ee578d;
+$floyd-pink: #f95421;//#ee578d;
+
+$red-orange-color-wheel: #f95421;
+$blanched-almond: #ffeacc;
+$celadon-green: #1f7e77;
+$pewter-blue: #95b1b5;
+$rich-black-FOGRA-29: #121821;
 // $floyd-pink-c: #37ffd1;
-$floyd-pink-c: rgb(160,202,74);
+$floyd-pink-c: #ffeacc;// rgb(160,202,74);
 $floyd-dark: #41061b;
 
 @import "fonts";
@@ -29,7 +35,7 @@ html, body{
   height: 100%;
 }
 body{
-  background-color: $floyd-pink-c;
+  background-color: $blanched-almond; // $floyd-pink-c;
   color: $floyd-pink;
   font-family: Helvetica, sans-serif;
   font-size: 15px;

@@ -1,8 +1,8 @@
 ---
 permalink: /publications/
 link: /publications/
-layout: page
-title: publications
+layout: publications
+title: Publications
 subheading: "Popkult60: A closer look at popular culture in Europe over the long decade of the 1960s"
 lang: en
 ---
