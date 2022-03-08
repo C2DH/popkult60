@@ -7,7 +7,7 @@ ordering: 9
 ---
 
 - Komplexe und spannungsreiche Beziehung zwischen Kultur und Ökonomie
-- Wechselseitige Durchdringung von Popuärkultur- und Marktsphäremie
+- Wechselseitige Durchdringung von Popuärkultur- und Marktsphäre
 - Zusammenspiel von Kreativität, Aneignung und Kommodität in der Populärkultur
 - Ökonomisierung der Kultur in die Kultur-und Medieninstitutionen, sowie in künstlerische Milieus, Sub-und Gegenkulturen
-- Kulturalisierung von Produkt konomien wie auch für eine Kommodifizierung von Kultur.
+- Kulturalisierung von Produktökonomien wie auch für eine Kommodifizierung von Kultur.
