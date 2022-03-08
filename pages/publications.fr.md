@@ -1,7 +1,7 @@
 ---
 permalink: /fr/publications/
 link: /publications/
-layout: page
+layout: publications
 title: publications
 subheading: "Popkult60: un examen plus approfondi de la culture populaire des longues années 1960"
 lang: fr

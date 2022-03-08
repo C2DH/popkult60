@@ -1,7 +1,7 @@
 ---
 permalink: /de/publications/
 link: /publications/
-layout: page
+layout: publications
 title: Publikationen
 subheading: "Popkult60: der Populärkultur der langen 1960er Jahre auf der Spur"
 lang: de
