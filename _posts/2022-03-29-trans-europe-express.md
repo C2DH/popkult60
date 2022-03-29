@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Workshop: Trans-Europe-Express. Verbreitung populärer Musik in Europa der 'langen' 160er Jahren"
+title: "Workshop: Trans-Europe-Express. Verbreitung populärer Musik in Westeuropa der 'langen' 160er Jahren"
 category: event
 cover:
   url: /assets/images/plakat-trans-europe-express.jpg
