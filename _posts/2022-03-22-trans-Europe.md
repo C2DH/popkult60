@@ -10,6 +10,7 @@ authors:
 tags:
   - workshop
   - populäre Musik
+  
 ---
 
 Die Forschungsgruppe organisiert in Kooperation mit der Université Lille und der Université Paris-Créteil vom 11. bis zum 14. Mai 2022 den Workshop "Trans-Europe-Express. Verbreitung populärer Musik in Europa der langen 1960er Jahren".
