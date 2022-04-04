@@ -63,6 +63,20 @@
   url: "https://www.uni-saarland.de/lehrstuhl/zeitgeschichte/hueser.html"
   CV: /assets/pdf/Hüser-CV-publi.pdf
   category: team
+
+-
+    role: phd
+    id: matthias-hoefer
+    name: Matthias Höfer
+    description:
+      fr: "**Matthias Höfer** est doctorant au Centre for Contemporary and Digital History (C²DH) à Luxembourg, où il étudie, dans le cadre du projet PopKult60, la publicité pour les appareils techniques tels que les téléviseurs, les tourne-disques et les radios des années 1960 en Allemagne, en France et au Luxembourg. Il s'intéresse surtout à l'histoire des médias et de la communication. Il a terminé son master d'histoire à l'université de Bamberg en 2021 avec une thèse sur les rituels de pénitence publics au 13ième siècle, en se concentrant sur leur rôle comme formes de communication publique et de résolution de conflits dans une société semi-orale. Il a également obtenu un bachelor en histoire et en sciences de la communication en 2019. Dans sa thèse de bachelor, il a étudié un événement médiatique transnational pendant la guerre de Sept Ans"
+      en: "**Matthias Höfer** is a PhD researcher at the Centre for Contemporary and Digital History (C²DH) in Luxembourg, were he works with advertisements from 1960s Germany, France and Luxembourg for technical devices like televisions, record players and radios in affiliation with the PopKult60 project. His interest mainly lies within the field of media and communication history. He obtained his master’s in history at the University of Bamberg in 2021 with a thesis about public rituals of penance in the 13th century, focusing on their role as public forms of communication and conflict-resolution in a semi-oral society. He also completed a bachelor’s in history and communication science in 2019. His bachelor’s thesis investigated a transnational media-event during the Seven Years’ War."
+      de: "**Matthias Höfer** ist Doktorand am Centre for Contemporary and Digital History (C²DH) in Luxemburg, wo er sich im Rahmen des PopKult60-Projekts mit Werbung für technische Geräte wie Fernseher, Plattenspieler und Radios aus den 1960er Jahren in Deutschland, Frankreich und Luxemburg beschäftigt. Sein Interesse liegt vor allem im Bereich der Medien- und Kommunikationsgeschichte. Sein Masterstudium der Geschichte an der Universität Bamberg schloss er 2021 mit einer Arbeit über öffentliche Bußrituale im 13. Jahrhundert ab, wobei er sich auf deren Rolle als öffentliche Kommunikations- und Konfliktlösungsformen in einer semi-oralen Gesellschaft konzentrierte. Außerdem schloss er 2019 einen Bachelor in Geschichte und Kommunikationswissenschaft ab. In seiner Bachelorarbeit untersuchte er ein transnationales Medienereignis während des Siebenjährigen Krieges."
+    email: matthias.hoefer@uni.lu
+    thumbnail: /assets/images/matthias-hoefer.jpeg
+    CV: /assets/pdf/Hoefer-CV-publi.pdf
+    category: team
+
 -
   role: professor
   id: sonja-kmec
@@ -77,6 +91,7 @@
   CV: /assets/pdf/Kmec-CV-publi.pdf
   category: team
 -
+
   role: phd
   id: ann-kristin-kurberg
   name: Ann-Kristin Kurberg
@@ -88,6 +103,7 @@
   thumbnail: /assets/images/Ann-Kristin-Kurberg.JPG
   CV: /assets/pdf/Kurberg-CV-publi.pdf
   category: team
+
 -
   role: phd
   id: richard-legay
@@ -183,6 +199,33 @@
   category: team
 
 -
+
+  role: phd
+  id: antonia-schlotter
+  name: Antonia Schlotter
+  description:
+    fr: "Antonia Schlotter a étudié l'histoire et l'archéologie de 2014 à 2021 ainsi qu'une maîtrise en histoire avec une spécialisation en histoire de l'Europe de l'Est à l'Université Johannes Gutenberg de Mayence. Dans son mémoire de maîtrise, elle a traité des causes et des manifestations des émeutes du choléra dans l'Empire russe au XIXe siècle. Depuis 2016, elle travaille dans diverses chaires et à l'Académie des sciences et de la littérature de Mayence en tant qu'étudiante et assistante de recherche et depuis 2020 sur la conception d'une exposition muséale sur le thème 'Cinéma à la campagne - Histoire des médias ruraux du début du XXe siècle à ce jours'. Outre l'histoire sociale, culturelle et médicale, ses intérêts de recherche portent également sur l'histoire des médias. Depuis mars 2022, elle se vouer à l'histoire transnationale des jeux de société des années 1960 et 1970."
+    en: "Antonia Schlotter studied from 2014-2021 history and archeology and got a master's degree in history with a focus on Eastern European history at the Johannes Gutenberg University in Mainz. In her master's thesis she dealt with the causes and manifestations of the cholera riots in the Russian Empire in the 19th century. Since 2016 she has worked at various chairs at the university and at the Academy of Sciences and Literature Mainz as a student and research assistant and since 2020 on the conception of a museum exhibition on the topic 'Cinema in the Countryside - Rural Media History from the early 20th century to the present day'. In addition to social, cultural and medical history, her research interests also lie in media history. Since March 2022 she has devoted herself to the transnational history of board games of the 1960s and 1970s."
+    de: "Antonia Schlotter studierte von 2014-2021 Geschichte und Archäologie sowie im Master Geschichte mit dem Schwerpunkt auf der osteuropäischen Geschichte an der Johannes Gutenberg-Universität Mainz. In ihrer Masterarbeit beschäftigte sie sich mit den Ursachen und Erscheinungsformen der Cholera-Unruhen im Russländischen Reich des 19. Jahrhunderts. Seit 2016 arbeitete sie an verschiedenen Lehrstühlen sowie der Akademie der Wissenschaften und der Literatur Mainz als studentische und wissenschaftliche Hilfskraft und seit 2020 an der Konzeption einer Museumsausstellung zum Thema 'Kino auf dem Land – Ländliche Mediengeschichte vom frühen 20. Jahrhundert bis heute'. Neben sozial-, kultur- und medizingeschichtlichen Themen liegen ihre Forschungsinteressen auch in der Mediengeschichte. Seit März 2022 widmet sie sich der transnationalen Geschichte des Gesellschaftsspiels der 60er und 70er Jahre."
+  email: antonia.schlotter@uni-saarland.de
+  thumbnail: /assets/images/schlotter.jpeg
+  CV: /assets/pdf/schlotter-CV-publi.pdf
+  category: team
+
+-
+
+  role: phd
+  id: sylvi-siebler
+  name: Sylvi Siebler
+  description:
+    fr: "De 2013 à 2017, **Sylvi Siebler** a étudié l’histoire et la communication interculturelle à l’Université de la Sarre. Elle a ensuite suivi, de 2017 à 2020, le cursus Histoire comparée de l'époque moderne, spécialité Europe de l'Ouest, à l'Université de Fribourg-en-Brisgau. En 2020, elle a obtenu un master en histoire avec un mémoire sur les images des résistantes et collaboratrices dans la série historique Un Village Français. De 2020 à 2022, elle a travaillé comme assistante scientifique au Pôle France de l’Université de la Sarre (rédaction et organisation d'événements). Outre les milieux alternatifs de gauche et le mouvement des communes, ses intérêts de recherche portent sur l'histoire des femmes et du genre ainsi que sur la représentation de l'histoire dans les médias populaires, notamment dans les films et les séries."
+    en: "**Sylvi Siebler** studied History, French Cultural Studies and Intercultural Communication at Saarland University from 2013 to 2017 and Comparative Modern History with a focus on Western Europe at the University of Freiburg from 2017 to 2020. She wrote her master’s thesis on the topic ‘Between Résistance and Collaboration. Images of Women in the TV Series Un Village Français’. From 2020 to 2022, she worked as a research assistant at the Frankreichzentrum / Pôle France of Saarland University, as both an editor and event organiser. Her research interests include left-wing alternative milieus and the commune movement, women's and gender history, and the representation of history in popular media, especially films and series."
+    de: "**Sylvi Siebler** studierte von 2013 bis 2017 an der Universität des Saarlandes Geschichte, Interkulturelle Kommunikation und Französische Kulturwissenschaft sowie von 2017 bis 2020 Vergleichende Geschichte der Neuzeit mit dem Schwerpunkt Westeuropa an der Albert-Ludwigs-Universität Freiburg. Ihre Masterarbeit schrieb sie zum Thema „Zwischen Résistance und Kollaboration. Frauenbilder in der TV-Serie Un Village Français (2009–2017)“. Von 2020 bis 2022 arbeitete sie als wissenschaftliche Mitarbeiterin im Frankreichzentrum der Universität des Saarlandes (Redaktion und Veranstaltungsorganisation). Ihre Forschungsaktivitäten konzentrieren sich auf das linke Alternativmilieu und die Kommunebewegung, Frauen- und Gendergeschichte sowie Geschichtsdarstellung in populären Medien, insbesondere in Film und Serien."
+  thumbnail: /assets/images/siebler.jpeg
+  CV: /assets/pdf/siebler-CV-publi.pdf
+  category: team
+
+-
   role: associate member
   id: vitus-sproten
   name: Vitus Sproten
@@ -195,6 +238,20 @@
   url: "https://www.c2dh.uni.lu/people/vitus-sproten"
   CV: /assets/pdf/Sproten-CV-publi.pdf
   category: former-team
+
+-
+
+  role: phd
+  id: laura-steil
+  name: Laura Steil
+  description:
+    fr: "**Laura Steil** est une anthropologue culturelle (PhD, EPHE, 2015) qui s'intéresse à la danse et à la musique populaires, à la stratification sociale, à la mémoire culturelle et à la migration dans des contextes (sub)urbains. Elle expérimente des méthodes de recherche incarnées, sensorielles et numériques. Elle est actuellement chercheuse postdoctorale au Centre d'histoire contemporaine et numérique (C²DH) et examine les cultures de danse et de musique d'Esch-sur-Alzette après la Seconde Guerre mondiale dans le cadre du projet de recherche FNR-DFG Popkult60. Elle est la présidente francophone de PoP Moves, un réseau international de recherche sur les performances du populaire. Son premier livre intitulé Boucan. Devenir quelqu'un dans le milieu afro est paru en 2021 aux Presses Universitaires du Midi."
+    en: "**Laura Steil** is a cultural anthropologist (PhD, EPHE, 2015) interested in popular dance and music, social stratification, cultural memory, and migration in (sub)urban contexts. She experiments with embodied, sensory, and digital research methods. She is currently a postdoctoral researcher at the Centre for Contemporary and Digital History (C²DH) and examines the dance and music cultures of post-WWII Esch-sur-Alzette in the context of the FNR-DFG Popkult60 research project. She is the francophone chair of PoP Moves, an international research network on performances of the popular. Her first book entitled Boucan. Devenir quelqu’un dans le milieu afro was published in 2021 at the Presses Universitaires du Midi."
+    de: "**Laura Steil** ist Kulturanthropologin (PhD, EPHE, 2015) und interessiert sich für populären Tanz und Musik, soziale Schichtung, kulturelles Gedächtnis und Migration in (sub)urbanen Kontexten. Sie experimentiert mit verkörperten, sensorischen und digitalen Forschungsmethoden. Derzeit ist sie Postdoktorandin am Centre for Contemporary and Digital History (C²DH) und untersucht die Tanz- und Musikkulturen von Esch-sur-Alzette nach dem Zweiten Weltkrieg im Rahmen des FNR-DFG-Forschungsprojekts Popkult60. Sie ist die französischsprachige Vorsitzende von PoP Moves, einem internationalen Forschungsnetzwerk zu Performances des Populären. Ihr erstes Buch mit dem Titel Boucan. Devenir quelqu'un dans le milieu afro wurde 2021 bei den Presses Universitaires du Midi veröffentlicht."
+  thumbnail: /assets/images/steil.jpeg
+  CV: /assets/pdf/steil-CV-publi.pdf
+  category: team
+
 -
   role: professor
   id: christoph-vatter
