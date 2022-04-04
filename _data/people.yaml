@@ -156,6 +156,19 @@
   url: "http://www.kmg.uni-saarland.de/personen/am.html"
   CV: /assets/pdf/Maldener-CV-publi.pdf
   category: team
+
+-
+  role: phd
+  id: sonja-malzner
+  name: Sonja Malzner
+  description:
+    fr: "**Sonja Malzner**, maitresse de conférence à l’Université de Rouen, fait actuellement partie du groupe de recherche popkult60 via un rattachement de quatre ans en tant que postdoc à l’Université du Luxembourg. Elle travaille sur l’histoire culturelle, notamment dans le domaine des relations entre l’Europe et l’Afrique (post)coloniale ainsi que sur des questions d‘intermédialité. Son projet actuel porte sur les expressions populaires du discours touristique sur l’Océan Indien à l’époque des indépendances en France, en Allemagne et en Grande Bretagne. Dernière publication (réalisée avec Sandie Attia): Sur les traces du colonialisme. Le Fonds Polényk en textes et en images. Saint Denis de la Réunion, PUI, février 2022."
+    en: "**Sonja Malzner**, maitresse de conférence at the University of Rouen, is currently part of the popkult60 research group via a four-year postdoc attachment at the University of Luxembourg. She works on cultural history, particularly in the field of relations between Europe and (post)colonial Africa, as well as on questions of intermediality. Her current project focuses on popular expressions of tourism discourse on the Indian Ocean at the time of independence in France, Germany and Great Britain. Latest publication (with Sandie Attia): Sur les traces du colonialisme. Le Fonds Polényk en textes et en images. Saint Denis de la Réunion, PUI, février 2022"
+    de: "**Sonja Malzner**, maitresse de conférence an der Université de Rouen, ist derzeit Teil der Forschungsgruppe popkult60 über eine vierjährige Anbindung als Postdoc an der Universität Luxemburg. Sie arbeitet im Bereich der Kulturgeschichte, insbesondere im Bereich der Beziehungen zwischen Europa und dem (post-)kolonialen Afrika, sowie zu Fragen der Intermedialität. Ihr aktuelles Projekt befasst sich mit den populären Ausdrucksformen des touristischen Diskurses über den Indischen Ozean zur Zeit der Unabhängigkeit in Frankreich, Deutschland und Großbritannien. Letzte Veröffentlichung (zusammen mit Sandie Attia): Sur les traces du colonialisme. Le Fonds Polényk en textes et en images. Saint Denis de la Réunion, PUI, février 2022."
+  thumbnail: /assets/images/malzner.jpeg
+  CV: /assets/pdf/malzner-CV-publi.pdf
+  category: team
+
 -
   role: associate member
   id: jasmin-nicklas
