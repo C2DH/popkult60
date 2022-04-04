@@ -23,6 +23,20 @@
   thumbnail: /assets/images/Jessica-Burton.JPG
   CV: /assets/pdf/Burton-CV-publi.pdf
   category: team
+
+-
+    role: phd
+    id: veronique-faber
+    name: Véronique Faber
+    description:
+      fr: "**Véronique Faber** est doctorante au Centre d'histoire contemporaine et numérique (C2DH) à Luxembourg. Elle se concentre sur le national, le transrégional et le transnational dans la culture populaire foraine au Luxembourg, sous la supervision du Prof. Dr. Machteld Venken. Elle est titulaire d'un M. Phil. en anthropologie sociale et études africaines de l'Université de Vienne et d'un diplôme supérieur en administration des arts de l'University College Dublin."
+      en: "**Véronique Faber** is a PhD candidate at the Centre for Contemporary and Digital History (C2DH) in Luxembourg, focusing on the national, the transregional and the transnational in popular fairground culture in Luxembourg, under the supervision of Prof. Dr. Machteld Venken. She holds a M. Phil. in Social Anthropology and African studies from the University of Vienna and a Higher Diploma in Arts Administration from the University College Dublin."
+      de: "**Véronique Faber** ist Doktorandin am Centre for Contemporary and Digital History (C2DH) in Luxemburg und beschäftigt sich unter der Leitung von Prof. Dr. Machteld Venken mit dem Nationalen, dem Transregionalen und dem Transnationalen in der populären Jahrmarktskultur in Luxemburg. Sie hat einen M. Phil. in Sozialanthropologie und Afrikastudien an der Universität Wien und ein Higher Diploma in Arts Administration am University College Dublin erworben."
+    email: veronique.faber@uni.lu
+    thumbnail: /assets/images/veronique-faber.jpeg
+    CV: /assets/pdf/Faber-CV-publi.pdf
+    category: team
+
 -
   role: professor
   id: andreas-fickers

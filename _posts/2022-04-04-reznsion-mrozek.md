@@ -3,7 +3,7 @@ layout: post
 title: "Rezension: Bodo Mrozek, Jugend – Pop – Kultur.Eine transnationale Geschichte, 2019"
 category: event
 cover:
-  url: /assets/images/fluhg.jpeg
+  url: /assets/images/mrozek.jpeg
   mode: portrait
 authors:
   - Andreas Fickers
