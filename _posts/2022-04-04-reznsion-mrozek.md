@@ -12,7 +12,7 @@ tags:
   - jugend
 ---
 
-Rezension von **Andreas Fickers**: Bodo Mrozek: Jugend - Pop - Kultur. Eine transnationale Geschichte (= suhrkamp taschenbuch wissenschaft; 2237), Berlin: Suhrkamp 2019, 866 S. ISBN 978-3-518-29837-4.
+Rezension von **Andreas Fickers**: Bodo Mrozek: Jugend - Pop - Kultur. Eine transnationale Geschichte (=suhrkamp taschenbuch wissenschaft; 2237), Berlin: Suhrkamp 2019, 866 S. ISBN 978-3-518-29837-4.
 
 <!-- more -->
 
