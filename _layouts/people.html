@@ -16,18 +16,26 @@ layout: default
         {% endif %}
         <div class="col-sm-6 col-lg-4">
           <div class="field person">
+            {% if person.url %}
             <a href="{{person.url}}" target="_blank">
+            {% endif %}
             <div class="cover-wrapper">
               <div class="cover" style="background-size: 50%;background-image: url({{absolute_url}});background-repeat:repeat;">
 
               </div>
             </div>
+            {% if person.url %}
             </a>
+            {% endif %}
             <div class="metadata p-3">
               <h2>
-                <a href="{{person.url}}" target="_blank">
+                {% if person.url %}
+                  <a href="{{person.url}}" target="_blank">
+                    <span>{{person.name}}</span>
+                  </a>
+                {% else %}
                   <span>{{person.name}}</span>
-                </a>
+                {% endif %}
               </h2>
               <h3>{% assign key=person.role %}{% include t.html %}</h3>
               {% capture description %}
