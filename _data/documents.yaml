@@ -12,9 +12,9 @@
     id: Maude-podcast
     thumbnail: /assets/images/covers-fr-dt.jpg
     title:
-    type: youtube
+    type: vimeo
     layout: iframe
-    src: "https://www.youtube.com/embed/Az-XOl12VaM"
+    src: "https://player.vimeo.com/video/707686175"
     aspectratio: aspect-4-3
 
 -
@@ -39,16 +39,16 @@
     id: Jessica-podcast
     thumbnail: /assets/images/tintin.png
     title:
-    type: youtube
+    type: vimeo
     layout: iframe
-    src: "https://www.youtube.com/embed/a8l8_lQVvyk"
+    src: "https://player.vimeo.com/video/707686702"
     aspectratio: aspect-4-3
 
 -
     id: Ann-Kristin-podcast
     thumbnail: /assets/images/telesalon.jpg
     title:
-    type: youtube
+    type: vimeo
     layout: iframe
     src: "https://www.youtube.com/embed/eywaZF_rz5I"
     aspectratio: aspect-4-3
@@ -57,9 +57,9 @@
     id: Benoit-podcast
     thumbnail: /assets/images/comic-cover.jpg
     title:
-    type: youtube
+    type: vimeo
     layout: iframe
-    src: "https://www.youtube.com/embed/ob5Qf6D5vYc"
+    src: "https://player.vimeo.com/video/707693177"
     aspectratio: aspect-4-3
 
 -
@@ -84,9 +84,9 @@
     id: SR-podcast
     thumbnail: /assets/images/SR-Interview.png
     title:
-    type: youtube
+    type: vimeo
     layout: iframe
-    src: "https://www.youtube.com/embed/uDYRYAdN__k"
+    src: "https://player.vimeo.com/video/707693072"
     aspectratio: aspect-4-3
 
 -
@@ -110,9 +110,9 @@
     id: melanie-podcast
     thumbnail: /assets/images/melanie-podcast.jpg
     title:
-    type: youtube
+    type: vimeo
     layout: iframe
-    src: "https://www.youtube.com/embed/BNBY3k8AK4A"
+    src: "https://player.vimeo.com/video/707688630"
     aspectratio: aspect-4-3
 
 -
@@ -121,7 +121,7 @@
     title:
     type: vimeo
     layout: iframe
-    src: "https://player.vimeo.com/video/337319979"
+    src: "https://player.vimeo.com/video/707689386"
     aspectratio: aspect-4-3
 
 -
@@ -130,7 +130,7 @@
     title:
     type: vimeo
     layout: iframe
-    src: "https://player.vimeo.com/video/337726830"
+    src: "https://player.vimeo.com/video/707688046"
     aspectratio: aspect-4-3
 
 -
@@ -157,5 +157,5 @@
   title:
   type: vimeo
   layout: iframe
-  src: "https://player.vimeo.com/video/475555009"
+  src: "https://player.vimeo.com/video/707692636"
   aspectratio: aspect-4-3
