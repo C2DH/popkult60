@@ -159,3 +159,13 @@
   layout: iframe
   src: "https://player.vimeo.com/video/707692636"
   aspectratio: aspect-4-3
+
+
+-
+  id: altefans-neuefans
+  thumbnail: /assets/images/altefans.jpg
+  title:
+  type: vimeo
+  layout: iframe
+  src: "https://player.vimeo.com/video/707691422"
+  aspectratio: aspect-4-3
