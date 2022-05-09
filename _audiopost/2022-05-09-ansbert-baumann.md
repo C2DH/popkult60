@@ -1,6 +1,6 @@
 ---
 layout: audiopost
-title:  Podcast on Juliette Gréco in Germany during the 60s
+title:  Podcast on Fussballfans during the 60s
 category: podcast
 cover:
   document: altefans-neuefans  
