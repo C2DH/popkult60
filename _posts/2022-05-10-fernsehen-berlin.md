@@ -13,7 +13,7 @@ tags:
   - Land
 ---
 
-Maude Williams ist auf die Spuren des französischen Fernsehens in West-Berlin von 1964 bis 1983 gegangen.
+**Maude Williams** ist auf die Spuren des französischen Fernsehens in West-Berlin von 1964 bis 1983 gegangen.
 
 <!-- more -->
 
