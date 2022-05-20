@@ -95,7 +95,7 @@
     title:
     type: youtube
     layout: iframe
-    src: "https://www.youtube.com/embed/4VECYm3OuAY"
+    src: "https://player.vimeo.com/video/711645306"
     aspectratio: aspect-4-3
 
 -
