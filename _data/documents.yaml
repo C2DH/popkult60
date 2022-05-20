@@ -169,3 +169,12 @@
   layout: iframe
   src: "https://player.vimeo.com/video/707691422"
   aspectratio: aspect-4-3
+
+-
+  id: tourismus-malzner
+  thumbnail: /assets/images/tourismus-malzner.jpeg
+  title:
+  type: vimeo
+  layout: iframe
+  src: "https://player.vimeo.com/video/710381777"
+  aspectratio: aspect-4-3
