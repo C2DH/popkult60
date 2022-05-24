@@ -50,7 +50,7 @@
     title:
     type: vimeo
     layout: iframe
-    src: "https://www.youtube.com/embed/eywaZF_rz5I"
+    src: "https://player.vimeo.com/video/713207059"
     aspectratio: aspect-4-3
 
 -
