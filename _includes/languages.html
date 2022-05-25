@@ -7,9 +7,9 @@
     {% for lang in site.languages %}
       <a class='dropdown-item {% if lang == page.lang %} active {% endif %}'
           {% if lang == site.default_lang %}
-            href='{{page.link | absolute_url}}'
+            href='{{site.absolute_base_url}}{{page.link}}'
           {% else %}
-            href='{{lang | absolute_url}}{{page.link}}'
+            href='{{site.absolute_base_url}}/{{lang}}{{page.link}}'
           {% endif %}>{% assign key=lang %}{% include t.html%}</a>
     {% endfor %}
   </div>
