@@ -178,3 +178,20 @@
   layout: iframe
   src: "https://player.vimeo.com/video/710381777"
   aspectratio: aspect-4-3
+
+-
+  id: faber
+  thumbnail: /assets/images/faber-podcast.jpg
+  title:
+  type: vimeo
+  layout: iframe
+  src: "https://player.vimeo.com/video/720975409"
+  aspectratio: aspect-4-3
+-
+  id: hoefer
+  thumbnail: /assets/images/hoefer.jpg
+  title:
+  type: vimeo
+  layout: iframe
+  src: "https://player.vimeo.com/video/720969837"
+  aspectratio: aspect-4-3
