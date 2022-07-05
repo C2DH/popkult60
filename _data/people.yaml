@@ -116,7 +116,7 @@
   thumbnail: /assets/images/Richard-Legay.JPG
   url: "https://www.c2dh.uni.lu/de/people/richard-legay"
   CV: /assets/pdf/Legay-CV-publi.pdf
-  category: team
+  category: former-team
 -
   role: post-doc
   id: gunter mahlerwein
@@ -155,7 +155,7 @@
   thumbnail: /assets/images/Aline-Maldener.JPG
   url: "http://www.kmg.uni-saarland.de/personen/am.html"
   CV: /assets/pdf/Maldener-CV-publi.pdf
-  category: team
+  category: former-team
 
 -
   role: post-doc
