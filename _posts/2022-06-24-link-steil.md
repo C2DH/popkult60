@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""
+title: "Laura Steil’s Dancing Esch case-study"
 category: event
 cover:
   url: /assets/images/steil-dancing.jpeg
