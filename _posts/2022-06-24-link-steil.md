@@ -3,14 +3,14 @@ layout: post
 title: ""
 category: event
 cover:
-  url: /assets/images/
+  url: /assets/images/steil-dancing.jpeg
   mode: portrait
 authors:
   - Laura Steil
 tags:
   - dancings
   - Esch sur Alzette
-  
+
 ---
 
 **Laura Steil’s Dancing Esch case-study** is a micro-historical project focusing on popular festivities and social dance, in the industrial border town of Esch-sur-Alzette, Luxembourg.
