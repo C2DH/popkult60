@@ -292,6 +292,19 @@
   thumbnail: /assets/images/Julia-Wack.JPG
   CV: /assets/pdf/Wack-CV-publi.pdf
   category: team
+
+-
+  role: phd
+  id: marie-kollek
+  name: Marie Kollek
+  description:
+    fr: "**Marie Kollek** a étudié la sociologie comparative internationale (MA), les sciences politiques (BA & MA) et l'islamologie (BA) à la Christian-Albrechts-Universität zu Kiel, à l'Université d'Aberdeen et à l'Université de Bretagne Occidentale. Elle a terminé ses études en 2020 avec une thèse sur les constructions identitaires et l'antiféminisme des auteurs d'attentats terroristes de droite. Ses domaines de prédilection sont la recherche sur le discours, la théorie postcoloniale ainsi que les perspectives critiques du pouvoir et poststructuralistes. Depuis 2022, elle est doctorante dans le projet DFG/FNR 'Postkoloniale Popkulturen in Belgien, Deutschland und Frankreich. Sur la représentation de l'Afrique subsaharienne dans l'ensemble médiatique de la longue période des années 1960 dans le contexte de la décolonisation'."
+    en: "**Marie Kollek** studied International Comparative Sociology (MA), Political Science (BA & MA) and Islamic Studies (BA) at the Christian-Albrechts-Universität zu Kiel, the University of Aberdeen and the Université de Bretagne Occidentale. She graduated in 2020 with a thesis on identity constructions and antifeminisms of right-wing terrorist assassins. Her focus is on discourse research, postcolonial theory, and power-critical and poststructuralist perspectives. Since 2022, she has been a doctoral candidate in the DFG/FNR project 'Postcolonial Pop Cultures in Belgium, Germany and France. On the Representation of Sub-Saharan Africa in the Media Ensemble of the Long 1960s in the Context of Decolonisation'."
+    de: "**Marie Kollek** studierte International vergleichende Soziologie (MA), Politikwissenschaft (BA & MA) und Islamwissenschaft (BA) an der Christian-Albrechts-Universität zu Kiel, der University of Aberdeen und der Université de Bretagne Occidentale. Ihr Studium schloss sie 2020 mit einer Arbeit zu Identitätskonstruktionen und Antifeminismen rechtsterroristischer Attentäter ab. Ihre Schwerpunkte sind Diskursforschung, Postkoloniale Theorie sowie machtkritische und poststrukturalistische Perspektiven. Seit 2022 ist sie Doktorandin im DFG/FNR Projekt ‚Postkoloniale Popkulturen in Belgien, Deutschland und Frankreich. Zur Repräsentation Subsahara-Afrikas im Medienensemble der langen 1960er Jahre im Kontext der Dekolonialisierung‘"
+  email: marie.kollek@uni-jena.de
+  thumbnail: /assets/images/marie-kollek.jpeg
+  CV: /assets/pdf/Kollek-CV-publi.pdf
+  category: team
 -
   role: post-doc
   id: maude-williams
