@@ -19,6 +19,9 @@ footer{
   }
   .img-wrapper{
     border-bottom: 2px solid;
+    a {
+      border-bottom: none;
+    }
     a:hover{
       border-width: 0;
     }
