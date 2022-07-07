@@ -66,6 +66,7 @@
   url: "https://c2dh.uni.lu/people/andreas-fickers"
   CV: /assets/pdf/Fickers-CV-publi.pdf
   category: team
+
 -
   role: professor
   id: dietmar-hueser
@@ -146,6 +147,7 @@
   url: "https://www.c2dh.uni.lu/de/people/richard-legay"
   CV: /assets/pdf/Legay-CV-publi.pdf
   category: former-team
+
 -
   role: post-doc
   id: gunter mahlerwein
@@ -159,6 +161,7 @@
   url: "http://www.kmg.uni-saarland.de/personen/gm.html"
   CV: /assets/pdf/Mahlerwein-CV-publi.pdf
   category: team
+
 -
   role: professor
   id: benoit-majerus
@@ -172,6 +175,7 @@
   url: "https://www.c2dh.uni.lu/people/benoit-majerus"
   CV: /assets/pdf/Benoit-CV-publi.pdf
   category: former-team
+  
 -
   role: phd
   id: aline-maldener
