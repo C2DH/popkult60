@@ -10,7 +10,7 @@
   thumbnail: /assets/images/Melanie-Bardian.JPG
   url: "https://www.uni-saarland.de/lehrstuhl/hueser/mitarbeiter/melanie-bardian.html"
   CV: /assets/pdf/Bardian-CV-publi.pdf
-  category: team
+  category: associate-members
 
 -
   role: phd
@@ -209,7 +209,7 @@
   thumbnail: /assets/images/Jasmin-Nicklas.JPG
   url: "https://www.uni-saarland.de/lehrstuhl/hueser/mitarbeiter/jasmin-nicklas.html"
   CV: /assets/pdf/Nicklas-CV-publi.pdf
-  category: team
+  category: associate-members
 
 -
   role: professor
