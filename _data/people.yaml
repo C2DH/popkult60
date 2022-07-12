@@ -13,6 +13,19 @@
   category: associate-members
 
 -
+  role: post-doc
+  id: ansbert-baumann
+  name: Ansbert Baumann
+  description:
+    fr: "**Ansbert Baumann** Après des études d'histoire, d'histoire de l'art et de langues romanes à Tübingen et à Grenoble, il a été chargé de programme pour le master franco-allemand des universités de Tübingen et d'Aix-en-Provence et a obtenu son doctorat en 2001 avec une thèse sur les aspects politico-culturels du traité de l'Élysée. Depuis 2003, il est maître de conférences au Seminar für Zeitgeschichte de l'université de Tübingen, et depuis 2006 à Sciences Po Paris, Collège universitaire à Nancy. Depuis 2017, il est chercheur à la chaire d'histoire contemporaine européenne de l'Université de la Sarre."
+    en: "**Ansbert Baumann** After studying history, art history and Romance languages and literature in Tübingen and Grenoble, he was programme officer for the German-French Master's programme at the universities of Tübingen and Aix-en-Provence and received his doctorate in 2001 with a thesis on the cultural-political aspects of the Elysée Treaty. He has been a lecturer at the Seminar for Contemporary History at the University of Tübingen since 2003 and at Sciences Po Paris, Collège universitaire à Nancy since 2006. Since 2017, he has been a research assistant at the Chair of European Contemporary History at Saarland University."
+    de: "**Ansbert Baumann** war nach dem Studium der Geschichte, Kunstgeschichte und Romanistik in Tübingen und Grenoble Programmreferent des deutsch-französischen Magisterstudiengangs der Universitäten Tübingen und Aix-en-Provence und promovierte 2001 mit einer Arbeit über die kulturpolitischen Aspekte des Elysée-Vertrags. Seit 2003 ist er Dozent am Seminar für Zeitgeschichte der Universität Tübingen, seit 2006 an der Sciences Po Paris, Collège universitaire à Nancy. Seit 2017 ist er wissenschaftlicher Mitarbeiter am Lehrstuhl für Europäische Zeitgeschichte der Universität des Saarlandes."
+  email: gifba01@uni-tuebingen.de
+  thumbnail: /assets/images/ansbert-baumann.jpeg
+  CV: /assets/pdf/Baumann-CV-publi.pdf
+  category: team
+
+-
   role: phd
   id: jessica-burton
   name: Jessica Burton
