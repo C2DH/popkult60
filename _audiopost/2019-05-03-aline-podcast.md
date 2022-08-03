@@ -1,6 +1,6 @@
 ---
 layout: audiopost
-title:  Podcast on Jugendmedien
+title:  Transnationalität populärer Jugendkultur
 category: podcast
 cover:
   document: aline-podcast

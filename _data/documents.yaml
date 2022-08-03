@@ -195,3 +195,30 @@
   layout: iframe
   src: "https://player.vimeo.com/video/720969837"
   aspectratio: aspect-4-3
+
+-
+  id: kollek
+  thumbnail: /assets/images/kolllek-podcast.png
+  title:
+  type: vimeo
+  layout: iframe
+  src: "https://player.vimeo.com/video/736068225"
+  aspectratio: aspect-4-3
+
+-
+  id: baumann
+  thumbnail: /assets/images/baumann-2.jpg
+  title:
+  type: vimeo
+  layout: iframe
+  src: "https://player.vimeo.com/video/736118189"
+  aspectratio: aspect-4-3
+
+-
+  id: siebler
+  thumbnail: /assets/images/siebler-podcast.jpg
+  title:
+  type: vimeo
+  layout: iframe
+  src: ""
+  aspectratio: aspect-4-3

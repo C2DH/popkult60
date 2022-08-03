@@ -1,6 +1,6 @@
 ---
 layout: audiopost
-title:  Podcast on Amateurfilme der 60er Jahre
+title:  Amateurfilme der 60er Jahre
 category: podcast
 cover:
   document: julia-wack-podcast

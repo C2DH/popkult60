@@ -1,6 +1,6 @@
 ---
 layout: audiopost
-title:  Podcast on Music
+title:  Champ musical Europe
 category: podcast
 cover:
   document: Maude-podcast  

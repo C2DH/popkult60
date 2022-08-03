@@ -1,6 +1,6 @@
 ---
 layout: audiopost
-title:  Podcast on Amerika an der Saar (1957-1983)
+title:  Amerika an der Saar (1957-1983)
 category: podcast
 cover:
   document: melanie-podcast

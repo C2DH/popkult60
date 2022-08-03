@@ -1,6 +1,6 @@
 ---
 layout: audiopost
-title:  Podcast on Boris Vian, Le déserteur
+title:  Boris Vian, Le déserteur
 category: podcast
 cover:
   document: MW-podcast-vian  

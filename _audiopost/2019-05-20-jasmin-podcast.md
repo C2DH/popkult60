@@ -1,6 +1,6 @@
 ---
 layout: audiopost
-title:  Podcast on VW Käfer und Ente auf dem Weg zu Kultobjekten
+title:  VW Käfer und Ente auf dem Weg zu Kultobjekten
 category: podcast
 cover:
   document: jasmin-podcast

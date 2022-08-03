@@ -1,6 +1,6 @@
 ---
 layout: audiopost
-title:  Podcast on Kinderfilmserien der 60er Jahre
+title:  Kinderfilmserien der 60er Jahre
 category: podcast
 cover:
   document: gunter-podcast

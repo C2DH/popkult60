@@ -1,6 +1,6 @@
 ---
 layout: audiopost
-title:  Podcast on Footballfans during the 60s
+title:  Footballfans during the 60s
 category: podcast
 cover:
   document: altefans-neuefans  
