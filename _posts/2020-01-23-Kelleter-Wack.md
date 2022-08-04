@@ -8,10 +8,7 @@ cover:
 authors:
   - Julia Wack
 tags:
-  - workshop
-  - Serialität
-  - event
-  - unterhaltung
+  - report
 ---
 Für den 7. Workshop der Forschungsgruppe Popkult60 kam am 16. Januar 2020 Frank Kelleter, Professor für Nordamerikanische Kultur und Einstein-Professor für nordamerikanische Kulturgeschichte am John-F.-Kennedy-Institut der Freien Universität Berlin an die Universität des Saarlandes. In seinem Vortrag sprach er von **"Pseudo-Ereignisse und Serienkunst: Nico zwischen La Dolce Vita und Andy Warhols Factory"**
 
