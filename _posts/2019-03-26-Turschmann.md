@@ -5,7 +5,7 @@ category: event
 cover:
   url: /assets/images/plakat-4-workshop.jpg'
 tags:
-  - workshop
+  - events
 author:
   - Maude Williams
   - Jörg Türschmann

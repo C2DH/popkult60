@@ -8,8 +8,7 @@ cover:
 authors:
   - Maude Williams
 tags:
-  - workshop
-  - populäre Musik
+  - events
 
 ---
 

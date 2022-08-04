@@ -5,9 +5,7 @@ category: event
 cover:
   url: /assets/images/Flyer-4-workshop.jpg
 tags:
-  - workshop
-  - events
-  - Mainstream-Avant-Garde
+  - report
 autors:
   - Ann-Kristin Kurberg
   - Aline Maldener

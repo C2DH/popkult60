@@ -6,12 +6,9 @@ cover:
   url: /assets/images/moneurope.jpeg
   mode: portrait
 authors:
-  - Gunter Mahlerwein
-  - Clemens Zimmermann
+  - Maude Williams
 tags:
-  - Publikation
-  - Fernsehserien
-  - Kinderserien
+  - tagung
 ---
 
 Maude Williams wird am 27. Oktober im Rahmen vom Projekt "Mein Europa" über Frankreich und das französische Chanson sprechen.

@@ -9,8 +9,7 @@ authors:
   - Gunter Mahlerwein
   - Clemens Zimmermann
 tags:
-  - Fernsehen
-  - Land
+- events
 ---
 
 Tagung **"Das Dorf im Fernsehen"**, organisiert von der Gesellschaft für Agrargeschichte, **Gunter Mahlerwein** und **Clemens Zimmermann** (22.06.-24.06.2022)

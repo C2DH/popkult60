@@ -5,7 +5,7 @@ category: event
 cover:
   url: /assets/images/SR-Interview.png
 tags:
-  - interview
+  - press
 author:
  - Jessica Burton
  - Gunter Mahlerwein

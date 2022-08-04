@@ -8,8 +8,7 @@ cover:
 authors:
   - Laura Steil
 tags:
-  - dancings
-  - Esch sur Alzette
+  - press
 
 ---
 

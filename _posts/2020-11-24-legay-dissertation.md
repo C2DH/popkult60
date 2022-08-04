@@ -8,7 +8,7 @@ cover:
 authors:
   - Richard Legay
 tags:
-  - Thesis
+  - thesis
 ---
 
 **Richard Legay**, successfully defended his thesis "Commercial radio stations and their dispositif. Transnational and intermedial perspectives on Radio Luxembourg and Europe n°1 in the Long Sixties" on 10th November 2020 in Campus Belval, Luxembourg (DHLab, Maison des Sciences Humaines). Congratulations!

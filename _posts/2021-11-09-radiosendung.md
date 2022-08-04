@@ -8,9 +8,7 @@ cover:
 authors:
   - Clemens Zimmermann
 tags:
-  - Interview
-  - Stadt
-  - Land
+  - press
 
 ---
 

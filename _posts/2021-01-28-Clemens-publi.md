@@ -8,7 +8,7 @@ cover:
 authors:
   - Clemens Zimmermann
 tags:
-  - buch
+  - publication
 
 ---
 

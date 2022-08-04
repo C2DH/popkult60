@@ -5,7 +5,7 @@ category: event
 cover:
   url: /assets/images/tamagne.jpeg
 tags:
-  - workshop
+  - report
 author:
   - Maude Williams
   - Jörg Türschmann

@@ -6,14 +6,12 @@ category: event
 cover:
   url: /assets/images/Affiche-Siegfried.jpg
 tags:
-  - paper
-  - workshop
-  - youth
+  - events
 authors:
   - Maude Williams
 ---
 
-Popgeschichte als Gesellschaftsgeschichte
+**Popgeschichte als Gesellschaftsgeschichte**
 
 Zum Eröffnungsvortrag der neugegründeten deutsch-luxemburgischen DFG-Forschungsgruppe "Populärkultur transnational - Europa in den langen 1960er Jahren" setzte sich Detlef Siegfried (University of Copenhagen) mit der Historiographie von Populärkultur auseinander und skizzierte mögliche Forschungsperspektiven. Nach vielen Jahren von Desinteresse an Populärkultur in der Wissenschaft rückt dieses Forschungsfeld seit Anfang der 2000er näher in den Blick der Kultur-, Medien- und Geschichtswissenschaftler.
 

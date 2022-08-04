@@ -8,7 +8,7 @@ cover:
 authors:
   - Maude Williams
 tags:
-  - buch
+  - publication
 
 ---
 

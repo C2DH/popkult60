@@ -5,9 +5,7 @@ category: event
 cover:
   url: /assets/images/image-richard.jpg
 tags:
-  - workshop
   - events
-  - Generation-Generationalität
 autors:
   - Richard Legay
 ---

@@ -5,7 +5,7 @@ category: event
 cover:
   url: /assets/images/podcast.jpg
 tags:
-  - Projekt
+  - press
 author:
   - Dietmar Hüser
   - Christoph Vatter

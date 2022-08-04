@@ -8,7 +8,7 @@ tags:
   - comics
   - article
 autors:
-  - Jessica Burton
+  - publication
 ---
 
 *Jessica Burton* published a new article about "A coordinated Europeanization of the Comics Industry through Distribution. the Politics of the Global Journey of Asterix and Tintin through the strategic Distribution of their Magazines and Contents in the 1960s"

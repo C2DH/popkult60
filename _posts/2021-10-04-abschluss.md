@@ -8,9 +8,7 @@ cover:
 authors:
   - Maude Williams
 tags:
-  - workshop
-  - Kick Off
-  - Abschlusstagung
+  - events
 ---
 
 **Vom 20. bis zum 22. Oktober 2021 findet die Abschlusstagung und Kick-Off Veranstaltung der Forschungsgruppe Popkult60 an der Universität des Saarlandes!
