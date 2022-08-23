@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Veröffentlichung "Frauen am Ball"
+title: "Veröffentlichung: Frauen am Ball"
 category: event
 cover:
   url: /assets/images/frauenfussball.jpeg
