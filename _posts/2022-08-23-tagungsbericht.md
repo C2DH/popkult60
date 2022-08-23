@@ -8,7 +8,7 @@ cover:
 authors:
   - Antonia Schlotter
 tags:
-  - publication
+  - tagung
 ---
 
 Vom 22.06. bis zum 24.06.2022 fand die Tagung **"Das Dorf im Fernsehen"**, organisiert von der Gesellschaft für Agrargeschichte, **Gunter Mahlerwein** und **Clemens Zimmermann** statt. Sie lesen einen Bericht von **Antonia Schlotter**.
