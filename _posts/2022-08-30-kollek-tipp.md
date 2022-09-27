@@ -8,7 +8,7 @@ cover:
 authors:
   - Marie kollek
 tags:
-  - tagung
+  - rezension
 
 ---
 
