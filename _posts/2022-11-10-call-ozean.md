@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Call For Paper 'Populäre Repräsentationen des Indischen Ozeans im Kontext der Dekolonisierung (1950er bis 1970er Jahre)''"
+title: "Call For Paper 'Populäre Repräsentationen des Indischen Ozeans im Kontext der Dekolonisierung (1950er bis 1970er Jahre)'"
 category: event
 cover:
   url: /assets/images/seychelles.jpeg
