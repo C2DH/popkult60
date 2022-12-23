@@ -8,7 +8,7 @@ cover:
 authors:
   - Laura Steil
 tags:
-  - press
+  - press report
 
 ---
 
