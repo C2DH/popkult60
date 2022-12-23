@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Call For Paper: Popular Representations of the Indian Ocean during the Independence Era (1950s-1970s)" (7.-9 September 2023)
+title: Call For Paper: Popular Representations of the Indian Ocean during the Independence Era (1950s-1970s) (7.-9 September 2023)
 category: event
 cover:
   url: /assets/images/seychelles.jpeg
