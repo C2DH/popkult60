@@ -3,7 +3,7 @@ layout: post
 title: "Press report: Tanzrausch an der Grenze! - Dancing des années 1950-1960 - Pistes de danse et de réflexion"
 category: event
 cover:
-  url: /assets/images/
+  url: /assets/images/steil-press-report.jpeg
   mode: portrait
 authors:
   - Laura Steil
