@@ -222,3 +222,20 @@
   layout: iframe
   src: "https://player.vimeo.com/video/738163367"
   aspectratio: aspect-4-3
+
+-
+  id: mahlerwein
+  thumbnail: /assets/images/mahlerwein-podcast.jpg
+  title:
+  type: vimeo
+  layout: iframe
+  src: "https://player.vimeo.com/video/794111438"
+  aspectratio: aspect-4-3
+-
+  id: schlotter
+  thumbnail: /assets/images/schlotter-podcast.jpg
+  title:
+  type: vimeo
+  layout: iframe
+  src: ""
+  aspectratio: aspect-4-3
