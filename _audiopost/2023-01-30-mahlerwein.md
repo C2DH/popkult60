@@ -3,7 +3,7 @@ layout: audiopost
 title:  Folk open Air
 category: podcast
 cover:
-  document: mahlerwein-podcast
+  document: mahlerwein
 tags:
   - Folkmusik
 authors:
