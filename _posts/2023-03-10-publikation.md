@@ -13,9 +13,13 @@ tags:
 
 ---
 
-**Publikationt**
+**Publikation**
 
-Begleitend zur Ausstellung „Lichtspiele – Landkino in Rheinhessen“ gewährt die Broschüre einen Überblick zur Kinogeschichte, die sich vom ersten Cinématographe der Gebrüder Lumière bis zu den Streaming-Diensten unserer Gegenwart erstreckt. Ein Medium, das nicht nur für sich selbst steht, sondern verwoben ist mit der Geschichte technischer Innovationen, Architektur, Modernität und Modernisierung, wie auch wirtschaftlichen und politischen Entwicklungen und Einflussnahmen. Dies zeigt, dass das Kino nicht losgelöst vom Geschehen außerhalb seiner Wände betrachtet werden kann.
+Begleitend zur Ausstellung „Lichtspiele – Landkino in Rheinhessen“ gewährt die Broschüre einen Überblick zur Kinogeschichte, die sich vom ersten Cinématographe der Gebrüder Lumière bis zu den Streaming-Diensten unserer Gegenwart erstreckt.
+
+<!-- more -->
+
+Ein Medium, das nicht nur für sich selbst steht, sondern verwoben ist mit der Geschichte technischer Innovationen, Architektur, Modernität und Modernisierung, wie auch wirtschaftlichen und politischen Entwicklungen und Einflussnahmen. Dies zeigt, dass das Kino nicht losgelöst vom Geschehen außerhalb seiner Wände betrachtet werden kann.
 
 In den sich stets wandelnden Filmproduktionen und der veränderten Praxis des Kinobesuchs bildeten und bilden sich gesamtgesellschaftliche Phänomene ab und spiegeln den jeweiligen Zeitgeist wider. Im Mittelpunkt der Ausstellung stehen die bundesdeutschen 1950er Jahre – das Jahrzehnt, in dem das Kino sowohl seinen Höhepunkt erlebte, aber auch zum Ende des Jahrzehnts das ‚Kinosterben‘ einsetzte.
 
