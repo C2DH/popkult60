@@ -34,24 +34,30 @@ museum-vg-eich.de
 Begleitprogramm:
 
 Freitag, 24. März 2023 20 Uhr
+
 Vortrag Jasmin Gröninger/Antonia Schlotter
+
 „Ins Kino gehen. Dorfkino der fünfziger Jahre in Rheinhessen“
 
 Sonntag, 2. April 2023 16.30 Uhr
+
 Vortrag Dr. Gunter Mahlerwein
+
 „Programmkino auf dem Land? Filmabende in ländlichen Jugendzentren in den 1970er und 1980er Jahren“
 
 Freitag, 14. April 2023 20 Uhr
+
 Vortrag Prof. Dr. Clemens Zimmermann
+
 „Eine kleine Geschichte des Land- und Kleinstadtkinos. Von den 1920er Jahren bis heute“
 
 Freitag, 21. April 2023 20 Uhr
+
 Kino im Museum: „Sie tanzte nur einen Sommer“
+
 Einführung: Antonia Schlotter
 
-Als Begleitpublikation erscheint
-Antonia Schlotter: Lichtspiele. Landkino in Rheinhessen
-(mit einem Beitrag von Jasmin Gröninger)
+Als Begleitpublikation erscheint: Antonia Schlotter: Lichtspiele. Landkino in Rheinhessen (mit einem Beitrag von Jasmin Gröninger)
 
 Die Ausstellung ist vom 12. März bis zum 7. Mai 2023 im Museum der VG Eich, im Storchenschulhaus, Hauptstr.10, in Gimbsheim zu sehen. Am Ostersonntag, 9. April 2023, ist das Museum geschlossen.
 Öffnungszeiten : Sonntags 14.00 Uhr bis 18.00 Uhr und nach telefonischer Vereinbarung :06249 6394 oder 4684.
