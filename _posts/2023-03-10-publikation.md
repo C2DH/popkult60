@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Publikation zur Ausstellung: Lichtspiele Landkino in Rheinessen"
+title: "Publikation zur Ausstellung: Lichtspiele Landkino in Rheinhessen"
 category: event
 cover:
   url: /assets/images/cover-landhessen.jpg
