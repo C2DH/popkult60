@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""
+title: "Fo'er an de Sixties: Vu Boxeren a Fritten"
 category: event
 cover:
   url: /assets/images/veronique.jpeg
@@ -10,10 +10,6 @@ authors:
 tags:
   - events
 ---
-
-**Fo'er an de Sixties: Vu Boxeren a Fritten**
-
-
 Die **Schobermesse** in den 1960er Jahren steht im Mittelpunkt des nächsten vom C2DH organisiertem Forum Z. Dieser jährliche Jahrmarkt in Luxemburg-Stadt ist zugleich eine der empirischen Fallstudien im Rahmen des Popkult60 Projekts.
 
 <!-- more -->
