@@ -3,7 +3,7 @@ layout: post
 title: "Fo'er an de Sixties: Vu Boxeren a Fritten"
 category: event
 cover:
-  url: /assets/images/veronique.jpg
+  url: /assets/images/veronique.jpeg
   mode: portrait
 authors:
   - Véronique Faber
