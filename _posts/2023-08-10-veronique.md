@@ -10,11 +10,12 @@ authors:
 tags:
   - events
 ---
+
 Die **Schobermesse** in den 1960er Jahren steht im Mittelpunkt des nächsten vom C2DH organisiertem Forum Z. Dieser jährliche Jahrmarkt in Luxemburg-Stadt ist zugleich eine der empirischen Fallstudien im Rahmen des Popkult60 Projekts.
 
 <!-- more -->
 
-Der Forum Z ermöglicht den Austausch zwischen Forschung und Publikum Es werden erste Forschungsschwerpunkte mit ZeitzeugInnen präsentiert – Menschen, die in den langen 1960er auf dem Jahrmarkt gearbeitet haben, sie besucht haben und die heute aktive beteiligt sind.    
+Der **Forum Z** ermöglicht den Austausch zwischen Forschung und Publikum Es werden erste Forschungsschwerpunkte mit ZeitzeugInnen präsentiert – Menschen, die in den langen 1960er auf dem Jahrmarkt gearbeitet haben, sie besucht haben und die heute aktive beteiligt sind.    
 
 Gemeinsam mit dem Publikum werden wir die Erlebnisse einer Schobermesse in den 1960er Jahren erkunden und die damalige Popularität thematisieren. Besondere Aufmerksamkeit gilt den Unterschieden zur heutigen Zeit.
 
