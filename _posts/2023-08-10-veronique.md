@@ -26,14 +26,15 @@ Um die Diskussion festzuhalten, erfolgt eine grafische Live-Visualisierung auf e
 
 **Samstag, 9. September 2023**
 9h30 – 11h30, im Restaurant „An der Flesch“ auf der Schobermesse
-Einleitung von Ass.-Prof. Dr. Denis Scuto (C²DH)
- Diskussion:
-•	Véronique Faber (C²DH)
-•	Anicet Schmit (Lampertsbierger Geschichtsfrënn)
-•	Liette Majerus (eh. Centre d’Acceuil pour enfants des forains)
-•	Charles Hary (Fédération Nationale des Commerçants Forains)
-•	Laurent Schwaller (SERVICE ESPACE PUBLIC, FÊTES ET MARCHES der Stadt Luxemburg)
-•	Kyra Thelen (Luxemburg City Museum)
-Moderation: Magali Paulus, CELL
-Live-Visualisierung:  Dr. Katy Fox, Mycelium
- Mehr Information: https://www.c2dh.uni.lu/forum-z/foer-de-sixties-vu-boxeren-fritten
+Einleitung von Ass.-Prof. Dr. Denis Scuto (C²DH)  
+Diskussion:
+*	Véronique Faber (C²DH)
+*	Anicet Schmit (Lampertsbierger Geschichtsfrënn)
+*	Liette Majerus (eh. Centre d’Acceuil pour enfants des forains)
+*	Charles Hary (Fédération Nationale des Commerçants Forains)
+*	Laurent Schwaller (SERVICE ESPACE PUBLIC, FÊTES ET MARCHES der Stadt Luxemburg)
+*	Kyra Thelen (Luxemburg City Museum)
+
+Moderation: Magali Paulus, CELL  
+Live-Visualisierung:  Dr. Katy Fox, Mycelium  
+Mehr Information: <https://www.c2dh.uni.lu/forum-z/foer-de-sixties-vu-boxeren-fritten>
