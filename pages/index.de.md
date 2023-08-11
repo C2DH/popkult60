@@ -11,6 +11,8 @@ sentences:
 <!-- more -->
 Willkommen auf der Webseite der Forschungsgruppe **"Populärkultur Transnational – Europa in den langen 1960er Jahren"**, das von der Deutschen Forschungsgemeinschaft (DFG) und dem Fonds National de la Recherche (FNR) in Luxembourg gefördert wird.
 
+![Gruppenbild](/assets/images/gruppenbild-2.jpg)
+
 ![Gruppenbild](/assets/images/gruppenbild.jpg)
 
 Unsere interdisziplinäre Forschungsgruppe besteht aus Forschern des [Luxembourg Centre for Contemporary and Digital History (C²DH)](https://c2dh.uni.lu) und des [Institute for History (IHIST)](https://history.uni.lu/) an der [Université du Luxembourg](https://wwwen.uni.lu/), des Historischen Instituts ([Lehrstuhl für Europäische Zeitgeschichte](https://www.uni-saarland.de/lehrstuhl/zeitgeschichte/hueser.html) und [Lehrstuhl für Kultur- und Mediengeschichte](http://www.kmg.uni-saarland.de) der [Universität des Saarlandes](https://www.uni-saarland.de/nc/startseite.html) sowie aus dem [Bereich Interkulturelle Wirtschaftskommunikation](http://iwk-jena.uni-jena.de/) der Friedrich-Schiller-Universität Jena).

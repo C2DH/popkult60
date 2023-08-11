@@ -11,6 +11,8 @@ sentences:
 
 Bienvenue sur le site du projet de recherche **« Culture populaire transnationale - L'Europe dans les 'longues' années 1960 »** soutenu par la Deutsche Forschungsgemeinschaft (DFG) en Allemagne et le Fonds National de la Recherche (FNR) au Luxembourg.
 
+![Gruppenbild](/assets/images/gruppenbild-2.jpg)
+
 ![Gruppenbild](/assets/images/gruppenbild.jpg)
 
 Notre équipe interdisciplinaire est composée de chercheurs du [Luxembourg Centre for Contemporary and Digital History (C²DH)](https://c2dh.uni.lu), de l'[Institute for History (IHIST)](https://history.uni.lu/) de l’[Université du Luxembourg](https://wwwfr.uni.lu/) ainsi que de l'Historisches Institut ([Lehrstuhl für europäische Zeitgeschichte](https://www.uni-saarland.de/lehrstuhl/zeitgeschichte/hueser.html) et [Lehrstuhl für Mediengeschichte](http://www.kmg.uni-saarland.de)) de l’[Université de la Sarre](https://www.uni-saarland.de/nc/startseite.html) et du [Bereich Interkulturelle Wirtschaftskommunikation](http://iwk-jena.uni-jena.de/) de l'Université Friedrich-Schiller-Universität Jena).
