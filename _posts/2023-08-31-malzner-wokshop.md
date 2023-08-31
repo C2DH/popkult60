@@ -11,7 +11,7 @@ tags:
   - events
 ---
 
-Das internationale Kolloquium 'Populäre Repräsentationen des Indischen Ozeans im Kontext der Dekolonisierung (1950er bis 1970er Jahren)' organisiert von Corinne Duboin, Frédéric Garan und Sonja Malzner findet vom 7. bis 9. September 2023 statt.
+Das internationale Kolloquium **Populäre Repräsentationen des Indischen Ozeans im Kontext der Dekolonisierung (1950er bis 1970er Jahren)** organisiert von Corinne Duboin, Frédéric Garan und Sonja Malzner findet vom 7. bis 9. September 2023 statt.
 
 
 <!-- more -->
