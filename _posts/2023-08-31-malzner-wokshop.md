@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Colloque international: Popular Representations of the Indian Ocean during the Independence Era (1950s-1970s) 7.-9 September 2023"
+category: event
+cover:
+  url: /assets/images/malzner-workshop.jpeg
+  mode: portrait
+authors:
+  - sonja malzner
+tags:
+  - events
+---
+
+Das internationale Kolloquium 'Populäre Repräsentationen des Indischen Ozeans im Kontext der Dekolonisierung (1950er bis 1970er Jahren)' organisiert von Corinne Duboin, Frédéric Garan und Sonja Malzner findet vom 7. bis 9. September 2023 statt.
+
+
+<!-- more -->
+
+Das Programm finden Sie hier:
+
+[Call For Papers](../../../../assets/pdf/programme-malzner.pdf).
