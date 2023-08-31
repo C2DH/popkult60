@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Colloque international: Popular Representations of the Indian Ocean during the Independence Era (1950s-1970s) 7.-9 September 2023"
+title: "Internationale Kolloquium: Populäre Repräsentationen des Indischen Ozeans im Kontext der Dekolonisierung (1950er bis 1970er Jahren)"
 category: event
 cover:
-  url: /assets/images/malzner-workshop.jpeg
+  url: /assets/images/malzner-workshop.jpg
   mode: portrait
 authors:
   - sonja malzner
