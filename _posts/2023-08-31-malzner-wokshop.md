@@ -17,3 +17,5 @@ Das internationale Kolloquium **Populäre Repräsentationen des Indischen Ozeans
 <!-- more -->
 
 Das Programm finden Sie [hier](../../../../assets/pdf/programme-malzner.pdf).
+
+Die Broschüre mit mehr Details [hier](../../../../assets/pdf/livret.pdf).
