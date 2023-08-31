@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Internationale Kolloquium: Populäre Repräsentationen des Indischen Ozeans im Kontext der Dekolonisierung (1950er bis 1970er Jahren)"
+title: "Internationales Kolloquium: Populäre Repräsentationen des Indischen Ozeans im Kontext der Dekolonisierung (1950er bis 1970er Jahren)"
 category: event
 cover:
   url: /assets/images/malzner-workshop.jpg
