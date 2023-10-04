@@ -36,7 +36,7 @@
   email: jessica.burton@uni.lu
   thumbnail: /assets/images/Jessica-Burton.JPG
   CV: /assets/pdf/Burton-CV-publi.pdf
-  category: team
+  category: former-team
 
 -
   role: phd
@@ -336,7 +336,7 @@
   email: julia.wack@uni.lu
   thumbnail: /assets/images/Julia-Wack.JPG
   CV: /assets/pdf/Wack-CV-publi.pdf
-  category: team
+  category: former-team
 
 -
   role: post-doc
