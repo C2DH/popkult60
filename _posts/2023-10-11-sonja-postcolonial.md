@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bericht: Internationales Kolloquium: Populäre Repräsentationen des Indischen Ozeans im Kontext der Dekolonisierung (1950er bis 1970er Jahren)"
+title: "Bericht: Popkult60 goes postcolonial"
 category: event
 cover:
   url: /assets/images/malzner-workshop.jpg
