@@ -3,7 +3,7 @@ layout: post
 title: "Bericht: Popkult60 goes postcolonial"
 category: event
 cover:
-  url: /assets/images/malzner-workshop.jpg
+  url: /assets/images/bericht-malzner.jpeg
   mode: portrait
 authors:
   - sonja malzner
