@@ -4,6 +4,7 @@
 		"type": "article-journal",
 		"container-title": "ATeM",
 		"issue": "1",
+		"license": "All rights reserved",
 		"page": "1-15",
 		"title": "Das Protestlied „Le déserteur“ von Boris Vian: Wahrnehmung und Aneignung in Frankreich und in der Bundesrepublik Deutschland der 1960er Jahre",
 		"URL": "https://atem-journal.com/ojs2/index.php/ATeM/article/view/2020_1.05",
@@ -29,6 +30,7 @@
 		"collection-title": "Beiträge zur Popularmusikforschung",
 		"container-title": "One Nation under a Groove. 'Nation' als Kategorie populärer Musik",
 		"event-place": "Bielefeld",
+		"license": "All rights reserved",
 		"page": "75-100",
 		"publisher": "transkript",
 		"publisher-place": "Bielefeld",
@@ -165,12 +167,11 @@
 		"event-place": "Bielefeld",
 		"ISBN": "978-3-8394-5152-6",
 		"language": "de",
-		"note": "DOI: 10.1515/9783839451526\ncontainer-title: Macrons neues Frankreich / La nouvelle France de Macron",
+		"note": "DOI: 10.1515/9783839451526",
 		"publisher": "transcript Verlag",
 		"publisher-place": "Bielefeld",
 		"source": "www.degruyter.com",
 		"title": "Macrons neues Frankreich / La nouvelle France de Macron: Hintergründe, Reformansätze und deutsch-französische Perspektiven / Contextes, ébauches de réforme et perspectives franco-allemandes",
-		"title-short": "Macrons neues Frankreich / La nouvelle France de Macron",
 		"URL": "https://www.degruyter.com/document/doi/10.1515/9783839451526/html",
 		"editor": [
 			{
@@ -2067,6 +2068,7 @@
 		"event-place": "Villeneuve d'Ascq",
 		"ISBN": "978-2-7574-2122-2",
 		"language": "fr",
+		"license": "OpenEdition Licence for Books",
 		"note": "container-title: Américanisations et anti-américanismes comparés",
 		"page": "175-197",
 		"publisher": "Presses universitaires du Septentrion",
@@ -2303,6 +2305,7 @@
 		"DOI": "10.11588/frrec.2019.4.68527",
 		"ISSN": "2425-3510",
 		"language": "de",
+		"license": "Copyright (c) 0",
 		"source": "journals.ub.uni-heidelberg.de",
 		"title": "Nicole Colin, Joachim Umlauf, Im Schatten der Versöhnung. Deutsch-französische Kulturmittler im Kontext der europäischen Integration, Göttingen (Steidl) 2018; Nicole Colin, Patrick Farges, Fritz Taubert (Hg.), Annäherung durch Konflikt: Mittler und Vermittlung, Heidelberg (Synchron) 2017",
 		"title-short": "Nicole Colin, Joachim Umlauf, Im Schatten der Versöhnung. Deutsch-französische Kulturmittler im Kontext der europäischen Integration, Göttingen (Steidl) 2018; Nicole Colin, Patrick Farges, Fritz Taubert (Hg.), Annäherung durch Konflikt",
@@ -3060,6 +3063,27 @@
 			"date-parts": [
 				[
 					"2021"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2245357/items/8P79GGSW",
+		"type": "article-journal",
+		"container-title": "Zeitschrift für die Geschichte Rheinhessens",
+		"page": "125–163",
+		"title": "Kinokultur auf dem Land. Die Gimbsheimer Lichtspiele in den 1950er Jahren",
+		"volume": "2",
+		"author": [
+			{
+				"family": "Schlotter",
+				"given": "Antonia"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2023"
 				]
 			]
 		}
