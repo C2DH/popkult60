@@ -152,11 +152,14 @@ layout: default
       const sortedItems = items.map((item, idx) => ({
         ...item,
         idx
-      })).sort(window.reactFacets.sortFn({
+      }))/*.sort(window.reactFacets.sortFn({
         by: 'year',
         direction: 0,
         dimensions,
-      }))
+      }))*/
+      //  2023/10/24 - fre - Sort from newest to oldest
+      .sort((a, b) => !a.issued ? 1 : !b.issued ? -1 : a.issued['date-parts'][0] < b.issued['date-parts'][0] ? 1 : a.issued['date-parts'][0] > b.issued['date-parts'][0] ? -1 : 0)
+
       const onSelect = (name, indices) => {
         console.debug('[App] @onFacetSelectHandler', name, indices)
         // values and value
