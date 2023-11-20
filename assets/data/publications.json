@@ -3087,5 +3087,26 @@
 				]
 			]
 		}
+	},
+	{
+		"id": "http://zotero.org/groups/2245357/items/IKS9UI4W",
+		"type": "article-journal",
+		"container-title": "Zeitgeschichte",
+		"issue": "3",
+		"title": "R.I.P. - Transnational Historical Amateur Film Memorials of the Revival and Decline of the Industries Uniting the Greater Region",
+		"volume": "50",
+		"author": [
+			{
+				"family": "Wack",
+				"given": "Julia"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2023"
+				]
+			]
+		}
 	}
 ]
