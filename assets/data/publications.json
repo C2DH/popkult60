@@ -3108,5 +3108,67 @@
 				]
 			]
 		}
+	},
+	{
+		"id": "http://zotero.org/groups/2245357/items/GQ56DXX3",
+		"type": "book",
+		"edition": "palgrave macmilan",
+		"event-place": "Cham",
+		"publisher-place": "Cham",
+		"title": "The Cultural Histories of Radio Luxembourg and Europe n°1",
+		"author": [
+			{
+				"family": "Legay",
+				"given": "Richard"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2023"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2245357/items/V5SRXR6V",
+		"type": "chapter",
+		"container-title": "Zeitgeschichte transnational: Politik - Gesellschaft - Kultur - Sport in Deutschland, Frankreich und Europa. Festschrift für Dietmar Hüser",
+		"event-place": "Stuttgart",
+		"ISBN": "978-3-515-13562-7",
+		"language": "de",
+		"note": "Google-Books-ID: 9d9Z0AEACAAJ",
+		"page": "175-192",
+		"publisher": "Steiner Franz Verlag",
+		"publisher-place": "Stuttgart",
+		"source": "Google Books",
+		"title": "‘Ein bisschen Goethe, ein bisschen Bonaparte’. Deutsch-französischer Transfer populärer Musik in den langen 1960er-Jahren",
+		"editor": [
+			{
+				"family": "Didion",
+				"given": "Philipp"
+			},
+			{
+				"family": "May",
+				"given": "Sarah Alyssa"
+			},
+			{
+				"family": "Nicklas",
+				"given": "Jasmin"
+			}
+		],
+		"author": [
+			{
+				"family": "Williams",
+				"given": "Maude"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2023"
+				]
+			]
+		}
 	}
 ]
