@@ -3170,5 +3170,143 @@
 				]
 			]
 		}
+	},
+	{
+		"id": "http://zotero.org/groups/2245357/items/5V6IYH2J",
+		"type": "article-journal",
+		"container-title": "Foro de profesores de E/LE",
+		"page": "191-205",
+		"title": "Series y comunidad LGTBIQ+ en el aula de ELE: una propuesta didáctica a través de contemporáneas series históricas",
+		"volume": "19",
+		"author": [
+			{
+				"family": "Vatter",
+				"given": "Christoph"
+			},
+			{
+				"family": "Lérida Muños",
+				"given": "Antonio"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2023"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2245357/items/5F5G8D7M",
+		"type": "chapter",
+		"container-title": "Dictionnaire des relations culturelles franco-allemandes depuis 1945",
+		"event-place": "Villeneuve d’Asq",
+		"page": "491-493",
+		"publisher": "Septentrion",
+		"publisher-place": "Villeneuve d’Asq",
+		"title": "Radio",
+		"author": [
+			{
+				"family": "Vatter",
+				"given": "Christoph"
+			}
+		],
+		"editor": [
+			{
+				"family": "Colin",
+				"given": "Nicole"
+			},
+			{
+				"family": "Defrance",
+				"given": ""
+			},
+			{
+				"family": "Pfeil",
+				"given": "Ulrich"
+			},
+			{
+				"family": "Umlauf",
+				"given": "Joachim"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2023"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2245357/items/67ABY2PE",
+		"type": "chapter",
+		"container-title": "Quotenkiller oder Qualitätsfernsehen? TV-Serien aus französisch- und spanischsprachigen Kulturräumen",
+		"event-place": "Wiesbaden",
+		"page": "343-357",
+		"publisher": "Spriger VS",
+		"publisher-place": "Wiesbaden",
+		"title": "Vom téléroman québécois zum frankophonen ‚Quality-TV‘. Frankokanadische Fernsehserien zwischen identitärer Affirmation und kultureller Diversität",
+		"author": [
+			{
+				"family": "Vatter",
+				"given": "Christoph"
+			},
+			{
+				"family": "Bobineau",
+				"given": "Julien"
+			},
+			{
+				"family": "Schleich",
+				"given": "Markus"
+			},
+			{
+				"family": "Türschmann",
+				"given": "Jörg"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2245357/items/J3RMW5DT",
+		"type": "chapter",
+		"container-title": "Télévision queer.",
+		"event-place": "Montréal",
+		"page": "75-86",
+		"publisher": "remue-ménage",
+		"publisher-place": "Montréal",
+		"title": "Représentations queer et imaginaires historiques dans les séries télévisées espagnoles",
+		"author": [
+			{
+				"family": "Vatter",
+				"given": "Christoph"
+			},
+			{
+				"family": "Lérida Muños",
+				"given": "Antonio"
+			}
+		],
+		"editor": [
+			{
+				"family": "Boni",
+				"given": "Marta"
+			},
+			{
+				"family": "Rouleau",
+				"given": "Joelle"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022"
+				]
+			]
+		}
 	}
 ]
