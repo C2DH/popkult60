@@ -11,7 +11,7 @@ tags:
   - publication
 ---
 
-Bald in jeder Buchhandlung: Gunter Mahlerwein, Räuber in Serie. Politisierte Serienhelden von Robin Hood bis Rinaldo Rinaldini in europäischen TV-Produktionen der 1950er bis 1970er Jahre
+Bald in jeder Buchhandlung: **Gunter Mahlerwein, Räuber in Serie. Politisierte Serienhelden von Robin Hood bis Rinaldo Rinaldini in europäischen TV-Produktionen der 1950er bis 1970er Jahre**
 
 <!-- more -->
 
