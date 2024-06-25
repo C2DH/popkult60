@@ -231,7 +231,7 @@
   layout: iframe
   src: "https://player.vimeo.com/video/794111438"
   aspectratio: aspect-4-3
-  
+
 -
   id: schlotter
   thumbnail: /assets/images/schlotter-podcast.jpg
@@ -239,4 +239,13 @@
   type: vimeo
   layout: iframe
   src: "https://player.vimeo.com/video/796269619"
+  aspectratio: aspect-4-3
+
+-
+  id: hardy
+  thumbnail: /assets/images/hardy-podcast.jpeg
+  title:
+  type: vimeo
+  layout: iframe
+  src: "https://player.vimeo.com/video/967850070"
   aspectratio: aspect-4-3
