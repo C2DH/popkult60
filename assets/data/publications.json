@@ -477,12 +477,12 @@
 	{
 		"id": "http://zotero.org/groups/2245357/items/6AATK3IJ",
 		"type": "chapter",
-		"container-title": "Sport-Arenen-Sport-Kulturen-Sport-Welten – Deutsch-französisch-europäische Perspektiven im \"langen\" 20. Jahrhundert",
+		"container-title": "Sport-Arenen - Sport-Kulturen - Sport-Welten / Arènes du sport - Cultures du sport - Mondes du sport, Deutsch-französisch-europäische Perspektiven im \"langen\" 20. Jahrhundert / Perspectives franco-allemandes et européennes dans le \"long\" XXe siècle",
 		"event-place": "Stuttgart",
-		"page": "im Erscheinen",
+		"page": "9-38",
 		"publisher": "Steiner",
 		"publisher-place": "Stuttgart",
-		"title": "'Aimez-vous toujours les stades?'- Ansätze, Themen und Perspektiven einer deutsch-französischen und europäischen Stadionforschung im \"langen\" 20. Jahrhundert",
+		"title": "\"Aimez-vous toujours les stades?\"- Ansätze, Themen und Perspektiven einer deutsch-französischen und europäischen Stadionforschung im \"langen\" 20. Jahrhundert",
 		"author": [
 			{
 				"family": "Hüser",
@@ -514,7 +514,7 @@
 		"issued": {
 			"date-parts": [
 				[
-					"2021"
+					"2022"
 				]
 			]
 		}
@@ -522,10 +522,10 @@
 	{
 		"id": "http://zotero.org/groups/2245357/items/9XK3W77D",
 		"type": "chapter",
-		"container-title": "Sport-Arenen-Sport-Kulturen-Sport-Welten – Deutsch-französisch-europäische Perspektiven im \"langen\" 20. Jahrhundert",
+		"container-title": "Sport-Arenen - Sport-Kulturen - Sport-Welten / Arènes du sport - Cultures du sport - Mondes du sport, Deutsch-französisch-europäische Perspektiven im \"langen\" 20. Jahrhundert / Perspectives franco-allemandes et européennes dans le \"long\" XXe siècle",
 		"event-place": "Stuttgart",
 		"language": "Deutsch",
-		"page": "im Erscheinen",
+		"page": "341-365",
 		"publisher": "Steiner",
 		"publisher-place": "Stuttgart",
 		"title": "Wankdorf II - Eine Berner Sport-Arena als pluraler Erinnerungsort im steten Re-Konstruktionsprozess 1954–2001",
@@ -552,7 +552,7 @@
 		"issued": {
 			"date-parts": [
 				[
-					"2021"
+					"2022"
 				]
 			]
 		}
@@ -2626,12 +2626,12 @@
 	{
 		"id": "http://zotero.org/groups/2245357/items/3FBRD523",
 		"type": "chapter",
-		"container-title": "Die Saar 1945-1955",
-		"event-place": "München",
-		"page": "im Erscheinen",
-		"publisher": "Oldenbourg",
-		"publisher-place": "München",
-		"title": "Sport und Politik – Der Saar-Staat 1945-1955",
+		"container-title": "Sport | Frankreich | Deutschland - Transnationale Perspektiven in Geschichte und Gegenwart / Sport | France | Allemagne - Histoire et présent dans une perspective transnationale",
+		"event-place": "Baden-Baden",
+		"page": "247-273",
+		"publisher": "Nomos",
+		"publisher-place": "Baden-Baden",
+		"title": "Sport-Macht-Politik - Der Saar-Fußball zwischen Deutschland und Frankreich in den Jahren des Völkerbundsmandats 1920-1935 und des Saar-Staats 1945-1955",
 		"author": [
 			{
 				"family": "Hüser",
@@ -2644,22 +2644,26 @@
 		],
 		"editor": [
 			{
-				"family": "Hudemann",
-				"given": "Rainer"
+				"family": "Hüser",
+				"given": "Dietmar"
 			},
 			{
-				"family": "Poidevin",
-				"given": "Raymond"
+				"family": "Didion",
+				"given": "Philipp"
 			},
 			{
-				"family": "Heinen",
-				"given": "Armin"
+				"family": "Gounot",
+				"given": "André"
+			},
+			{
+				"family": "Lämmer",
+				"given": "Manfred"
 			}
 		],
 		"issued": {
 			"date-parts": [
 				[
-					"2022"
+					"2024"
 				]
 			]
 		}
@@ -2667,9 +2671,9 @@
 	{
 		"id": "http://zotero.org/groups/2245357/items/FIWTERUW",
 		"type": "chapter",
-		"container-title": "Sport und das Heroische",
+		"container-title": "Sport und das Heroische in Moderne und Gegenwart",
 		"event-place": "Baden-Baden",
-		"page": "im Erscheinen",
+		"page": "64-86",
 		"publisher": "Ergon",
 		"publisher-place": "Baden-Baden",
 		"title": "Fritz Walter & Raymond Kopa, Franz Beckenbauer & Michel Platini - Zur relativen Persistenz von Sport-Helden-Parametern zwischen den 1950er und den 1980er Jahren",
@@ -2688,7 +2692,7 @@
 		"issued": {
 			"date-parts": [
 				[
-					"2021"
+					"2024"
 				]
 			]
 		}
@@ -4633,6 +4637,72 @@
 			"date-parts": [
 				[
 					"2022"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2245357/items/ZWZ5FKKP",
+		"type": "chapter",
+		"container-title": "Frauen am Ball / Filles en crampons. Geschichte(n) des Frauenfußballs in Deutschland, Frankreich und Europa / Histoire(s) du football féminin en Allemagne, en France et en Europe",
+		"event-place": "Bielefeld",
+		"page": "15-30",
+		"publisher": "Transcript",
+		"publisher-place": "Bielefeld",
+		"title": "\"Frauen am Ball\" - Die \"andere\" Geschichte des Fußballs in Deutschland, Frankreich und Europa",
+		"author": [
+			{
+				"family": "Hüser",
+				"given": "Dietmar"
+			}
+		],
+		"editor": [
+			{
+				"family": "Hüser",
+				"given": "Dietmar"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2245357/items/BXLLG5P5",
+		"type": "chapter",
+		"container-title": "L'Allemagne et au-delà. Festschrift für Hélène Miard-Delacroix",
+		"edition": "Steiner",
+		"event-place": "Stuttgart",
+		"page": "143-155",
+		"publisher-place": "Stuttgart",
+		"title": "Zum Scheitern einer sportpolitischen Europäisierung und Internationalisierung der Saarfrage im Fußball 1949-1954/55",
+		"author": [
+			{
+				"family": "Hüser",
+				"given": "Dietmar"
+			}
+		],
+		"editor": [
+			{
+				"family": "Bernier-Monod",
+				"given": "Agathe"
+			},
+			{
+				"family": "Dubslaff",
+				"given": "Etienne"
+			},
+			{
+				"family": "Dubslaff",
+				"given": "Valérie"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2024"
 				]
 			]
 		}
