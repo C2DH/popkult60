@@ -8,13 +8,10 @@ cover:
 authors:
   - Maude Williams
 tags:
-  - Publikationen
-
+  - publication
 ---
-****
 
 **Neue Publikationen zu Populärkultur!**
-
 
 <!-- more -->
 
