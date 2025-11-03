@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FNR Awards: Popkult60 - Winners of the Outstanding Scientific Achievement Award"
+title: "FNR Awards: Popkult60 - Winner of the Outstanding Scientific Achievement Award"
 category: event
 cover:
   url: /assets/images/FNR-awards.jpg
@@ -11,7 +11,7 @@ tags:
   - press
 
 ---
-**Outstanding Scientific Achievement Award**
+**Outstanding Scientific Achievement Award 2025**
 
 ****
 
