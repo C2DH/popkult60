@@ -15,4 +15,4 @@ tags:
 
 <!-- more -->
 
-Die Ergebnisse der Forschungsgruppe werden während diesen drei Tagen vorgestellt und diskutiert sowie neue Themen im Forschungsbereich vorgetragen.
+Die Ergebnisse der Forschungsgruppe werden während diesen drei Tagen vorgestellt und diskutiert und neue Themen im Forschungsbereich vorgetragen.
