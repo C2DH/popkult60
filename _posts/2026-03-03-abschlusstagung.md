@@ -11,7 +11,7 @@ tags:
   - events
 ---
 
-**Vom 15. bis zum 17. April 2026 findet die Abschlusstagung der Forschungsgruppe Popkult60 an der Luxembourg Universität statt!
+**Vom 15. bis zum 17. April 2026 findet die Abschlusstagung der Forschungsgruppe Popkult60 an der Luxembourg Universität statt!**
 
 <!-- more -->
 
