@@ -16,3 +16,6 @@ tags:
 <!-- more -->
 
 Die Ergebnisse der Forschungsgruppe werden während diesen drei Tagen vorgestellt und diskutiert und neue Themen von anderen Forschenden im Forschungsbereich vorgetragen.
+
+
+Das Programm mit mehr Details finden Sie [hier](../../../../assets/pdf/programm2026.pdf).
